@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "name": "Political Ideologies",
+      "concepts": [
+        {
+          "name": "Feminism",
+          "description": "A movement advocating for mutual respect and equal opportunities between sexes.",
+          "positive_aspect": "Promotes equality and challenges systemic sexism.",
+          "negative_aspect": "Can sometimes lead to polarizing or oversimplified narratives.",
+          "historical_context": "Emerging in the 19th century, feminism has evolved through multiple waves to address various forms of inequality.",
+          "modern_applications": "Pay equity initiatives, women's marches, and awareness campaigns.",
+          "reflection_questions": [
+            "What does equality mean to you?",
+            "How can we respect differences while striving for equality?"
+          ],
+          "related_concepts": ["Patriarchy", "Humanism", "Intersectionality"]
+        },
+        {
+          "name": "Communism",
+          "description": "An ideology aiming for shared ownership of resources and a classless society.",
+          "positive_aspect": "Encourages community and shared responsibilities.",
+          "negative_aspect": "Historically associated with authoritarianism and loss of personal freedoms.",
+          "historical_context": "Developed by Karl Marx and Friedrich Engels in the 19th century as a critique of capitalism.",
+          "modern_applications": "Worker-owned cooperatives, universal basic income discussions, and solidarity economies.",
+          "reflection_questions": [
+            "What would a truly classless society look like?",
+            "How can shared ownership coexist with personal freedoms?"
+          ],
+          "related_concepts": ["Socialism", "Anarchism", "Marxism"]
+        },
+        {
+          "name": "Capitalism",
+          "description": "An economic system based on private ownership and free markets.",
+          "positive_aspect": "Drives innovation and rewards individual effort.",
+          "negative_aspect": "Can lead to wealth inequality and exploitation.",
+          "historical_context": "Rooted in mercantilism and liberal economic theories of the 16th-18th centuries.",
+          "modern_applications": "Startups, global trade, and technological advancements.",
+          "reflection_questions": [
+            "What role should ethics play in market competition?",
+            "How can capitalism address wealth inequality?"
+          ],
+          "related_concepts": ["Free Market", "Consumerism", "Liberalism"]
+        }
+      ]
+    },
+    {
+      "name": "Philosophical Movements",
+      "concepts": [
+        {
+          "name": "Nondualism",
+          "description": "A philosophical and spiritual perspective that emphasizes the interconnectedness of all things, transcending dualities such as self and other.",
+          "positive_aspect": "Fosters a sense of unity, compassion, and freedom from ego-based suffering.",
+          "negative_aspect": "Can be challenging to integrate into practical daily life and may be misinterpreted as apathy.",
+          "historical_context": "Found in ancient traditions like Advaita Vedanta, Buddhism, and Taoism.",
+          "modern_applications": "Meditation practices, mindfulness teachings, and nondual therapy approaches.",
+          "reflection_questions": [
+            "What would life feel like if you saw no separation between yourself and others?",
+            "How can the idea of unity influence your actions and relationships?"
+          ],
+          "related_concepts": ["Advaita Vedanta", "Buddhism", "Taoism"]
+        }
+      ]
+    }
+  ]
+}
+
