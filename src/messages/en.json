@@ -969,6 +969,2027 @@
         "What is the relationship between art and truth?"
       ],
       "related_concepts": ["Art Theory", "Beauty", "Culture", "Creative Expression"]
+    },
+    {
+      "name": "Cognitive Science",
+      "tags": ["scientific", "interdisciplinary", "psychological"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Psychological Theories", "Research Methods"],
+      "year_emerged": 1950,
+      "aspects": {
+        "scientific": {
+          "description": "An interdisciplinary study of mind and intelligence, combining psychology, neuroscience, philosophy, and computer science.",
+          "key_features": [
+            "Mental processes",
+            "Neural computation",
+            "Information processing",
+            "Artificial intelligence"
+          ]
+        },
+        "methodological": {
+          "description": "Research approaches combining multiple disciplines to understand cognition and intelligence.",
+          "key_features": [
+            "Experimental methods",
+            "Computational modeling",
+            "Brain imaging",
+            "Behavioral studies"
+          ]
+        }
+      },
+      "core_description": "The scientific study of mind, intelligence, and consciousness through multiple disciplinary approaches.",
+      "positive_aspect": "Provides comprehensive understanding of cognition by combining multiple scientific perspectives.",
+      "negative_aspect": "Can be reductionist in approach and may oversimplify complex mental phenomena.",
+      "historical_context": "Emerged in the 1950s with the cognitive revolution, combining cybernetics, psychology, and computer science.",
+      "modern_applications": [
+        "AI development",
+        "Educational design",
+        "Human-computer interaction",
+        "Mental health treatment"
+      ],
+      "reflection_questions": [
+        "How do different levels of analysis contribute to understanding mind?",
+        "What is the relationship between brain and consciousness?",
+        "How can we bridge subjective experience and objective study?"
+      ],
+      "related_concepts": ["Psychology", "Neuroscience", "Artificial Intelligence", "Philosophy of Mind"]
+    },
+    {
+      "name": "Critical Race Theory",
+      "tags": ["legal", "social", "analytical"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Legal Frameworks", "Social Theories"],
+      "year_emerged": 1970,
+      "aspects": {
+        "theoretical": {
+          "description": "A theoretical framework examining how race and racism intersect with various social systems.",
+          "key_features": [
+            "Systemic analysis",
+            "Intersectionality",
+            "Power relations",
+            "Social construction"
+          ]
+        },
+        "practical": {
+          "description": "Applied analysis of racial dynamics in institutions and social structures.",
+          "key_features": [
+            "Legal analysis",
+            "Policy critique",
+            "Institutional reform",
+            "Social justice"
+          ]
+        }
+      },
+      "core_description": "An analytical framework examining how racial power and privilege operate within social systems and institutions.",
+      "positive_aspect": "Provides tools for understanding and addressing systemic racial inequities.",
+      "negative_aspect": "Can be politically polarizing and sometimes misinterpreted or oversimplified.",
+      "historical_context": "Emerged from critical legal studies in the 1970s, expanding to broader social analysis.",
+      "modern_applications": [
+        "Legal analysis",
+        "Policy development",
+        "Educational reform",
+        "Institutional assessment"
+      ],
+      "reflection_questions": [
+        "How do race and power interact in social systems?",
+        "What role do institutions play in maintaining racial hierarchies?",
+        "How can theoretical understanding lead to practical change?"
+      ],
+      "related_concepts": ["Critical Theory", "Intersectionality", "Social Justice", "Legal Theory"]
+    },
+    {
+      "name": "Systems Thinking",
+      "tags": ["methodological", "analytical", "interdisciplinary"],
+      "primary_category": "Methodological Frameworks",
+      "secondary_categories": ["Scientific Methods", "Analytical Frameworks"],
+      "year_emerged": 1940,
+      "aspects": {
+        "theoretical": {
+          "description": "A way of understanding complex systems through their interconnections and patterns.",
+          "key_features": [
+            "Holistic analysis",
+            "Feedback loops",
+            "Emergent properties",
+            "Dynamic relationships"
+          ]
+        },
+        "practical": {
+          "description": "Applied methods for analyzing and managing complex systems.",
+          "key_features": [
+            "Systems mapping",
+            "Causal analysis",
+            "Intervention points",
+            "Pattern recognition"
+          ]
+        }
+      },
+      "core_description": "An approach to understanding complex systems by examining patterns, relationships, and contexts rather than isolated parts.",
+      "positive_aspect": "Enables understanding of complex problems and identifies effective intervention points.",
+      "negative_aspect": "Can be overwhelming in complexity and may make decision-making more complicated.",
+      "historical_context": "Developed from cybernetics and general systems theory in the 1940s and 50s.",
+      "modern_applications": [
+        "Environmental management",
+        "Organizational design",
+        "Urban planning",
+        "Policy development"
+      ],
+      "reflection_questions": [
+        "How do parts of a system influence the whole?",
+        "What role do feedback loops play in system behavior?",
+        "How can we effectively intervene in complex systems?"
+      ],
+      "related_concepts": ["Complexity Theory", "Cybernetics", "Holism", "Network Theory"]
+    },
+    {
+      "name": "Psychoanalysis",
+      "tags": ["psychological", "therapeutic", "theoretical"],
+      "primary_category": "Psychological Theories",
+      "secondary_categories": ["Therapeutic Methods", "Cultural Theories"],
+      "year_emerged": 1896,
+      "aspects": {
+        "theoretical": {
+          "description": "A theory of mind emphasizing unconscious processes, drives, and early development.",
+          "key_features": [
+            "Unconscious mind",
+            "Psychological development",
+            "Defense mechanisms",
+            "Dream analysis"
+          ]
+        },
+        "therapeutic": {
+          "description": "A method of treating psychological issues through exploring unconscious content.",
+          "key_features": [
+            "Free association",
+            "Dream interpretation",
+            "Transference analysis",
+            "Long-term therapy"
+          ]
+        }
+      },
+      "core_description": "A psychological theory and therapeutic method focusing on unconscious mental processes and their influence on behavior and experience.",
+      "positive_aspect": "Provides deep insights into human psychology and offers framework for understanding complex mental processes.",
+      "negative_aspect": "Many concepts difficult to verify scientifically; treatment can be lengthy and expensive.",
+      "historical_context": "Developed by Sigmund Freud in late 19th century Vienna, evolved through various schools and approaches.",
+      "modern_applications": [
+        "Psychotherapy",
+        "Cultural analysis",
+        "Literary criticism",
+        "Personal development"
+      ],
+      "reflection_questions": [
+        "How does the unconscious mind influence conscious behavior?",
+        "What role does early development play in adult psychology?",
+        "How can we access and understand unconscious content?"
+      ],
+      "related_concepts": ["Psychology", "Unconscious Mind", "Depth Psychology", "Therapy"]
+    },
+    {
+      "name": "Relativity Theory",
+      "tags": ["scientific", "physical", "mathematical"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Physical Theories", "Philosophical Frameworks"],
+      "year_emerged": 1905,
+      "aspects": {
+        "physical": {
+          "description": "A physical theory describing space, time, gravity, and their relationships.",
+          "key_features": [
+            "Spacetime curvature",
+            "Mass-energy equivalence",
+            "Light speed limit",
+            "Reference frames"
+          ]
+        },
+        "philosophical": {
+          "description": "Philosophical implications for understanding space, time, and causality.",
+          "key_features": [
+            "Relativity of simultaneity",
+            "Nature of time",
+            "Causality limits",
+            "Observer dependence"
+          ]
+        }
+      },
+      "core_description": "A fundamental physical theory that revolutionized our understanding of space, time, and gravity.",
+      "positive_aspect": "Provides extremely accurate predictions and deep insights into nature of universe.",
+      "negative_aspect": "Counterintuitive and can be mathematically complex; can be misused in relativistic arguments.",
+      "historical_context": "Developed by Einstein in early 20th century, revolutionizing physics and cosmology.",
+      "modern_applications": [
+        "GPS technology",
+        "Particle physics",
+        "Space exploration",
+        "Cosmological models"
+      ],
+      "reflection_questions": [
+        "What is the nature of time?",
+        "How do space and time relate to gravity?",
+        "What are the limits of human perception of reality?"
+      ],
+      "related_concepts": ["Physics", "Quantum Theory", "Spacetime", "Gravity"]
+    },
+    {
+      "name": "Utilitarianism",
+      "tags": ["ethical", "philosophical", "social"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Political Ideologies", "Philosophical Movements"],
+      "year_emerged": 1780,
+      "aspects": {
+        "ethical": {
+          "description": "An ethical framework based on maximizing well-being or utility for the greatest number.",
+          "key_features": [
+            "Consequence focus",
+            "Utility maximization",
+            "Impartial consideration",
+            "Welfare calculation"
+          ]
+        },
+        "political": {
+          "description": "Application to social and political decision-making and policy.",
+          "key_features": [
+            "Social welfare",
+            "Policy analysis",
+            "Resource distribution",
+            "Public good"
+          ]
+        }
+      },
+      "core_description": "An ethical theory that judges actions by their consequences, specifically their contribution to overall well-being or happiness.",
+      "positive_aspect": "Provides clear framework for decision-making and focuses on concrete outcomes.",
+      "negative_aspect": "Can justify individual rights violations for greater good; difficulty in measuring utility.",
+      "historical_context": "Developed by Jeremy Bentham and John Stuart Mill in 18th-19th centuries.",
+      "modern_applications": [
+        "Public policy",
+        "Economic planning",
+        "Healthcare decisions",
+        "Animal welfare"
+      ],
+      "reflection_questions": [
+        "How should we measure and compare different types of well-being?",
+        "Can rights be sacrificed for greater good?",
+        "How do we handle uncertainty in outcome predictions?"
+      ],
+      "related_concepts": ["Ethics", "Consequentialism", "Social Good", "Welfare"]
+    },
+    {
+      "name": "Postcolonialism",
+      "tags": ["cultural", "political", "critical"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Cultural Theories", "Political Ideologies"],
+      "year_emerged": 1978,
+      "aspects": {
+        "theoretical": {
+          "description": "Analysis of cultural, political, and economic effects of colonialism and imperialism.",
+          "key_features": [
+            "Cultural hegemony",
+            "Power relations",
+            "Identity formation",
+            "Decolonization"
+          ]
+        },
+        "practical": {
+          "description": "Applied critique and resistance to colonial legacies and ongoing imperialism.",
+          "key_features": [
+            "Cultural recovery",
+            "Indigenous rights",
+            "Economic justice",
+            "Knowledge decolonization"
+          ]
+        }
+      },
+      "core_description": "A theoretical framework analyzing and responding to the cultural, political, and economic legacies of colonialism.",
+      "positive_aspect": "Provides tools for understanding and addressing colonial legacies and ongoing power inequities.",
+      "negative_aspect": "Can sometimes oversimplify complex historical relationships; risk of essentializing cultures.",
+      "historical_context": "Emerged from decolonization movements and literary criticism in late 20th century.",
+      "modern_applications": [
+        "Cultural analysis",
+        "International relations",
+        "Educational reform",
+        "Identity politics"
+      ],
+      "reflection_questions": [
+        "How do colonial legacies continue to shape the present?",
+        "What does genuine decolonization require?",
+        "How can different cultural perspectives be respected while avoiding relativism?"
+      ],
+      "related_concepts": ["Colonialism", "Cultural Studies", "Power", "Identity"]
+    },
+    {
+      "name": "Information Theory",
+      "tags": ["mathematical", "scientific", "communication"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Communication Theories", "Mathematical Frameworks"],
+      "year_emerged": 1948,
+      "aspects": {
+        "technical": {
+          "description": "Mathematical theory of communication, information encoding, and transmission.",
+          "key_features": [
+            "Entropy measurement",
+            "Channel capacity",
+            "Error correction",
+            "Data compression"
+          ]
+        },
+        "conceptual": {
+          "description": "Broader applications to understanding information and complexity.",
+          "key_features": [
+            "Information metrics",
+            "Uncertainty analysis",
+            "Pattern recognition",
+            "Complexity measures"
+          ]
+        }
+      },
+      "core_description": "A mathematical theory quantifying information and analyzing its transmission, storage, and processing.",
+      "positive_aspect": "Provides precise tools for analyzing information systems and communication.",
+      "negative_aspect": "Can be overly technical; may not capture all aspects of meaning and context.",
+      "historical_context": "Developed by Claude Shannon at Bell Labs in 1948.",
+      "modern_applications": [
+        "Data compression",
+        "Digital communication",
+        "Cryptography",
+        "Machine learning"
+      ],
+      "reflection_questions": [
+        "What is the relationship between information and meaning?",
+        "How can we measure and compare different types of information?",
+        "What are the fundamental limits of communication?"
+      ],
+      "related_concepts": ["Communication", "Entropy", "Complexity", "Cybernetics"]
+    },
+    {
+      "name": "Semiotics",
+      "tags": ["linguistic", "cultural", "analytical"],
+      "primary_category": "Analytical Frameworks",
+      "secondary_categories": ["Cultural Theories", "Linguistic Theories"],
+      "year_emerged": 1916,
+      "aspects": {
+        "theoretical": {
+          "description": "Study of signs, symbols, and meaning-making processes.",
+          "key_features": [
+            "Sign systems",
+            "Signification",
+            "Cultural codes",
+            "Symbolic analysis"
+          ]
+        },
+        "applied": {
+          "description": "Analysis of communication and meaning in various contexts.",
+          "key_features": [
+            "Media analysis",
+            "Cultural interpretation",
+            "Visual communication",
+            "Symbolic interaction"
+          ]
+        }
+      },
+      "core_description": "The study of signs and symbols, their use, and interpretation in communication and culture.",
+      "positive_aspect": "Provides tools for analyzing meaning across different forms of communication.",
+      "negative_aspect": "Can become overly abstract; risk of over-interpretation.",
+      "historical_context": "Developed from linguistics through work of Saussure and Peirce.",
+      "modern_applications": [
+        "Media analysis",
+        "Brand development",
+        "Cultural studies",
+        "Communication design"
+      ],
+      "reflection_questions": [
+        "How do signs create meaning?",
+        "What is the relationship between symbols and reality?",
+        "How do cultural contexts shape interpretation?"
+      ],
+      "related_concepts": ["Linguistics", "Symbolism", "Communication", "Culture"]
+    },
+    {
+      "name": "Behavioral Economics",
+      "tags": ["economic", "psychological", "scientific"],
+      "primary_category": "Economic Theories",
+      "secondary_categories": ["Psychological Theories", "Decision Sciences"],
+      "year_emerged": 1979,
+      "aspects": {
+        "theoretical": {
+          "description": "Study of psychological, social, and emotional factors in economic decisions.",
+          "key_features": [
+            "Cognitive biases",
+            "Decision heuristics",
+            "Social preferences",
+            "Bounded rationality"
+          ]
+        },
+        "applied": {
+          "description": "Application to policy, business, and individual decision-making.",
+          "key_features": [
+            "Choice architecture",
+            "Nudge theory",
+            "Market psychology",
+            "Policy design"
+          ]
+        }
+      },
+      "core_description": "A field combining psychology and economics to understand how people make economic decisions.",
+      "positive_aspect": "Provides more realistic models of human behavior and effective intervention strategies.",
+      "negative_aspect": "Can be used for manipulation; may oversimplify complex social factors.",
+      "historical_context": "Emerged from critique of rational choice theory in late 20th century.",
+      "modern_applications": [
+        "Policy design",
+        "Marketing",
+        "Financial services",
+        "Public health"
+      ],
+      "reflection_questions": [
+        "How rational are economic decisions?",
+        "When is 'nudging' ethical?",
+        "How do emotions influence economic behavior?"
+      ],
+      "related_concepts": ["Economics", "Psychology", "Decision Theory", "Game Theory"]
+    },
+    {
+      "name": "Chaos Theory",
+      "tags": ["mathematical", "scientific", "complex"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Mathematical Frameworks", "Systems Theory"],
+      "year_emerged": 1963,
+      "aspects": {
+        "mathematical": {
+          "description": "Study of complex systems showing sensitive dependence on initial conditions.",
+          "key_features": [
+            "Butterfly effect",
+            "Strange attractors",
+            "Nonlinear dynamics",
+            "Fractal patterns"
+          ]
+        },
+        "philosophical": {
+          "description": "Implications for causality, prediction, and complexity in nature.",
+          "key_features": [
+            "Deterministic chaos",
+            "Emergence",
+            "Unpredictability",
+            "Natural patterns"
+          ]
+        }
+      },
+      "core_description": "A mathematical theory studying complex systems and their sensitive dependence on initial conditions.",
+      "positive_aspect": "Provides insights into complex systems and limits of prediction.",
+      "negative_aspect": "Can be misused to justify mysticism; mathematical complexity.",
+      "historical_context": "Developed from weather prediction studies by Edward Lorenz in 1963.",
+      "modern_applications": [
+        "Weather prediction",
+        "Financial modeling",
+        "Population dynamics",
+        "Heart rhythm analysis"
+      ],
+      "reflection_questions": [
+        "What are the limits of prediction in complex systems?",
+        "How does order emerge from chaos?",
+        "What is the relationship between chaos and complexity?"
+      ],
+      "related_concepts": ["Complexity", "Systems Theory", "Nonlinearity", "Emergence"]
+    },
+    {
+      "name": "Deconstructionism",
+      "tags": ["philosophical", "literary", "critical"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Literary Theories", "Philosophical Movements"],
+      "year_emerged": 1967,
+      "aspects": {
+        "theoretical": {
+          "description": "A method of analysis examining the instability of meaning in texts and concepts.",
+          "key_features": [
+            "Différance",
+            "Binary opposition",
+            "Textual analysis",
+            "Meaning instability"
+          ]
+        },
+        "analytical": {
+          "description": "Practical approach to analyzing texts and cultural phenomena.",
+          "key_features": [
+            "Close reading",
+            "Assumption questioning",
+            "Hierarchical reversal",
+            "Hidden contradictions"
+          ]
+        }
+      },
+      "core_description": "A philosophical and literary analysis method exploring the instability and multiplicity of meaning.",
+      "positive_aspect": "Reveals hidden assumptions and power structures in texts and concepts.",
+      "negative_aspect": "Can lead to extreme relativism and difficulty in establishing stable meanings.",
+      "historical_context": "Developed by Jacques Derrida in the 1960s, influencing postmodern thought.",
+      "modern_applications": [
+        "Literary criticism",
+        "Cultural analysis",
+        "Political critique",
+        "Media studies"
+      ],
+      "reflection_questions": [
+        "How stable is meaning in language and texts?",
+        "What role do binary oppositions play in thinking?",
+        "How do texts undermine their own assertions?"
+      ],
+      "related_concepts": ["Postmodernism", "Structuralism", "Literary Theory", "Hermeneutics"]
+    },
+    {
+      "name": "Evolutionary Psychology",
+      "tags": ["psychological", "biological", "scientific"],
+      "primary_category": "Psychological Theories",
+      "secondary_categories": ["Scientific Theories", "Biological Frameworks"],
+      "year_emerged": 1980,
+      "aspects": {
+        "theoretical": {
+          "description": "Study of psychological traits as evolved adaptations.",
+          "key_features": [
+            "Natural selection",
+            "Adaptive functions",
+            "Psychological mechanisms",
+            "Environmental adaptations"
+          ]
+        },
+        "empirical": {
+          "description": "Research methods investigating evolutionary bases of behavior.",
+          "key_features": [
+            "Cross-cultural studies",
+            "Comparative analysis",
+            "Behavioral genetics",
+            "Adaptation testing"
+          ]
+        }
+      },
+      "core_description": "A psychological approach examining human behavior and cognition through the lens of evolutionary adaptation.",
+      "positive_aspect": "Provides evolutionary framework for understanding human psychology and behavior.",
+      "negative_aspect": "Can lead to deterministic or oversimplified explanations of complex behaviors.",
+      "historical_context": "Emerged in 1980s combining evolutionary biology with cognitive psychology.",
+      "modern_applications": [
+        "Behavior analysis",
+        "Mental health",
+        "Social psychology",
+        "Educational design"
+      ],
+      "reflection_questions": [
+        "How does evolution shape modern behavior?",
+        "What are the limits of evolutionary explanations?",
+        "How do nature and nurture interact?"
+      ],
+      "related_concepts": ["Psychology", "Evolution", "Cognitive Science", "Behavioral Biology"]
+    },
+    {
+      "name": "Pragmatism",
+      "tags": ["philosophical", "practical", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Methodological Frameworks", "Ethical Systems"],
+      "year_emerged": 1870,
+      "aspects": {
+        "theoretical": {
+          "description": "Philosophy emphasizing practical consequences and real-world outcomes.",
+          "key_features": [
+            "Practical effects",
+            "Truth as utility",
+            "Experiential learning",
+            "Problem solving"
+          ]
+        },
+        "methodological": {
+          "description": "Approach to inquiry focusing on practical outcomes and problem solving.",
+          "key_features": [
+            "Scientific method",
+            "Experimental approach",
+            "Practical verification",
+            "Contextual analysis"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach emphasizing practical consequences and real-world outcomes in thinking and action.",
+      "positive_aspect": "Focuses on practical solutions and testable outcomes.",
+      "negative_aspect": "May undervalue theoretical understanding and abstract truth.",
+      "historical_context": "Developed by Peirce, James, and Dewey in late 19th century America.",
+      "modern_applications": [
+        "Education",
+        "Problem solving",
+        "Policy making",
+        "Scientific method"
+      ],
+      "reflection_questions": [
+        "How should we judge ideas' value?",
+        "What is the relationship between theory and practice?",
+        "How can we test truth claims?"
+      ],
+      "related_concepts": ["Scientific Method", "Empiricism", "Problem Solving", "Experience"]
+    },
+    {
+      "name": "Cyberfeminism",
+      "tags": ["technological", "feminist", "cultural"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Cultural Movements", "Technology Frameworks"],
+      "year_emerged": 1991,
+      "aspects": {
+        "theoretical": {
+          "description": "Analysis of technology's role in gender relations and feminist possibilities.",
+          "key_features": [
+            "Digital identity",
+            "Gender technology",
+            "Virtual space",
+            "Techno-social change"
+          ]
+        },
+        "practical": {
+          "description": "Activist and creative approaches to technology and gender.",
+          "key_features": [
+            "Digital activism",
+            "Tech accessibility",
+            "Online community",
+            "Creative resistance"
+          ]
+        }
+      },
+      "core_description": "A movement exploring and promoting feminist engagement with digital technology and cyberspace.",
+      "positive_aspect": "Creates new possibilities for gender expression and feminist activism.",
+      "negative_aspect": "Can overlook digital divide and material inequalities.",
+      "historical_context": "Emerged in 1990s combining feminist theory with cyber-culture.",
+      "modern_applications": [
+        "Digital activism",
+        "Technology design",
+        "Online communities",
+        "Digital art"
+      ],
+      "reflection_questions": [
+        "How does technology affect gender relations?",
+        "What are the possibilities for digital activism?",
+        "How can technology promote equality?"
+      ],
+      "related_concepts": ["Feminism", "Technology", "Digital Culture", "Gender Theory"]
+    },
+    {
+      "name": "Virtue Ethics",
+      "tags": ["ethical", "philosophical", "character"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Philosophical Movements", "Personal Development"],
+      "year_emerged": -350,
+      "aspects": {
+        "theoretical": {
+          "description": "Ethical framework focusing on character and moral excellence.",
+          "key_features": [
+            "Character development",
+            "Moral virtues",
+            "Practical wisdom",
+            "Excellence pursuit"
+          ]
+        },
+        "practical": {
+          "description": "Approach to ethical living through character cultivation.",
+          "key_features": [
+            "Habit formation",
+            "Role models",
+            "Moral education",
+            "Community practice"
+          ]
+        }
+      },
+      "core_description": "An ethical approach emphasizing character development and the cultivation of virtuous traits.",
+      "positive_aspect": "Focuses on character development and practical wisdom in ethical life.",
+      "negative_aspect": "Can lack clear decision procedures; cultural relativity of virtues.",
+      "historical_context": "Originated with Aristotle, revived in modern virtue ethics movement.",
+      "modern_applications": [
+        "Character education",
+        "Professional ethics",
+        "Leadership development",
+        "Personal growth"
+      ],
+      "reflection_questions": [
+        "What makes a character trait virtuous?",
+        "How are virtues cultivated?",
+        "What is the role of community in character?"
+      ],
+      "related_concepts": ["Ethics", "Character", "Wisdom", "Excellence"]
+    },
+    {
+      "name": "Emergence",
+      "tags": ["scientific", "philosophical", "systems"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Philosophical Frameworks", "Systems Theory"],
+      "year_emerged": 1875,
+      "aspects": {
+        "scientific": {
+          "description": "Study of how complex systems and patterns arise from simpler components.",
+          "key_features": [
+            "Self-organization",
+            "Complex systems",
+            "Level interactions",
+            "Pattern formation"
+          ]
+        },
+        "philosophical": {
+          "description": "Analysis of relationships between different levels of organization.",
+          "key_features": [
+            "Reductionism limits",
+            "Whole-part relations",
+            "Novelty emergence",
+            "Causal powers"
+          ]
+        }
+      },
+      "core_description": "The study of how complex systems and behaviors emerge from simpler components and interactions.",
+      "positive_aspect": "Explains complex phenomena and limitations of reductionism.",
+      "negative_aspect": "Can be difficult to predict or control emergent properties.",
+      "historical_context": "Concept developed in late 19th century, gained prominence in complex systems theory.",
+      "modern_applications": [
+        "Systems design",
+        "Artificial life",
+        "Social organization",
+        "Urban planning"
+      ],
+      "reflection_questions": [
+        "How do complex patterns emerge from simple rules?",
+        "What is the relationship between levels of organization?",
+        "Can emergent properties be predicted?"
+      ],
+      "related_concepts": ["Complexity", "Systems Theory", "Self-organization", "Holism"]
+    },
+    {
+      "name": "Media Ecology",
+      "tags": ["communication", "technological", "cultural"],
+      "primary_category": "Communication Theories",
+      "secondary_categories": ["Cultural Theories", "Technology Frameworks"],
+      "year_emerged": 1964,
+      "aspects": {
+        "theoretical": {
+          "description": "Study of media as environments shaping human perception and society.",
+          "key_features": [
+            "Medium analysis",
+            "Environmental impact",
+            "Cultural change",
+            "Technological effects"
+          ]
+        },
+        "analytical": {
+          "description": "Analysis of media systems and their social effects.",
+          "key_features": [
+            "Media evolution",
+            "Cultural impact",
+            "Technology assessment",
+            "Social change"
+          ]
+        }
+      },
+      "core_description": "Study of media as environments that shape human perception, understanding, and culture.",
+      "positive_aspect": "Provides framework for understanding media's profound effects on society.",
+      "negative_aspect": "Can tend toward technological determinism.",
+      "historical_context": "Developed by Marshall McLuhan and Neil Postman in 1960s.",
+      "modern_applications": [
+        "Digital culture analysis",
+        "Communication design",
+        "Technology assessment",
+        "Educational media"
+      ],
+      "reflection_questions": [
+        "How do media shape perception?",
+        "What are the environmental effects of media?",
+        "How do media changes affect society?"
+      ],
+      "related_concepts": ["Communication", "Technology", "Culture", "Environment"]
+    },
+    {
+      "name": "Object-Oriented Ontology",
+      "tags": ["philosophical", "metaphysical", "contemporary"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Metaphysical Systems", "Environmental Theories"],
+      "year_emerged": 1999,
+      "aspects": {
+        "theoretical": {
+          "description": "Philosophical approach treating all objects as equally real and irreducible.",
+          "key_features": [
+            "Flat ontology",
+            "Object independence",
+            "Anti-anthropocentrism",
+            "Reality withdrawal"
+          ]
+        },
+        "practical": {
+          "description": "Applications to environmental thought and object relations.",
+          "key_features": [
+            "Environmental ethics",
+            "Object relations",
+            "Design thinking",
+            "Ecological thought"
+          ]
+        }
+      },
+      "core_description": "A philosophical movement rejecting human-centered views and treating all objects as equally real.",
+      "positive_aspect": "Challenges anthropocentrism and provides new perspectives on objects and ecology.",
+      "negative_aspect": "Can be highly abstract and difficult to apply practically.",
+      "historical_context": "Emerged from continental philosophy in late 20th century.",
+      "modern_applications": [
+        "Environmental theory",
+        "Design philosophy",
+        "Art theory",
+        "Technology ethics"
+      ],
+      "reflection_questions": [
+        "What is the nature of objects?",
+        "How should we relate to non-human entities?",
+        "What are the limits of human-centered thinking?"
+      ],
+      "related_concepts": ["Metaphysics", "Ecology", "Materialism", "Post-humanism"]
+    },
+    {
+      "name": "Accelerationism",
+      "tags": ["political", "technological", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Philosophical Movements", "Technology Frameworks"],
+      "year_emerged": 2010,
+      "aspects": {
+        "political": {
+          "description": "A political theory advocating acceleration of technological and social change to transform or transcend current systems.",
+          "key_features": [
+            "Technological acceleration",
+            "System transformation",
+            "Future orientation",
+            "Radical change"
+          ]
+        },
+        "philosophical": {
+          "description": "Analysis of technology's role in social change and future development.",
+          "key_features": [
+            "Technological determinism",
+            "Progress theory",
+            "System dynamics",
+            "Future speculation"
+          ]
+        }
+      },
+      "core_description": "A political and philosophical movement advocating the acceleration of technological and social change.",
+      "positive_aspect": "Encourages innovative thinking about future possibilities and technological progress.",
+      "negative_aspect": "Can promote destabilizing or harmful forms of rapid change without considering consequences.",
+      "historical_context": "Emerged from critical theory and cybercultural discussions in early 21st century.",
+      "modern_applications": [
+        "Technology policy",
+        "Future planning",
+        "Digital culture",
+        "Social transformation"
+      ],
+      "reflection_questions": [
+        "Should technological change be accelerated or managed?",
+        "What are the risks of rapid system transformation?",
+        "How can acceleration be directed positively?"
+      ],
+      "related_concepts": ["Transhumanism", "Technocracy", "Futurism", "Technology"]
+    },
+    {
+      "name": "Anarchism",
+      "tags": ["political", "social", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Social Movements", "Political Systems"],
+      "year_emerged": 1840,
+      "aspects": {
+        "political": {
+          "description": "Political philosophy advocating elimination of hierarchical authority and state power.",
+          "key_features": [
+            "Anti-authoritarianism",
+            "Direct democracy",
+            "Mutual aid",
+            "Self-organization"
+          ]
+        },
+        "social": {
+          "description": "Vision of social organization based on voluntary cooperation and mutual support.",
+          "key_features": [
+            "Voluntary association",
+            "Community autonomy",
+            "Horizontal organization",
+            "Social solidarity"
+          ]
+        }
+      },
+      "core_description": "A political and social philosophy advocating the abolition of hierarchical authority and the creation of voluntary, self-organized communities.",
+      "positive_aspect": "Promotes individual freedom, mutual aid, and direct democratic participation.",
+      "negative_aspect": "May face challenges in coordinating large-scale organization and maintaining social order.",
+      "historical_context": "Developed in 19th century through thinkers like Proudhon, Bakunin, and Kropotkin.",
+      "modern_applications": [
+        "Cooperative movements",
+        "Direct action",
+        "Alternative economies",
+        "Community organizing"
+      ],
+      "reflection_questions": [
+        "How can society function without central authority?",
+        "What role should voluntary cooperation play?",
+        "How can individual freedom and social order be balanced?"
+      ],
+      "related_concepts": ["Liberty", "Democracy", "Cooperation", "Self-organization"]
+    },
+    {
+      "name": "Authoritarianism",
+      "tags": ["political", "governmental", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Governance Systems", "Power Structures"],
+      "year_emerged": -3000,
+      "aspects": {
+        "political": {
+          "description": "System of government emphasizing strong central authority and limited political pluralism.",
+          "key_features": [
+            "Centralized power",
+            "Limited dissent",
+            "Hierarchical control",
+            "State supremacy"
+          ]
+        },
+        "social": {
+          "description": "Social system emphasizing obedience, order, and conformity.",
+          "key_features": [
+            "Social control",
+            "Conformity pressure",
+            "Hierarchical relations",
+            "Collective discipline"
+          ]
+        }
+      },
+      "core_description": "A political system characterized by strong central power, limited political freedoms, and emphasis on authority and obedience.",
+      "positive_aspect": "Can provide stability and rapid decision-making in crisis situations.",
+      "negative_aspect": "Suppresses individual rights, political freedom, and social innovation.",
+      "historical_context": "Present throughout history in various forms, from ancient empires to modern dictatorships.",
+      "modern_applications": [
+        "Government systems",
+        "Organizational structures",
+        "Security policies",
+        "Social control"
+      ],
+      "reflection_questions": [
+        "What conditions lead to authoritarian systems?",
+        "How does authority relate to social order?",
+        "What are the costs of centralized control?"
+      ],
+      "related_concepts": ["Power", "Control", "Hierarchy", "Totalitarianism"]
+    },
+    {
+      "name": "Communism",
+      "tags": ["political", "economic", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Social Systems"],
+      "year_emerged": 1848,
+      "aspects": {
+        "political": {
+          "description": "Political ideology advocating collective ownership and classless society.",
+          "key_features": [
+            "Class struggle",
+            "Revolution",
+            "Party leadership",
+            "State control"
+          ]
+        },
+        "economic": {
+          "description": "Economic system based on collective ownership and planned economy.",
+          "key_features": [
+            "Common ownership",
+            "Planned economy",
+            "Production for use",
+            "Economic equality"
+          ]
+        }
+      },
+      "core_description": "A political and economic ideology advocating for collective ownership of resources and creation of a classless society.",
+      "positive_aspect": "Aims to eliminate economic inequality and exploitation through collective ownership.",
+      "negative_aspect": "Historical implementations led to authoritarianism and suppression of individual freedoms.",
+      "historical_context": "Developed by Marx and Engels, influenced revolutionary movements worldwide.",
+      "modern_applications": [
+        "Political movements",
+        "Economic planning",
+        "Social organization",
+        "Collective ownership"
+      ],
+      "reflection_questions": [
+        "Can economic equality be achieved without losing freedom?",
+        "What role should collective ownership play?",
+        "How can power be distributed fairly?"
+      ],
+      "related_concepts": ["Socialism", "Marxism", "Revolution", "Collectivism"]
+    },
+    {
+      "name": "Conservatism",
+      "tags": ["political", "social", "cultural"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Cultural Movements", "Social Philosophies"],
+      "year_emerged": 1790,
+      "aspects": {
+        "political": {
+          "description": "Political philosophy emphasizing tradition, stability, and gradual change.",
+          "key_features": [
+            "Traditional values",
+            "Institutional stability",
+            "Gradual reform",
+            "Social order"
+          ]
+        },
+        "cultural": {
+          "description": "Cultural perspective valuing preservation of established customs and institutions.",
+          "key_features": [
+            "Cultural continuity",
+            "Moral tradition",
+            "Social hierarchy",
+            "Cultural preservation"
+          ]
+        }
+      },
+      "core_description": "A political and cultural philosophy emphasizing preservation of traditional institutions and gradual, organic change.",
+      "positive_aspect": "Maintains social stability and preserves valuable cultural traditions and institutions.",
+      "negative_aspect": "Can resist necessary changes and perpetuate existing inequalities.",
+      "historical_context": "Emerged as response to French Revolution through Edmund Burke's writings.",
+      "modern_applications": [
+        "Political movements",
+        "Cultural preservation",
+        "Social policy",
+        "Institutional design"
+      ],
+      "reflection_questions": [
+        "How should tradition and change be balanced?",
+        "What makes institutions worth preserving?",
+        "When is social change necessary?"
+      ],
+      "related_concepts": ["Tradition", "Order", "Stability", "Hierarchy"]
+    },
+    {
+      "name": "Corporatism",
+      "tags": ["political", "economic", "organizational"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Organizational Structures"],
+      "year_emerged": 1890,
+      "aspects": {
+        "political": {
+          "description": "Political system organizing society through corporate groups representing different interests.",
+          "key_features": [
+            "Interest representation",
+            "Group organization",
+            "Structured cooperation",
+            "Mediated interests"
+          ]
+        },
+        "economic": {
+          "description": "Economic system based on cooperation between organized interest groups.",
+          "key_features": [
+            "Economic coordination",
+            "Sectoral organization",
+            "Interest mediation",
+            "Planned cooperation"
+          ]
+        }
+      },
+      "core_description": "A political and economic system organizing society through corporate groups representing different sectors and interests.",
+      "positive_aspect": "Enables organized cooperation between different social groups and interests.",
+      "negative_aspect": "Can lead to elite dominance and suppression of individual interests.",
+      "historical_context": "Developed in late 19th century, implemented in various forms throughout 20th century.",
+      "modern_applications": [
+        "Interest group politics",
+        "Economic planning",
+        "Labor relations",
+        "Social partnership"
+      ],
+      "reflection_questions": [
+        "How should different social interests be represented?",
+        "What role should organized groups play in governance?",
+        "Can corporate interests align with public good?"
+      ],
+      "related_concepts": ["Organization", "Interest Groups", "Cooperation", "Planning"]
+    },
+    {
+      "name": "Fascism",
+      "tags": ["political", "authoritarian", "nationalist"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Political Systems", "Power Structures"],
+      "year_emerged": 1919,
+      "aspects": {
+        "political": {
+          "description": "Authoritarian nationalist ideology emphasizing total state power and social regimentation.",
+          "key_features": [
+            "Ultranationalism",
+            "Totalitarian control",
+            "Leader principle",
+            "State supremacy"
+          ]
+        },
+        "social": {
+          "description": "Social system based on national unity, hierarchy, and militarism.",
+          "key_features": [
+            "Social hierarchy",
+            "National unity",
+            "Militarism",
+            "Cultural purification"
+          ]
+        }
+      },
+      "core_description": "An authoritarian nationalist ideology emphasizing total state power, national unity, and social regimentation.",
+      "positive_aspect": "Can mobilize national resources and create strong sense of collective purpose.",
+      "negative_aspect": "Leads to extreme oppression, violence, and suppression of individual rights.",
+      "historical_context": "Emerged in early 20th century, particularly in Italy under Mussolini.",
+      "modern_applications": [
+        "Political analysis",
+        "Historical study",
+        "Movement recognition",
+        "Prevention strategies"
+      ],
+      "reflection_questions": [
+        "What conditions enable fascist movements?",
+        "How can societies resist fascist tendencies?",
+        "What is the relationship between nationalism and fascism?"
+      ],
+      "related_concepts": ["Authoritarianism", "Nationalism", "Totalitarianism", "Power"]
+    },
+    {
+      "name": "Georgism",
+      "tags": ["economic", "political", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Social Reform Movements"],
+      "year_emerged": 1879,
+      "aspects": {
+        "economic": {
+          "description": "Economic philosophy advocating for common ownership of natural resources while maintaining private ownership of produced wealth.",
+          "key_features": [
+            "Land value tax",
+            "Natural resource commons",
+            "Economic rent",
+            "Public revenue"
+          ]
+        },
+        "social": {
+          "description": "Social reform approach focusing on equal rights to natural resources.",
+          "key_features": [
+            "Resource equality",
+            "Community land rights",
+            "Social justice",
+            "Urban reform"
+          ]
+        }
+      },
+      "core_description": "An economic and social philosophy advocating for common ownership of natural resources and land value taxation.",
+      "positive_aspect": "Addresses economic inequality and inefficient land use while preserving market incentives.",
+      "negative_aspect": "Complex implementation challenges and resistance from established property interests.",
+      "historical_context": "Developed by Henry George in late 19th century as response to industrial poverty.",
+      "modern_applications": [
+        "Land value taxation",
+        "Urban planning",
+        "Resource management",
+        "Public finance"
+      ],
+      "reflection_questions": [
+        "How should natural resources be owned and managed?",
+        "What distinguishes natural resources from produced wealth?",
+        "How can land value be fairly assessed and taxed?"
+      ],
+      "related_concepts": ["Land Reform", "Tax Policy", "Commons", "Resource Management"]
+    },
+    {
+      "name": "Imperialism",
+      "tags": ["political", "historical", "economic"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Power Structures", "International Relations"],
+      "year_emerged": -3000,
+      "aspects": {
+        "political": {
+          "description": "Policy of extending nation's power through territorial acquisition or indirect control.",
+          "key_features": [
+            "Colonial control",
+            "Power projection",
+            "Cultural dominance",
+            "Resource extraction"
+          ]
+        },
+        "economic": {
+          "description": "System of economic exploitation and resource control across territories.",
+          "key_features": [
+            "Resource exploitation",
+            "Market control",
+            "Economic dependency",
+            "Trade dominance"
+          ]
+        }
+      },
+      "core_description": "A policy of extending national power through territorial conquest, economic control, or cultural domination.",
+      "positive_aspect": "Can facilitate technological transfer and economic development in some areas.",
+      "negative_aspect": "Results in exploitation, cultural destruction, and long-term negative effects on colonized peoples.",
+      "historical_context": "Present throughout history from ancient empires to modern colonial powers.",
+      "modern_applications": [
+        "International relations",
+        "Economic analysis",
+        "Cultural studies",
+        "Development theory"
+      ],
+      "reflection_questions": [
+        "How do imperial relationships persist in modern forms?",
+        "What are the long-term effects of imperialism?",
+        "How does cultural imperialism operate?"
+      ],
+      "related_concepts": ["Colonialism", "Power", "Exploitation", "Development"]
+    },
+    {
+      "name": "Liberalism",
+      "tags": ["political", "philosophical", "economic"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Philosophical Movements", "Economic Systems"],
+      "year_emerged": 1688,
+      "aspects": {
+        "political": {
+          "description": "Political philosophy emphasizing individual rights, democracy, and limited government.",
+          "key_features": [
+            "Individual rights",
+            "Constitutional government",
+            "Rule of law",
+            "Political freedom"
+          ]
+        },
+        "economic": {
+          "description": "Economic system based on private property, markets, and individual choice.",
+          "key_features": [
+            "Free markets",
+            "Private property",
+            "Economic freedom",
+            "Competition"
+          ]
+        }
+      },
+      "core_description": "A political and economic philosophy emphasizing individual rights, democracy, and market economics.",
+      "positive_aspect": "Promotes individual freedom, human rights, and economic opportunity.",
+      "negative_aspect": "Can lead to inequality and neglect of collective needs.",
+      "historical_context": "Emerged during Enlightenment, shaped modern democratic systems.",
+      "modern_applications": [
+        "Democratic systems",
+        "Human rights",
+        "Market economies",
+        "Civil liberties"
+      ],
+      "reflection_questions": [
+        "How can individual rights and collective needs be balanced?",
+        "What are the limits of market freedom?",
+        "How should government power be limited?"
+      ],
+      "related_concepts": ["Democracy", "Rights", "Markets", "Individualism"]
+    },
+    {
+      "name": "Libertarianism",
+      "tags": ["political", "philosophical", "economic"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Philosophical Movements", "Economic Systems"],
+      "year_emerged": 1950,
+      "aspects": {
+        "political": {
+          "description": "Political philosophy emphasizing maximum individual liberty and minimal state intervention.",
+          "key_features": [
+            "Individual sovereignty",
+            "Minimal government",
+            "Non-aggression",
+            "Voluntary association"
+          ]
+        },
+        "economic": {
+          "description": "Economic approach advocating free markets and private property rights.",
+          "key_features": [
+            "Free markets",
+            "Property rights",
+            "Voluntary exchange",
+            "Private solutions"
+          ]
+        }
+      },
+      "core_description": "A political philosophy advocating maximum individual liberty and minimal government intervention.",
+      "positive_aspect": "Strongly protects individual rights and promotes voluntary solutions to social problems.",
+      "negative_aspect": "May struggle to address collective problems and public goods.",
+      "historical_context": "Developed from classical liberal thought in mid-20th century.",
+      "modern_applications": [
+        "Political movements",
+        "Economic policy",
+        "Social organization",
+        "Technology"
+      ],
+      "reflection_questions": [
+        "What is the proper role of government?",
+        "How can public goods be provided voluntarily?",
+        "What are the limits of individual liberty?"
+      ],
+      "related_concepts": ["Liberty", "Markets", "Individualism", "Anarchism"]
+    },
+    {
+      "name": "Mercantilism",
+      "tags": ["economic", "political", "historical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Historical Frameworks"],
+      "year_emerged": 1500,
+      "aspects": {
+        "economic": {
+          "description": "Economic system emphasizing accumulation of wealth through favorable trade balance.",
+          "key_features": [
+            "Trade surplus",
+            "State intervention",
+            "Colonial trade",
+            "Protectionism"
+          ]
+        },
+        "political": {
+          "description": "Political approach to economic nationalism and state power.",
+          "key_features": [
+            "National wealth",
+            "State control",
+            "Colonial empire",
+            "Trade regulation"
+          ]
+        }
+      },
+      "core_description": "An economic system emphasizing government regulation to ensure positive trade balance and national wealth.",
+      "positive_aspect": "Can build national industrial capacity and economic self-sufficiency.",
+      "negative_aspect": "Creates international tensions and reduces overall economic efficiency.",
+      "historical_context": "Dominated European economic policy from 16th to 18th centuries.",
+      "modern_applications": [
+        "Trade policy",
+        "Industrial policy",
+        "Economic nationalism",
+        "Development strategy"
+      ],
+      "reflection_questions": [
+        "How should nations manage trade relations?",
+        "What role should government play in economy?",
+        "Is economic nationalism beneficial?"
+      ],
+      "related_concepts": ["Trade", "Nationalism", "Protectionism", "Development"]
+    },
+    {
+      "name": "Monarchism",
+      "tags": ["political", "historical", "governmental"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Governance Systems", "Historical Frameworks"],
+      "year_emerged": -3000,
+      "aspects": {
+        "political": {
+          "description": "System of government with hereditary sovereign as head of state.",
+          "key_features": [
+            "Royal authority",
+            "Hereditary succession",
+            "Traditional legitimacy",
+            "Hierarchical order"
+          ]
+        },
+        "social": {
+          "description": "Social system based on hierarchical authority and traditional order.",
+          "key_features": [
+            "Social hierarchy",
+            "Traditional roles",
+            "Ceremonial function",
+            "Cultural continuity"
+          ]
+        }
+      },
+      "core_description": "A political system advocating monarchy as form of government, either absolute or constitutional.",
+      "positive_aspect": "Can provide stability, cultural continuity, and national unity.",
+      "negative_aspect": "Places power based on birth rather than merit; potential for autocracy.",
+      "historical_context": "Oldest form of government, evolved from tribal chiefdoms to modern constitutional monarchies.",
+      "modern_applications": [
+        "Constitutional monarchy",
+        "Traditional leadership",
+        "Cultural preservation",
+        "State ceremony"
+      ],
+      "reflection_questions": [
+        "What role can monarchy play in modern democracy?",
+        "How does hereditary leadership affect stability?",
+        "Can tradition and progress be reconciled?"
+      ],
+      "related_concepts": ["Authority", "Tradition", "Hierarchy", "Leadership"]
+    },
+    {
+      "name": "Nationalism",
+      "tags": ["political", "cultural", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Cultural Movements", "Social Ideologies"],
+      "year_emerged": 1780,
+      "aspects": {
+        "political": {
+          "description": "Political ideology emphasizing national identity, sovereignty, and interests.",
+          "key_features": [
+            "National sovereignty",
+            "Patriotism",
+            "Self-determination",
+            "National interest"
+          ]
+        },
+        "cultural": {
+          "description": "Cultural movement promoting national identity and unity.",
+          "key_features": [
+            "Cultural identity",
+            "Shared heritage",
+            "Common values",
+            "National narrative"
+          ]
+        }
+      },
+      "core_description": "An ideology emphasizing national identity, interests, and sovereignty above other affiliations.",
+      "positive_aspect": "Can foster social cohesion and collective mobilization for common goals.",
+      "negative_aspect": "Often leads to xenophobia and conflict with other nations.",
+      "historical_context": "Emerged in late 18th century, shaped modern state formation.",
+      "modern_applications": [
+        "State formation",
+        "Political movements",
+        "Cultural policy",
+        "International relations"
+      ],
+      "reflection_questions": [
+        "How does nationalism affect international cooperation?",
+        "What defines national identity?",
+        "Can nationalism be inclusive?"
+      ],
+      "related_concepts": ["Identity", "Sovereignty", "Culture", "State"]
+    },
+    {
+      "name": "Neoliberalism",
+      "tags": ["economic", "political", "contemporary"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Public Policy"],
+      "year_emerged": 1938,
+      "aspects": {
+        "economic": {
+          "description": "Economic philosophy emphasizing free markets, deregulation, and privatization.",
+          "key_features": [
+            "Market freedom",
+            "Privatization",
+            "Deregulation",
+            "Global trade"
+          ]
+        },
+        "political": {
+          "description": "Political approach promoting market solutions to social problems.",
+          "key_features": [
+            "Limited government",
+            "Individual responsibility",
+            "Market efficiency",
+            "Competition"
+          ]
+        }
+      },
+      "core_description": "An ideology promoting free market capitalism, deregulation, and reduction of state intervention.",
+      "positive_aspect": "Encourages economic efficiency, innovation, and global trade.",
+      "negative_aspect": "Can increase inequality and reduce social protections.",
+      "historical_context": "Emerged in 1930s, gained prominence in 1980s through Reagan and Thatcher.",
+      "modern_applications": [
+        "Economic policy",
+        "Trade agreements",
+        "Public services",
+        "Social policy"
+      ],
+      "reflection_questions": [
+        "What should be the balance between markets and regulation?",
+        "How do market solutions affect social welfare?",
+        "What are the limits of market efficiency?"
+      ],
+      "related_concepts": ["Capitalism", "Globalization", "Markets", "Deregulation"]
+    },
+    {
+      "name": "Pan-Nationalism",
+      "tags": ["political", "cultural", "international"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Cultural Movements", "International Relations"],
+      "year_emerged": 1850,
+      "aspects": {
+        "political": {
+          "description": "Political movement advocating unity among peoples sharing cultural or ethnic identity beyond current borders.",
+          "key_features": [
+            "Cultural unity",
+            "Political cooperation",
+            "Regional integration",
+            "Shared identity"
+          ]
+        },
+        "cultural": {
+          "description": "Cultural movement promoting broader identity beyond national boundaries.",
+          "key_features": [
+            "Cultural solidarity",
+            "Historical connection",
+            "Shared heritage",
+            "Identity formation"
+          ]
+        }
+      },
+      "core_description": "A movement promoting unity and cooperation among peoples sharing cultural, ethnic, or regional identity across national borders.",
+      "positive_aspect": "Promotes cultural cooperation and regional integration.",
+      "negative_aspect": "Can create tension with existing states and exclude other groups.",
+      "historical_context": "Emerged in 19th century through movements like Pan-Slavism and Pan-Africanism.",
+      "modern_applications": [
+        "Regional organizations",
+        "Cultural cooperation",
+        "International movements",
+        "Identity politics"
+      ],
+      "reflection_questions": [
+        "How do transnational identities affect politics?",
+        "Can regional unity overcome national divisions?",
+        "What defines cultural unity?"
+      ],
+      "related_concepts": ["Nationalism", "Identity", "Regionalism", "Culture"]
+    },
+    {
+      "name": "Populism",
+      "tags": ["political", "social", "rhetorical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Social Movements", "Political Strategies"],
+      "year_emerged": 1880,
+      "aspects": {
+        "political": {
+          "description": "Political approach appealing to ordinary people who feel their concerns are disregarded by established elites.",
+          "key_features": [
+            "Anti-elitism",
+            "People's will",
+            "Direct appeal",
+            "Majoritarian claims"
+          ]
+        },
+        "rhetorical": {
+          "description": "Communication style emphasizing simplicity and opposition to established power.",
+          "key_features": [
+            "Simple solutions",
+            "Us vs. them",
+            "Moral clarity",
+            "Direct language"
+          ]
+        }
+      },
+      "core_description": "A political approach that appeals to ordinary people, typically contrasting 'the people' against 'the elite'.",
+      "positive_aspect": "Can give voice to marginalized groups and highlight legitimate grievances.",
+      "negative_aspect": "Often oversimplifies complex issues and can undermine democratic institutions.",
+      "historical_context": "Emerged in late 19th century America and Russia, recurring in various forms.",
+      "modern_applications": [
+        "Political movements",
+        "Electoral campaigns",
+        "Social media",
+        "Public discourse"
+      ],
+      "reflection_questions": [
+        "How can democracies address popular grievances effectively?",
+        "What distinguishes legitimate popular movements from demagoguery?",
+        "How does populism affect democratic institutions?"
+      ],
+      "related_concepts": ["Democracy", "Demagoguery", "Anti-elitism", "Mass Politics"]
+    },
+    {
+      "name": "Progressivism",
+      "tags": ["political", "social", "reformist"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Social Movements", "Reform Movements"],
+      "year_emerged": 1890,
+      "aspects": {
+        "political": {
+          "description": "Political philosophy advocating social, political, and technological progress through reform.",
+          "key_features": [
+            "Social reform",
+            "Government action",
+            "Rational planning",
+            "Social justice"
+          ]
+        },
+        "social": {
+          "description": "Social movement promoting improvement through systematic change.",
+          "key_features": [
+            "Social improvement",
+            "Education reform",
+            "Public welfare",
+            "Institutional reform"
+          ]
+        }
+      },
+      "core_description": "An ideology advocating social, political, and economic reform to improve human society.",
+      "positive_aspect": "Drives positive social change and addresses systemic problems.",
+      "negative_aspect": "Can disrupt stable social structures and create unintended consequences.",
+      "historical_context": "Emerged in late 19th century as response to industrialization and social problems.",
+      "modern_applications": [
+        "Social policy",
+        "Environmental protection",
+        "Education reform",
+        "Civil rights"
+      ],
+      "reflection_questions": [
+        "How should progress be measured?",
+        "What role should tradition play in progress?",
+        "Can progress be too rapid?"
+      ],
+      "related_concepts": ["Reform", "Social Justice", "Modernization", "Change"]
+    },
+    {
+      "name": "Social Democracy",
+      "tags": ["political", "economic", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Governance Models"],
+      "year_emerged": 1890,
+      "aspects": {
+        "political": {
+          "description": "Political system combining democratic governance with strong social welfare.",
+          "key_features": [
+            "Democratic process",
+            "Social welfare",
+            "Mixed economy",
+            "Labor rights"
+          ]
+        },
+        "economic": {
+          "description": "Economic approach balancing market economy with strong social protections.",
+          "key_features": [
+            "Market regulation",
+            "Public services",
+            "Income redistribution",
+            "Social safety net"
+          ]
+        }
+      },
+      "core_description": "A political and economic system combining democratic capitalism with strong social welfare policies.",
+      "positive_aspect": "Balances economic efficiency with social protection and democratic values.",
+      "negative_aspect": "Can involve high taxation and bureaucratic inefficiency.",
+      "historical_context": "Emerged from socialist movement, developed in post-WWII Europe.",
+      "modern_applications": [
+        "Welfare state",
+        "Healthcare systems",
+        "Education policy",
+        "Labor policy"
+      ],
+      "reflection_questions": [
+        "How can market efficiency and social protection be balanced?",
+        "What level of redistribution is optimal?",
+        "Can social democracy work globally?"
+      ],
+      "related_concepts": ["Welfare State", "Mixed Economy", "Democracy", "Socialism"]
+    },
+    {
+      "name": "Socialism",
+      "tags": ["political", "economic", "social"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Social Systems"],
+      "year_emerged": 1820,
+      "aspects": {
+        "political": {
+          "description": "Political system advocating collective ownership and democratic control of economy.",
+          "key_features": [
+            "Collective ownership",
+            "Economic democracy",
+            "Social planning",
+            "Worker control"
+          ]
+        },
+        "economic": {
+          "description": "Economic system based on social ownership and democratic planning.",
+          "key_features": [
+            "Public ownership",
+            "Economic planning",
+            "Need-based production",
+            "Collective decision-making"
+          ]
+        }
+      },
+      "core_description": "A political and economic system based on social ownership and democratic control of production.",
+      "positive_aspect": "Promotes economic equality and democratic control of economic resources.",
+      "negative_aspect": "Can reduce economic efficiency and individual initiative.",
+      "historical_context": "Emerged during Industrial Revolution, developed through various movements.",
+      "modern_applications": [
+        "Public ownership",
+        "Cooperative enterprise",
+        "Economic planning",
+        "Worker rights"
+      ],
+      "reflection_questions": [
+        "How can economic democracy be implemented effectively?",
+        "What balance of planning and markets is optimal?",
+        "How should economic decisions be made collectively?"
+      ],
+      "related_concepts": ["Communism", "Democracy", "Planning", "Cooperation"]
+    },
+    {
+      "name": "Syndicalism",
+      "tags": ["political", "economic", "labor"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Economic Systems", "Labor Movements"],
+      "year_emerged": 1895,
+      "aspects": {
+        "political": {
+          "description": "Political movement advocating worker control through trade union organization.",
+          "key_features": [
+            "Worker control",
+            "Direct action",
+            "Union organization",
+            "Industrial democracy"
+          ]
+        },
+        "economic": {
+          "description": "Economic system based on worker-controlled industries and unions.",
+          "key_features": [
+            "Worker management",
+            "Industrial unions",
+            "Economic federation",
+            "Workplace democracy"
+          ]
+        }
+      },
+      "core_description": "A movement advocating worker control of industry through trade union organization.",
+      "positive_aspect": "Empowers workers and promotes workplace democracy.",
+      "negative_aspect": "Can face coordination challenges and internal conflicts.",
+      "historical_context": "Developed in late 19th century labor movement, influential in early 20th century.",
+      "modern_applications": [
+        "Worker cooperatives",
+        "Labor organization",
+        "Industrial relations",
+        "Workplace democracy"
+      ],
+      "reflection_questions": [
+        "How can industries be effectively worker-controlled?",
+        "What role should unions play in economy?",
+        "How can workplace democracy function effectively?"
+      ],
+      "related_concepts": ["Labor", "Unions", "Democracy", "Worker Control"]
+    },
+    {
+      "name": "Technocracy",
+      "tags": ["political", "technological", "administrative"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Governance Systems", "Management Systems"],
+      "year_emerged": 1919,
+      "aspects": {
+        "political": {
+          "description": "System of governance where decision-makers are selected based on technical expertise.",
+          "key_features": [
+            "Expert rule",
+            "Technical knowledge",
+            "Scientific management",
+            "Rational planning"
+          ]
+        },
+        "administrative": {
+          "description": "Administrative approach emphasizing technical expertise and rational management.",
+          "key_features": [
+            "Scientific method",
+            "Data-driven",
+            "Efficiency focus",
+            "Technical solutions"
+          ]
+        }
+      },
+      "core_description": "A system of governance emphasizing technical expertise and rational management.",
+      "positive_aspect": "Promotes evidence-based policy and technical efficiency.",
+      "negative_aspect": "Can neglect human factors and democratic values.",
+      "historical_context": "Emerged in early 20th century with increasing technological complexity.",
+      "modern_applications": [
+        "Policy making",
+        "City planning",
+        "Environmental management",
+        "Technology regulation"
+      ],
+      "reflection_questions": [
+        "How should expertise and democracy be balanced?",
+        "What role should experts play in governance?",
+        "Can technical solutions address social problems?"
+      ],
+      "related_concepts": ["Expertise", "Science", "Management", "Planning"]
+    },
+    {
+      "name": "Theocracy",
+      "tags": ["political", "religious", "governmental"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Governance Systems", "Religious Systems"],
+      "year_emerged": -3000,
+      "aspects": {
+        "political": {
+          "description": "System of government based on religious authority and law.",
+          "key_features": [
+            "Religious law",
+            "Divine authority",
+            "Sacred tradition",
+            "Religious leadership"
+          ]
+        },
+        "social": {
+          "description": "Social system organized around religious principles and authority.",
+          "key_features": [
+            "Religious values",
+            "Moral regulation",
+            "Sacred order",
+            "Spiritual guidance"
+          ]
+        }
+      },
+      "core_description": "A system of government where religious authority holds political power.",
+      "positive_aspect": "Can provide strong moral framework and social cohesion.",
+      "negative_aspect": "Often restricts individual freedom and religious diversity.",
+      "historical_context": "Ancient form of government, persisting in various forms to present.",
+      "modern_applications": [
+        "Religious law",
+        "Moral legislation",
+        "Social order",
+        "Cultural preservation"
+      ],
+      "reflection_questions": [
+        "What role should religion play in governance?",
+        "How can religious and secular authority coexist?",
+        "Can theocracy respect religious freedom?"
+      ],
+      "related_concepts": ["Religion", "Authority", "Law", "Tradition"]
+    },
+    {
+      "name": "Transhumanism",
+      "tags": ["philosophical", "technological", "futuristic"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Philosophical Movements", "Technology Frameworks"],
+      "year_emerged": 1957,
+      "aspects": {
+        "philosophical": {
+          "description": "Philosophy advocating use of technology to enhance human capabilities.",
+          "key_features": [
+            "Human enhancement",
+            "Technological progress",
+            "Morphological freedom",
+            "Posthuman future"
+          ]
+        },
+        "technological": {
+          "description": "Technological approach to human improvement and evolution.",
+          "key_features": [
+            "Biotechnology",
+            "Artificial intelligence",
+            "Life extension",
+            "Human augmentation"
+          ]
+        }
+      },
+      "core_description": "A movement advocating the use of technology to enhance human physical and cognitive capabilities.",
+      "positive_aspect": "Promotes human improvement and addresses fundamental limitations.",
+      "negative_aspect": "Raises ethical concerns and risks increasing inequality.",
+      "historical_context": "Emerged in mid-20th century, gained prominence with technological advances.",
+      "modern_applications": [
+        "Biotechnology",
+        "AI development",
+        "Medical enhancement",
+        "Life extension"
+      ],
+      "reflection_questions": [
+        "What limits should apply to human enhancement?",
+        "How will enhancement affect society?",
+        "What defines human nature?"
+      ],
+      "related_concepts": ["Technology", "Enhancement", "Evolution", "Posthumanism"]
+    },
+    {
+      "name": "Neo-Reactionism",
+      "tags": ["political", "philosophical", "technological"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Philosophical Movements", "Critical Theories"],
+      "year_emerged": 2007,
+      "aspects": {
+        "political": {
+          "description": "Critical movement opposing democracy and advocating return to authoritarian governance.",
+          "key_features": [
+            "Anti-democracy",
+            "Hierarchical order",
+            "Traditional authority",
+            "Technological governance"
+          ]
+        },
+        "philosophical": {
+          "description": "Philosophy critiquing modernist assumptions and progressive narratives.",
+          "key_features": [
+            "Anti-enlightenment",
+            "Technological acceleration",
+            "Social hierarchy",
+            "Cultural tradition"
+          ]
+        }
+      },
+      "core_description": "A contemporary movement critiquing democracy and modernity while advocating for authoritarian governance and technological advancement.",
+      "positive_aspect": "Provides systematic critique of democratic assumptions and institutional failures.",
+      "negative_aspect": "Promotes authoritarian solutions and can justify social inequality.",
+      "historical_context": "Emerged online in late 2000s, combining traditionalist and futurist elements.",
+      "modern_applications": [
+        "Political criticism",
+        "Institutional analysis",
+        "Technology theory",
+        "Social criticism"
+      ],
+      "reflection_questions": [
+        "How should traditional and modern elements be balanced?",
+        "What are democracy's fundamental challenges?",
+        "Can technology and tradition be reconciled?"
+      ],
+      "related_concepts": ["Reaction", "Technocracy", "Tradition", "Authority"]
+    },
+    {
+      "name": "Spiral Dynamics",
+      "tags": ["psychological", "developmental", "philosophical"],
+      "primary_category": "Developmental Frameworks",
+      "secondary_categories": ["Psychological Theories", "Social Systems"],
+      "year_emerged": 1974,
+      "aspects": {
+        "theoretical": {
+          "description": "A theory describing the evolution of worldviews and value systems in individuals and societies.",
+          "key_features": [
+            "Value memes (vMemes)",
+            "Developmental stages",
+            "Dynamic spiraling",
+            "Integrative approach"
+          ]
+        },
+        "practical": {
+          "description": "Applied framework for understanding and facilitating human development.",
+          "key_features": [
+            "Cultural assessment",
+            "Leadership development",
+            "Social transformation",
+            "Organizational change"
+          ]
+        }
+      },
+      "core_description": "A developmental model describing how human consciousness and societies evolve through distinct stages of increasing complexity.",
+      "positive_aspect": "Provides comprehensive framework for understanding human development and social evolution.",
+      "negative_aspect": "Can be misused to justify hierarchical thinking or oversimplify complex cultural differences.",
+      "historical_context": "Developed by Clare Graves, expanded by Beck and Cowan in the 1970s.",
+      "modern_applications": [
+        "Organizational development",
+        "Cultural analysis",
+        "Leadership training",
+        "Social change"
+      ],
+      "reflection_questions": [
+        "How do worldviews evolve over time?",
+        "What drives development between stages?",
+        "How can different value systems coexist?"
+      ],
+      "related_concepts": ["Development", "Consciousness", "Evolution", "Values"]
+    },
+    {
+      "name": "Yoga",
+      "tags": ["philosophical", "spiritual", "practical"],
+      "primary_category": "Spiritual Systems",
+      "secondary_categories": ["Philosophical Movements", "Practice Systems"],
+      "year_emerged": -3000,
+      "aspects": {
+        "philosophical": {
+          "description": "Ancient philosophical system aiming at union of individual consciousness with universal consciousness.",
+          "key_features": [
+            "Mind-body integration",
+            "Self-realization",
+            "Spiritual liberation",
+            "Consciousness exploration"
+          ]
+        },
+        "practical": {
+          "description": "System of practices for physical, mental, and spiritual development.",
+          "key_features": [
+            "Asana practice",
+            "Pranayama",
+            "Meditation",
+            "Ethical principles"
+          ]
+        }
+      },
+      "core_description": "A comprehensive system for physical, mental, and spiritual development originating in ancient India.",
+      "positive_aspect": "Provides practical methods for holistic development and well-being.",
+      "negative_aspect": "Can be reduced to mere physical exercise or commercialized spirituality.",
+      "historical_context": "Ancient Indian system, evolved over thousands of years, modern revival in 19th-20th centuries.",
+      "modern_applications": [
+        "Health practices",
+        "Stress management",
+        "Personal development",
+        "Spiritual practice"
+      ],
+      "reflection_questions": [
+        "What is the relationship between body and consciousness?",
+        "How can practice lead to transformation?",
+        "What is the goal of spiritual development?"
+      ],
+      "related_concepts": ["Meditation", "Buddhism", "Mind-Body", "Spirituality"]
+    },
+    {
+      "name": "Advaita Vedanta",
+      "tags": ["philosophical", "spiritual", "metaphysical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Spiritual Systems", "Metaphysical Systems"],
+      "year_emerged": 788,
+      "aspects": {
+        "philosophical": {
+          "description": "Non-dual philosophical system asserting the fundamental unity of all existence.",
+          "key_features": [
+            "Non-dualism",
+            "Self-inquiry",
+            "Consciousness unity",
+            "Reality nature"
+          ]
+        },
+        "practical": {
+          "description": "Methods for direct realization of non-dual truth through inquiry and meditation.",
+          "key_features": [
+            "Self-investigation",
+            "Discrimination practice",
+            "Knowledge path",
+            "Direct pointing"
+          ]
+        }
+      },
+      "core_description": "A philosophical tradition asserting the fundamental unity of existence and the identity of individual self with universal consciousness.",
+      "positive_aspect": "Provides direct methods for investigating consciousness and nature of reality.",
+      "negative_aspect": "Can be highly abstract and potentially lead to spiritual bypassing.",
+      "historical_context": "Systematized by Shankara in 8th century, based on ancient Upanishadic teachings.",
+      "modern_applications": [
+        "Spiritual inquiry",
+        "Consciousness studies",
+        "Psychological integration",
+        "Direct path practices"
+      ],
+      "reflection_questions": [
+        "What is the nature of consciousness?",
+        "How can unity be realized directly?",
+        "What is the relationship between appearance and reality?"
+      ],
+      "related_concepts": ["Nondualism", "Consciousness", "Buddhism", "Metaphysics"]
     }
   ]
 }

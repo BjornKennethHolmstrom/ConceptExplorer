@@ -4,15 +4,45 @@
   import ConceptCard from '../lib/components/ConceptCard.svelte';
   import ConceptNavigation from '../lib/components/ConceptNavigation.svelte';
   import ResultsHeader from '../lib/components/ResultsHeader.svelte';
+  import SearchBar from '../lib/components/SearchBar.svelte';
   import { ArrowUpDown } from 'lucide-svelte';
 
   let activeFilters = { tags: [], categories: [] };
   let currentSortMethod = 'alphabetical';
+  let searchQuery = "";
 
   const sortMethods = [
     { id: 'alphabetical', name: 'Alphabetical (A-Z)' },
     { id: 'chronological', name: 'Chronological' }
   ];
+
+  // Search function
+  function searchConcepts(concepts, query) {
+    if (!query.trim()) return concepts;
+    
+    const searchTerms = query.toLowerCase().split(' ').filter(Boolean);
+    
+    return concepts.filter(concept => {
+      const searchableText = [
+        concept.name,
+        concept.core_description,
+        concept.positive_aspect,
+        concept.negative_aspect,
+        concept.historical_context,
+        ...concept.tags,
+        concept.primary_category,
+        ...concept.secondary_categories,
+        ...concept.modern_applications
+      ].join(' ').toLowerCase();
+
+      return searchTerms.every(term => searchableText.includes(term));
+    });
+  }
+
+  // Handle search
+  function handleSearch({ detail }) {
+    searchQuery = detail.query;
+  }
 
   // Sorting functions
   function sortConcepts(concepts, sortMethod = currentSortMethod) {
@@ -33,6 +63,12 @@
     if ($currentConceptName) {
       currentConceptName.set(null);
     }
+  }
+
+  function clearAllFilters() {
+    activeFilters = { tags: [], categories: [] };
+    searchQuery = "";
+    filterConcepts(activeFilters);
   }
 
   // First, handle filtering
@@ -60,8 +96,9 @@
       })
     : [];
 
-  // Then, handle sorting
-  $: filteredAndSortedConcepts = sortConcepts(filteredConcepts, currentSortMethod);
+  // Then, apply search and sorting
+  $: searchedAndFilteredConcepts = searchConcepts(filteredConcepts, searchQuery);
+  $: finalConcepts = sortConcepts(searchedAndFilteredConcepts, currentSortMethod);
 </script>
 
 <div class="min-h-screen bg-gray-50 p-4">
@@ -115,19 +152,24 @@
 
       <!-- Main Content -->
       <main class="md:col-span-4 lg:col-span-6">
+        <div class="mb-4">
+          <SearchBar 
+            value={searchQuery}
+            on:search={handleSearch}
+            placeholder="Search concepts by name, description, tags..."
+          />
+        </div>
+
         <ResultsHeader 
-          resultCount={filteredAndSortedConcepts.length}
+          resultCount={finalConcepts.length}
           {activeFilters}
           {currentSortMethod}
-          onClearFilters={() => {
-            activeFilters = { tags: [], categories: [] };
-            filterConcepts(activeFilters);
-          }}
+          onClearFilters={clearAllFilters}
         />
 
-        {#if filteredAndSortedConcepts.length > 0}
+        {#if finalConcepts.length > 0}
           <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-            {#each filteredAndSortedConcepts as concept (concept.name)}
+            {#each finalConcepts as concept (concept.name)}
               <ConceptCard {concept} />
             {/each}
           </div>
@@ -137,7 +179,15 @@
               No concepts found
             </h2>
             <p class="text-gray-600">
-              Try adjusting your filters to see more concepts.
+              {searchQuery 
+                ? "Try different search terms or "
+                : "Try adjusting your filters or "}
+              <button
+                class="text-blue-600 hover:text-blue-700"
+                on:click={clearAllFilters}
+              >
+                clear all filters
+              </button>
             </p>
           </div>
         {/if}

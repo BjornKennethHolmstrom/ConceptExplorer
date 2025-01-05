@@ -1,49 +1,68 @@
 
-[ ] Accelerationism
+[x] Accelerationism
 [x] Aesthetics
-[ ] Anarchism
+[x] Anarchism
 [x] Artificial Intelligence
-[ ] Authoritarianism
+[x] Authoritarianism
+[x] Behavioral Economics
 [x] Buddhism
 [x] Capitalism
-[ ] Communism
-[ ] Conservatism
-[ ] Corporatism
+[x] Chaos Theory
+[x] Cognitive Science
+[x] Communism
+[x] Conservatism
+[x] Corporatism
+[x] Critical Race Theory
+[x] Cyberfeminism
 [x] Cybernetics
+[x] Deconstructionism
 [x] Democracy
+[x] Emergence
 [x] Empiricism
 [x] Environmentalism
+[x] Evolutionary Psychology
 [x] Existentialism
-[ ] Fascism
+[x] Fascism
 [x] Feminism
 [x] Game Theory
-[ ] Georgism
+[x] Georgism
 [x] Humanism
-[ ] Imperialism
-[ ] Liberalism
-[ ] Libertarianism
-[ ] Mercantilism
-[ ] Monarchism
-[ ] Nationalism
-[ ] Neoliberalism
+[x] Imperialism
+[x] Information Theory
+[x] Liberalism
+[x] Libertarianism
+[x] Media Ecology
+[x] Mercantilism
+[x] Monarchism
+[x] Nationalism
+[x] Neoliberalism
+[x] Neo-Reactionism
 [x] Nihilism
 [x] Nondualism
-[ ] Pan-Nationalism
-[ ] Phenomenology
-[ ] Populism
+[x] Object-Oriented Ontology
+[x] Pan-Nationalism
+[x] Phenomenology
+[x] Populism
+[x] Postcolonialism
 [x] Postmodernism
-[ ] Progressivism
+[x] Pragmatism
+[x] Progressivism
+[x] Psychoanalysis
+[x] Relativity Theory
 [x] Romanticism
 [x] Quantum Theory
 [x] Scientific Method
-[ ] Social Democracy
-[ ] Socialism
+[x] Semiotics
+[x] Social Democracy
+[x] Socialism
 [x] Stoicism
 [x] Structuralism
-[ ] Syndicalism
+[x] Syndicalism
+[x] Systems Thinking
 [x] Taoism
-[ ] Technocracy
-[ ] Theocracy
-[ ] Transhumanism
-
+[x] Technocracy
+[x] Theocracy
+[x] Transhumanism
+[x] Utilitarianism
+[x] Virtue Ethics
 
