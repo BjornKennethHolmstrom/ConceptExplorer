@@ -11,7 +11,7 @@ const config = {
       strict: false // Disable strict mode
     }),
     paths: {
-      base: process.env.NODE_ENV === 'production' ? '/revisiting-the-known' : ''
+      base: process.env.NODE_ENV === 'production' ? '/ConceptExplorer' : ''
     },
     prerender: {
       entries: ['*'] // Pre-render all routes

@@ -1,4 +1,4 @@
-# Revisiting the Known - A Concept Explorer
+# Concept Explorer - Revisiting the Known
 
 A web application designed to explore various concepts, including political ideologies, philosophical movements, and more. The project aims to provide an interactive way for users to learn about different ideas, their positive and negative aspects, historical contexts, and related concepts.
 
