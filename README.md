@@ -4,22 +4,35 @@ A web application designed to explore various concepts, including political ideo
 
 ## Features
 
-- **Category-based browsing**: Organize concepts into categories like Political Ideologies, Philosophical Movements, etc.
-- **Collapsible concept cards**: Cards expand and collapse on click, allowing users to read more or less as desired.
-- **Related concepts**: Navigate between related concepts by clicking on keywords that link to other concepts within the platform.
-- **Interactive experience**: Symbols and subtle colors highlight positive and negative aspects, making the experience more visually engaging.
+- **Rich Concept Library**: Extensive collection of concepts from politics, philosophy, spirituality, and more
+- **Multi-faceted Exploration**: 
+  - Category and tag-based browsing
+  - Chronological or alphabetical sorting
+  - Full-text search with suggestions
+  - Collapsible category groups
+- **Interactive Cards**: 
+  - Expandable concept cards with detailed information
+  - Color-coded sections for different aspects
+  - Related concepts navigation
+  - Historical context and modern applications
+- **Responsive Design**: 
+  - Optimized for both desktop and mobile
+  - Efficient use of screen space
+  - Smooth transitions and animations
 
 ## Technologies Used
 
-- **Frontend**: Svelte (for reactive UI components)
-- **Styling**: CSS (for clean and responsive layout)
-- **Icons**: [Lucide React](https://github.com/lucide-icons/lucide) (for interactive icon-based features)
+- **Frontend**: Svelte 5 with TypeScript
+- **Styling**: TailwindCSS for responsive design
+- **Icons**: Lucide Svelte for interactive features
+- **State Management**: Native Svelte stores
 
 ## Installation
 
 ### Prerequisites
 
-- Node.js and npm installed.
+- Node.js (v18 or higher)
+- npm or pnpm
 
 ### Steps
 
@@ -32,34 +45,59 @@ A web application designed to explore various concepts, including political ideo
 2. Install dependencies:
    ```bash
    npm install
+   # or
+   pnpm install
    ```
 
 3. Run the development server:
    ```bash
    npm run dev
+   # or
+   pnpm dev
    ```
 
-4. Open your browser and visit `http://localhost:5000` to explore the concepts.
+4. Open your browser and visit `http://localhost:5173` to explore the concepts.
 
 ## Usage
 
-- Browse through various categories of concepts.
-- Click on any concept card to view more details.
-- Use the provided related concepts to navigate to other cards for deeper exploration.
-- Explore the positive and negative aspects of each concept, as well as their historical context and modern applications.
+- **Browse Concepts**: Navigate through categories or use the search function
+- **Explore Details**: Click on concept cards to view comprehensive information
+- **Filter Content**: Use tags and categories to focus on specific areas
+- **Sort Options**: Choose between chronological or alphabetical ordering
+- **Related Concepts**: Follow concept connections to discover related ideas
+
+## Project Structure
+
+```
+src/
+├── lib/
+│   ├── components/    # Reusable UI components
+│   ├── stores/        # State management
+│   └── types/         # TypeScript definitions
+├── routes/           # SvelteKit routes
+└── app.css          # Global styles
+```
 
 ## Contributing
 
-Feel free to fork the repository, submit pull requests, and contribute to the project. Contributions are welcome, whether it's improving the UI, adding more concepts, or fixing bugs.
+Contributions are welcome! Whether it's adding new concepts, improving the UI, or fixing bugs.
 
 ### How to contribute
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push them to your fork.
-4. Submit a pull request.
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes
+4. Submit a pull request
+
+### Areas for Contribution
+
+- Adding new concepts
+- Improving concept descriptions
+- Enhancing UI/UX
+- Adding new features
+- Fixing bugs
+- Improving documentation
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
