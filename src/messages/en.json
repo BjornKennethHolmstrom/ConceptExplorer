@@ -5,6 +5,7 @@
       "tags": ["philosophical", "spiritual", "metaphysical"],
       "primary_category": "Philosophical Movements",
       "secondary_categories": ["Spiritual Traditions", "Metaphysical Systems"],
+      "year_emerged": -700,
       "aspects": {
         "philosophical": {
           "description": "A metaphysical perspective that challenges the fundamental separation between subject and object, self and other",
@@ -53,6 +54,7 @@
       "tags": ["economic", "political", "social"],
       "primary_category": "Economic Systems",
       "secondary_categories": ["Political Ideologies", "Social Systems"],
+      "year_emerged": 1500,
       "aspects": {
         "economic": {
           "description": "A market-based economic system based on private ownership and profit-driven enterprise",
@@ -104,6 +106,7 @@
       "tags": ["social", "political", "philosophical", "scientific"],
       "primary_category": "Social Movements",
       "secondary_categories": ["Political Ideologies", "Ethical Frameworks"],
+      "year_emerged": 1860,
       "aspects": {
         "social": {
           "description": "A social movement advocating for environmental protection and sustainable practices",
@@ -149,6 +152,135 @@
         "How can technology support environmental goals?"
       ],
       "related_concepts": ["Conservation", "Sustainability", "Ecology", "Green Politics", "Environmental Justice"]
+    },
+    {
+      "name": "Stoicism",
+      "tags": ["philosophical", "ethical", "practical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Personal Development"],
+      "year_emerged": -300,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical system emphasizing rational acceptance of fate, emotional self-regulation, and ethical conduct.",
+          "key_features": [
+            "Logic and rationality",
+            "Acceptance of nature's order",
+            "Emphasis on personal virtue",
+            "Distinction between controllable and uncontrollable"
+          ]
+        },
+        "practical": {
+          "description": "A practical approach to daily life focusing on self-discipline, resilience, and ethical behavior.",
+          "key_features": [
+            "Mindfulness practices",
+            "Emotional regulation",
+            "Focus on personal responsibility",
+            "Practical problem-solving"
+          ]
+        }
+      },
+      "core_description": "A philosophical and practical system emphasizing rational thinking, emotional regulation, and ethical living in harmony with nature's laws.",
+      "positive_aspect": "Provides practical tools for resilience, emotional stability, and ethical living regardless of circumstances.",
+      "negative_aspect": "Can be misinterpreted as promoting passive acceptance or suppression of emotions.",
+      "historical_context": "Emerged in Ancient Greece around 300 BCE through Zeno of Citium, developed in Roman Empire through figures like Marcus Aurelius.",
+      "modern_applications": [
+        "Cognitive Behavioral Therapy",
+        "Resilience training",
+        "Leadership development",
+        "Personal development practices"
+      ],
+      "reflection_questions": [
+        "How can we distinguish between what we can and cannot control?",
+        "What role should emotions play in decision-making?",
+        "How can we maintain tranquility in difficult circumstances?"
+      ],
+      "related_concepts": ["Virtue Ethics", "Buddhism", "Rationalism", "Mindfulness"]
+    },
+    {
+      "name": "Humanism",
+      "tags": ["philosophical", "ethical", "secular"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Political Ideologies"],
+      "year_emerged": 1350,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical outlook centered on human agency, reason, and scientific inquiry rather than supernatural or religious explanations.",
+          "key_features": [
+            "Human-centered ethics",
+            "Emphasis on reason",
+            "Scientific methodology",
+            "Individual dignity"
+          ]
+        },
+        "ethical": {
+          "description": "An ethical framework based on human welfare, dignity, and potential without reference to supernatural authority.",
+          "key_features": [
+            "Human rights",
+            "Individual autonomy",
+            "Ethical naturalism",
+            "Universal human values"
+          ]
+        }
+      },
+      "core_description": "A philosophical and cultural movement emphasizing human potential, reason, and scientific inquiry over religious or supernatural authority.",
+      "positive_aspect": "Promotes human dignity, scientific progress, and universal ethical principles based on reason and evidence.",
+      "negative_aspect": "May undervalue spiritual and traditional sources of meaning and wisdom.",
+      "historical_context": "Emerged during the Renaissance as a revival of classical learning, later developing into both secular and religious forms.",
+      "modern_applications": [
+        "Human rights advocacy",
+        "Scientific education",
+        "Secular ethics",
+        "Progressive social movements"
+      ],
+      "reflection_questions": [
+        "Can human reason alone provide adequate foundations for ethics?",
+        "How can humanism address spiritual and existential needs?",
+        "What are the limits of scientific knowledge?"
+      ],
+      "related_concepts": ["Rationalism", "Secularism", "Renaissance", "Enlightenment"]
+    },
+    {
+      "name": "Existentialism",
+      "tags": ["philosophical", "ethical", "psychological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Literary Movements", "Psychological Theories"],
+      "year_emerged": 1850,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical approach emphasizing individual existence, freedom, and responsibility in an apparently meaningless universe.",
+          "key_features": [
+            "Radical freedom",
+            "Personal authenticity",
+            "Subjective experience",
+            "Confronting absurdity"
+          ]
+        },
+        "psychological": {
+          "description": "A psychological perspective focusing on individual meaning-making, anxiety, and authentic living.",
+          "key_features": [
+            "Existential anxiety",
+            "Personal meaning creation",
+            "Authentic self-expression",
+            "Confronting mortality"
+          ]
+        }
+      },
+      "core_description": "A philosophical movement focusing on the human condition of individual existence, freedom, responsibility, and the search for meaning.",
+      "positive_aspect": "Empowers individuals to create meaning and take responsibility for their lives despite uncertainty.",
+      "negative_aspect": "Can lead to anxiety, nihilism, or excessive focus on individual experience.",
+      "historical_context": "Emerged in mid-19th century through Kierkegaard and Nietzsche, gained prominence after World War II through Sartre and Camus.",
+      "modern_applications": [
+        "Existential psychotherapy",
+        "Personal development",
+        "Literary analysis",
+        "Authenticity practices"
+      ],
+      "reflection_questions": [
+        "How do we create meaning in an apparently meaningless universe?",
+        "What does it mean to live authentically?",
+        "How should we face the certainty of death?"
+      ],
+      "related_concepts": ["Phenomenology", "Nihilism", "Authenticity", "Freedom"]
     }
   ]
 }

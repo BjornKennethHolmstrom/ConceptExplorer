@@ -3,25 +3,52 @@
   import { currentConceptName } from '../lib/stores/conceptStore.js';
   import ConceptCard from '../lib/components/ConceptCard.svelte';
   import ConceptNavigation from '../lib/components/ConceptNavigation.svelte';
+  import { ArrowUpDown } from 'lucide-svelte';
 
-  let activeFilters = { tags: [], category: '' };
+  let activeFilters = { tags: [], categories: [] };
+  let currentSortMethod = 'alphabetical';
+  let filteredAndSortedConcepts = [];
 
-  function filterConcepts({ tags, category }) {
-    activeFilters = { tags, category };
+  const sortMethods = [
+    { id: 'alphabetical', name: 'Alphabetical (A-Z)' },
+    { id: 'chronological', name: 'Chronological' }
+  ];
+
+  // Sorting functions
+  function sortConcepts(concepts, sortMethod = currentSortMethod) {
+    switch (sortMethod) {
+      case 'alphabetical':
+        return [...concepts].sort((a, b) => a.name.localeCompare(b.name));
+      case 'chronological':
+        return [...concepts].sort((a, b) => 
+          (a.year_emerged || 9999) - (b.year_emerged || 9999)
+        );
+      default:
+        return concepts;
+    }
+  }
+
+  function filterConcepts({ tags, categories }) {
+    activeFilters = { tags, categories };
     if ($currentConceptName) {
       currentConceptName.set(null);
     }
   }
 
+  // First, handle filtering
   $: filteredConcepts = $messages.concepts ? 
     $currentConceptName ?
       [$messages.concepts.find(c => c.name === $currentConceptName)].filter(Boolean) :
       $messages.concepts.filter(concept => {
         // Category filter
-        if (activeFilters.category && 
-            concept.primary_category !== activeFilters.category && 
-            !concept.secondary_categories.includes(activeFilters.category)) {
-          return false;
+        if (activeFilters.categories.length > 0) {
+          const inPrimaryCategory = activeFilters.categories.includes(concept.primary_category);
+          const inSecondaryCategories = concept.secondary_categories.some(cat => 
+            activeFilters.categories.includes(cat)
+          );
+          if (!inPrimaryCategory && !inSecondaryCategories) {
+            return false;
+          }
         }
         
         // Tag filter
@@ -32,6 +59,9 @@
         return true;
       })
     : [];
+
+  // Then, handle sorting
+  $: filteredAndSortedConcepts = sortConcepts(filteredConcepts, currentSortMethod);
 </script>
 
 <div class="min-h-screen bg-gray-50 p-4">
@@ -39,7 +69,30 @@
     <div class="grid grid-cols-1 md:grid-cols-6 lg:grid-cols-8 gap-6">
       <!-- Navigation Sidebar -->
       <aside class="md:col-span-2 lg:col-span-2">
-        <div class="sticky top-4">
+        <div class="sticky top-4 space-y-4">
+          <!-- Sort Method Selector -->
+          <div class="bg-white rounded-lg shadow-md p-3">
+            <div class="flex items-center gap-2 mb-3">
+              <ArrowUpDown size={18} />
+              <h2 class="text-lg font-semibold">Sort By</h2>
+            </div>
+            <div class="space-y-2">
+              {#each sortMethods as method}
+                <button
+                  class="w-full text-left px-3 py-2 rounded-md transition-colors {
+                    currentSortMethod === method.id
+                      ? 'bg-blue-100 text-blue-700'
+                      : 'hover:bg-gray-100'
+                  }"
+                  on:click={() => currentSortMethod = method.id}
+                >
+                  {method.name}
+                </button>
+              {/each}
+            </div>
+          </div>
+
+          <!-- Navigation Component -->
           <ConceptNavigation 
             concepts={$messages.concepts ?? []} 
             onFilterChange={filterConcepts}
@@ -62,9 +115,9 @@
 
       <!-- Main Content -->
       <main class="md:col-span-4 lg:col-span-6">
-        {#if filteredConcepts.length > 0}
+        {#if filteredAndSortedConcepts.length > 0}
           <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-            {#each filteredConcepts as concept (concept.name)}
+            {#each filteredAndSortedConcepts as concept (concept.name)}
               <ConceptCard {concept} />
             {/each}
           </div>
