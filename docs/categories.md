@@ -6,7 +6,7 @@ To begin, let’s brainstorm categories of concepts to include. Here are some id
 
 ### Categories for "Revisiting the Known"
 1. **Political Ideologies**
-   - Examples: Democracy, Anarchy, Liberalism, Conservatism, Fascism, Theocracy
+   - Examples: Democracy, Anarchy, Authoritarianism, Communitarianism, Corporatism, Liberalism, Libertarianism, Conservatism, Fascism, Populism, Progressivism, Syndicalism, Theocracy, Transhumanism
 
 2. **Economic Systems**
    - Examples: Capitalism, Communism, Socialism, Feudalism, Barter Systems

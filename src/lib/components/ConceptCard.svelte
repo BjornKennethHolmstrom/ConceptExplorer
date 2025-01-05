@@ -1,166 +1,185 @@
 <script>
-  import { ChevronDown, ChevronUp, Smile, Frown, BookOpen, Link } from 'lucide-svelte';
-  import { getContext } from 'svelte';
-
-  export let relatedConceptsMap; // Pass a map of concepts with their categories.
+  import { 
+    ChevronDown, 
+    ChevronUp, 
+    Smile, 
+    Frown, 
+    History, 
+    Sparkles, 
+    Tags, 
+    FolderOpen,
+    ListFilter
+  } from 'lucide-svelte';
+  import RelatedConcepts from './RelatedConcepts.svelte';
+  import { currentConceptName } from '../stores/conceptStore';
 
   export let concept = {
     name: "Unknown Concept",
-    description: "No description available.",
+    tags: [],
+    primary_category: "",
+    secondary_categories: [],
+    aspects: {},
+    core_description: "No description available.",
     positive_aspect: "No positive aspects available.",
     negative_aspect: "No negative aspects available.",
     historical_context: "No historical context available.",
-    modern_applications: "No modern applications available.",
+    modern_applications: [],
     reflection_questions: [],
     related_concepts: []
   };
 
   let isExpanded = false;
+  let selectedAspect = Object.keys(concept.aspects)[0] || null;
+
+  $: aspectKeys = Object.keys(concept.aspects);
 
   function toggleExpanded() {
     isExpanded = !isExpanded;
   }
 
-  function navigateToConcept(conceptName) {
-    if (relatedConceptsMap[conceptName]) {
-      const { category, concept } = relatedConceptsMap[conceptName];
-      // Logic to update the UI to show this concept in its category
-      // You can emit an event or directly update state/context
-      alert(`Navigate to ${conceptName} under ${category}`);
-    } else {
-      alert(`Concept ${conceptName} not found!`);
-    }
+  function selectAspect(aspect) {
+    selectedAspect = aspect;
   }
 </script>
 
-<div class="concept-card">
-  <div class="card-header" on:click={toggleExpanded}>
-    <h3>{concept.name}</h3>
-    <button class="toggle-button">
-      {#if isExpanded}
-        <ChevronUp size="20" />
-      {:else}
-        <ChevronDown size="20" />
-      {/if}
-    </button>
-  </div>
-  {#if isExpanded}
-    <div class="card-content">
-      <p><strong><BookOpen size="16" /> Description:</strong> {concept.description}</p>
-      <p>
-        <strong class="positive"><Smile size="16" /> Positive:</strong> 
-        {concept.positive_aspect}
-      </p>
-      <p>
-        <strong class="negative"><Frown size="16" /> Negative:</strong> 
-        {concept.negative_aspect}
-      </p>
-      <p><strong>Historical Context:</strong> {concept.historical_context}</p>
-      <p><strong>Modern Applications:</strong> {concept.modern_applications}</p>
-      <div>
-        <strong>Reflection Questions:</strong>
-        <ul>
-          {#each concept.reflection_questions as question}
-            <li>{question}</li>
-          {/each}
-        </ul>
+<div class="w-full bg-white rounded-lg shadow-md transition-all duration-300 {
+  isExpanded ? 'lg:col-span-2 xl:col-span-3 row-span-2' : 'hover:shadow-lg'
+}">
+  <!-- Card Header -->
+  <div class="border-b">
+    <div class="p-4">
+      <div class="flex items-start justify-between mb-2">
+        <h3 class="text-xl font-semibold">{concept.name}</h3>
+        <button 
+          class="p-1 hover:bg-gray-100 rounded-full transition-colors"
+          on:click={toggleExpanded}
+        >
+          {#if isExpanded}
+            <ChevronUp size={20} />
+          {:else}
+            <ChevronDown size={20} />
+          {/if}
+        </button>
       </div>
-      <div>
-        <strong><Link size="16" /> Related Concepts:</strong>
-        <ul>
-          {#each concept.related_concepts as related}
-            <li>
-              <a 
-                href="#" 
-                on:click|preventDefault={() => navigateToConcept(related)} 
-                class="related-concept"
-              >
-                {related}
-              </a>
-            </li>
+
+      <!-- Categories and Tags -->
+      <div class="flex flex-wrap gap-2 mb-3">
+        <div class="flex items-center gap-1 text-sm text-blue-600">
+          <FolderOpen size={14} />
+          <span>{concept.primary_category}</span>
+        </div>
+        <div class="flex flex-wrap gap-1">
+          {#each concept.tags as tag}
+            <span class="px-2 py-0.5 bg-gray-100 text-gray-600 rounded-full text-xs">
+              {tag}
+            </span>
           {/each}
-        </ul>
+        </div>
+      </div>
+
+      <!-- Core Description -->
+      <p class="text-gray-600">{concept.core_description}</p>
+    </div>
+  </div>
+
+  {#if isExpanded}
+    <div class="p-4 space-y-6">
+      <!-- Aspect Navigation -->
+      {#if aspectKeys.length > 0}
+        <div class="border rounded-lg overflow-hidden">
+          <div class="flex overflow-x-auto">
+            {#each aspectKeys as aspect}
+              <button
+                class="px-4 py-2 whitespace-nowrap transition-colors {
+                  selectedAspect === aspect
+                    ? 'bg-blue-50 text-blue-700 border-b-2 border-blue-500'
+                    : 'hover:bg-gray-50 border-b border-gray-200'
+                }"
+                on:click={() => selectAspect(aspect)}
+              >
+                {aspect}
+              </button>
+            {/each}
+          </div>
+
+          <!-- Aspect Content -->
+          {#if selectedAspect}
+            <div class="p-4 bg-gray-50">
+              <p class="mb-3">{concept.aspects[selectedAspect].description}</p>
+              <div class="space-y-2">
+                <h4 class="font-medium">Key Features:</h4>
+                <ul class="list-disc list-inside">
+                  {#each concept.aspects[selectedAspect].key_features as feature}
+                    <li>{feature}</li>
+                  {/each}
+                </ul>
+              </div>
+            </div>
+          {/if}
+        </div>
+      {/if}
+
+      <!-- Positive and Negative Aspects Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div class="bg-green-50 p-4 rounded-lg">
+          <div class="flex items-center gap-2 text-green-700 font-medium mb-2">
+            <Smile size={18} />
+            <span>Positive Aspects</span>
+          </div>
+          <p class="text-gray-800">{concept.positive_aspect}</p>
+        </div>
+        <div class="bg-red-50 p-4 rounded-lg">
+          <div class="flex items-center gap-2 text-red-700 font-medium mb-2">
+            <Frown size={18} />
+            <span>Negative Aspects</span>
+          </div>
+          <p class="text-gray-800">{concept.negative_aspect}</p>
+        </div>
+      </div>
+
+      <!-- Historical Context -->
+      <div class="bg-blue-50 p-4 rounded-lg">
+        <div class="flex items-center gap-2 text-blue-700 font-medium mb-2">
+          <History size={18} />
+          <span>Historical Context</span>
+        </div>
+        <p class="text-gray-800">{concept.historical_context}</p>
+      </div>
+
+      <!-- Modern Applications -->
+      <div class="bg-purple-50 p-4 rounded-lg">
+        <div class="flex items-center gap-2 text-purple-700 font-medium mb-2">
+          <Sparkles size={18} />
+          <span>Modern Applications</span>
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {#each concept.modern_applications as application}
+            <span class="px-3 py-1 bg-white/50 rounded-full text-sm">
+              {application}
+            </span>
+          {/each}
+        </div>
+      </div>
+
+      <!-- Reflection Questions -->
+      <div class="border rounded-lg p-4">
+        <h4 class="font-medium mb-3">Reflection Questions</h4>
+        <div class="space-y-2">
+          {#each concept.reflection_questions as question}
+            <p class="text-gray-700">{question}</p>
+          {/each}
+        </div>
+      </div>
+
+      <!-- Related Concepts -->
+      <div class="border-t pt-4">
+        <RelatedConcepts
+          relatedConcepts={concept.related_concepts}
+          onNavigate={(conceptName) => {
+            currentConceptName.set(conceptName);
+          }}
+        />
       </div>
     </div>
   {/if}
 </div>
-
-<style>
-  .concept-card {
-    border: 1px solid #ddd;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
-    transition: all 0.3s ease;
-  }
-
-  .concept-card:hover {
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
-  }
-
-  .card-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    cursor: pointer;
-    font-weight: bold;
-  }
-
-  h1 {
-    background: linear-gradient(to right, #e3f2fd, #e0f7fa);
-    padding: 1rem;
-    border-radius: 8px;
-    margin-bottom: 1rem;
-  }
-
-  .toggle-button {
-    background: none;
-    border: none;
-    cursor: pointer;
-  }
-
-  .card-content {
-    margin-top: 1rem;
-  }
-
-  .positive {
-    color: #4caf50; /* Soft green */
-  }
-
-  .negative {
-    color: #f44336; /* Soft red */
-  }
-
-  .related-concept {
-    cursor: pointer;
-    text-decoration: underline;
-    color: #007bff; /* Subtle blue */
-    transition: color 0.2s ease;
-  }
-
-  .related-concept:hover {
-    color: #0056b3; /* Darker blue */
-  }
-
-  ul {
-    margin: 0;
-    padding-left: 1.5rem;
-  }
-
-  li {
-    margin-bottom: 0.5rem;
-  }
-
-  p {
-    margin-bottom: 1rem;
-  }
-
-  strong {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-</style>
-

@@ -1,0 +1,392 @@
+{
+  "categories": [
+    {
+      "name": "Political Ideologies",
+      "concepts": [
+        {
+          "name": "Accelerationism",
+          "description": "A political and philosophical movement advocating for the acceleration of technological and social change, either to advance or transcend current capitalist systems.",
+          "positive_aspect": "Embraces technological progress, challenges traditional thinking, and seeks radical solutions to systemic problems.",
+          "negative_aspect": "May increase social disruption, ignore harmful consequences, and promote dangerous technological development.",
+          "historical_context": "Emerged from critical theory and cybercultural discussions in the late 20th century, gained prominence in digital age debates.",
+          "modern_applications": "Technological development policies, digital revolution advocacy, post-capitalist planning.",
+          "reflection_questions": [
+            "Should technological and social change be accelerated or managed?",
+            "How can societies navigate increasingly rapid technological change?"
+          ],
+          "related_concepts": ["Transhumanism", "Futurism", "Technocracy", "Post-capitalism"]
+        }
+        {
+          "name": "Anarchism",
+          "description": "A political philosophy advocating for the abolition of hierarchical authority and the creation of a society based on voluntary cooperation and mutual aid.",
+          "positive_aspect": "Emphasizes individual freedom, mutual aid, and direct democracy while challenging unjust power structures and promoting self-organization.",
+          "negative_aspect": "Can face challenges in maintaining social order and coordinating large-scale projects without formal institutions.",
+          "historical_context": "Emerged in the 19th century through thinkers like Pierre-Joseph Proudhon and Mikhail Bakunin, gaining prominence during various social movements and revolutions.",
+          "modern_applications": "Worker cooperatives, mutual aid networks, horizontal organizing in social movements, and decentralized internet communities.",
+          "reflection_questions": [
+            "How can society function effectively without centralized authority?",
+            "What role should voluntary cooperation play in organizing society?"
+          ],
+          "related_concepts": ["Libertarianism", "Socialism", "Democracy", "Collectivism"]
+        },
+        {
+          "name": "Authoritarianism",
+          "description": "A form of government characterized by strong central power, limited political pluralism, and emphasis on obedience to authority.",
+          "positive_aspect": "Can enable rapid decision-making and implementation of policies, particularly in times of crisis or major transitions.",
+          "negative_aspect": "Often leads to human rights violations, suppression of individual freedoms, and abuse of power.",
+          "historical_context": "Has existed throughout history in various forms, from ancient empires to modern dictatorships and single-party states.",
+          "modern_applications": "Various forms of state control, surveillance systems, and centralized economic planning.",
+          "reflection_questions": [
+            "What conditions lead societies to accept authoritarian rule?",
+            "How do authoritarian systems maintain power and legitimacy?"
+          ],
+          "related_concepts": ["Totalitarianism", "Dictatorship", "Democracy", "Fascism"]
+        },
+        {
+          "name": "Capitalism",
+          "description": "An economic system based on private ownership and free markets.",
+          "positive_aspect": "Drives innovation and rewards individual effort.",
+          "negative_aspect": "Can lead to wealth inequality and exploitation.",
+          "historical_context": "Rooted in mercantilism and liberal economic theories of the 16th-18th centuries.",
+          "modern_applications": "Startups, global trade, and technological advancements.",
+          "reflection_questions": [
+            "What role should ethics play in market competition?",
+            "How can capitalism address wealth inequality?"
+          ],
+          "related_concepts": ["Free Market", "Consumerism", "Liberalism"]
+        },
+        {
+          "name": "Communism",
+          "description": "An ideology aiming for shared ownership of resources and a classless society.",
+          "positive_aspect": "Encourages community and shared responsibilities.",
+          "negative_aspect": "Historically associated with authoritarianism and loss of personal freedoms.",
+          "historical_context": "Developed by Karl Marx and Friedrich Engels in the 19th century as a critique of capitalism.",
+          "modern_applications": "Worker-owned cooperatives, universal basic income discussions, and solidarity economies.",
+          "reflection_questions": [
+            "What would a truly classless society look like?",
+            "How can shared ownership coexist with personal freedoms?"
+          ],
+          "related_concepts": ["Socialism", "Anarchism", "Marxism"]
+        },
+        {
+          "name": "Conservatism",
+          "description": "A political philosophy emphasizing traditional institutions, stability, hierarchy, and the preservation of established customs and values.",
+          "positive_aspect": "Preserves tested social institutions, promotes stability, and maintains cultural continuity across generations.",
+          "negative_aspect": "Can resist necessary social changes, perpetuate existing inequalities, and slow progress on emerging issues.",
+          "historical_context": "Emerged as a coherent philosophy in response to the French Revolution, developed by thinkers like Edmund Burke and later evolved into various forms.",
+          "modern_applications": "Traditional family values advocacy, preservation of cultural heritage, institutional stability in governance.",
+          "reflection_questions": [
+            "How can societies balance preservation of tradition with necessary change?",
+            "What role should established institutions play in modern society?"
+          ],
+          "related_concepts": ["Liberalism", "Traditionalism", "Progressivism", "Nationalism"]
+        },
+        {
+          "name": "Corporatism",
+          "description": "A political and economic system where power is held by organized interest groups or corporate bodies representing different economic, industrial, and professional segments.",
+          "positive_aspect": "Can facilitate coordination between different social groups and enable efficient economic planning through organized cooperation.",
+          "negative_aspect": "May lead to entrenched special interests, reduced competition, and democratic deficit.",
+          "historical_context": "Developed in the late 19th century, influenced fascist economies, and exists in modified forms in some modern social democracies.",
+          "modern_applications": "Trade unions, business associations, professional licensing bodies, and tripartite negotiation systems.",
+          "reflection_questions": [
+            "How can corporatist structures balance group interests with the common good?",
+            "What role should organized interest groups play in governance?"
+          ],
+          "related_concepts": ["Fascism", "Syndicalism", "State Capitalism", "Social Democracy"]
+        },
+        {
+          "name": "Democracy",
+          "description": "A system of governance where power lies with the people, typically exercised through voting, representation, and civic participation.",
+          "positive_aspect": "Enables collective decision-making, protects individual rights, and provides mechanisms for peaceful transfer of power.",
+          "negative_aspect": "Can be slow to respond to crises, susceptible to manipulation through populism, and may lead to tyranny of the majority.",
+          "historical_context": "Originated in ancient Athens, evolved through various forms, and became the dominant global political system following World War II.",
+          "modern_applications": "Representative democracies, referendums, participatory budgeting, and digital democracy initiatives.",
+          "reflection_questions": [
+            "How can democracies balance majority rule with minority rights?",
+            "What role should direct citizen participation play in modern democracy?"
+          ],
+          "related_concepts": ["Republicanism", "Liberalism", "Authoritarianism", "Popular Sovereignty"]
+        },
+        {
+          "name": "Environmentalism",
+          "description": "A political and social movement focused on environmental protection, sustainability, and the relationship between humans and nature.",
+          "positive_aspect": "Promotes ecological sustainability, protection of natural resources, and long-term planetary health.",
+          "negative_aspect": "Can conflict with economic development goals and face resistance from established interests.",
+          "historical_context": "Gained prominence in the 1960s, evolved from conservation movements to address global environmental challenges.",
+          "modern_applications": "Green politics, sustainability initiatives, climate change policies, conservation efforts.",
+          "reflection_questions": [
+            "How can environmental protection be balanced with economic development?",
+            "What role should environmental concerns play in political decision-making?"
+          ],
+          "related_concepts": ["Progressivism", "Green Politics", "Deep Ecology", "Eco-socialism"]
+        },
+        {
+          "name": "Fascism",
+          "description": "An ultranationalist, authoritarian ideology emphasizing total state power, social regimentation, and suppression of opposition.",
+          "positive_aspect": "Can mobilize national resources effectively and create strong sense of collective purpose and unity.",
+          "negative_aspect": "Leads to extreme human rights violations, suppression of individual freedoms, and often results in war and genocide.",
+          "historical_context": "Rose to prominence in the early 20th century, notably in Italy under Mussolini and Germany under Hitler, largely discredited after World War II.",
+          "modern_applications": "Neo-fascist movements, ultranationalist political parties, authoritarian populist tendencies.",
+          "reflection_questions": [
+            "What societal conditions enable the rise of fascist movements?",
+            "How can societies protect themselves against fascist tendencies?"
+          ],
+          "related_concepts": ["Authoritarianism", "Nationalism", "Totalitarianism", "Corporatism"]
+        },
+        {
+          "name": "Feminism",
+          "description": "A movement advocating for mutual respect and equal opportunities between sexes.",
+          "positive_aspect": "Promotes equality and challenges systemic sexism.",
+          "negative_aspect": "Can sometimes lead to polarizing or oversimplified narratives.",
+          "historical_context": "Emerging in the 19th century, feminism has evolved through multiple waves to address various forms of inequality.",
+          "modern_applications": "Pay equity initiatives, women's marches, and awareness campaigns.",
+          "reflection_questions": [
+            "What does equality mean to you?",
+            "How can we respect differences while striving for equality?"
+          ],
+          "related_concepts": ["Patriarchy", "Humanism", "Intersectionality"]
+        },
+        {
+          "name": "Georgism",
+          "description": "An economic philosophy advocating for common ownership of natural resources and land value taxation while supporting private ownership of human-created wealth.",
+          "positive_aspect": "Addresses economic rent, promotes efficient land use, and could reduce wealth inequality.",
+          "negative_aspect": "Faces implementation challenges and resistance from established property interests.",
+          "historical_context": "Developed by Henry George in the late 19th century, influenced various progressive and land reform movements.",
+          "modern_applications": "Land value taxation, resource dividend programs, urban planning policies.",
+          "reflection_questions": [
+            "How might Georgist principles address modern economic challenges?",
+            "What distinguishes natural resources from other forms of wealth?"
+          ],
+          "related_concepts": ["Socialism", "Free Market", "Progressive Economics", "Land Reform"]
+        },
+        {
+          "name": "Imperialism",
+          "description": "A policy or ideology of extending a nation's power through colonization, military force, or other forms of dominance.",
+          "positive_aspect": "Can facilitate cultural exchange, technological transfer, and economic development in some areas.",
+          "negative_aspect": "Results in exploitation, cultural destruction, and long-term negative effects on colonized peoples.",
+          "historical_context": "Shaped world history through colonial empires, continues to influence international relations and global inequality.",
+          "modern_applications": "Economic imperialism, cultural imperialism, neo-colonialism, international power politics.",
+          "reflection_questions": [
+            "How do historical imperial relationships continue to affect the modern world?",
+            "What forms does imperialism take in contemporary international relations?"
+          ],
+          "related_concepts": ["Colonialism", "Nationalism", "Globalization", "Neocolonialism"]
+        },
+        {
+          "name": "Liberalism",
+          "description": "A political and moral philosophy based on individual rights, civil liberties, democracy, and free market economics.",
+          "positive_aspect": "Promotes individual freedom, human rights, rule of law, and economic opportunity through market competition.",
+          "negative_aspect": "Can lead to excessive individualism, inequality through market forces, and weakening of community bonds.",
+          "historical_context": "Emerged during the Enlightenment, shaped modern democratic systems, and evolved into various forms including classical and social liberalism.",
+          "modern_applications": "Constitutional democracies, free market economies, human rights legislation, and civil society organizations.",
+          "reflection_questions": [
+            "How can liberal societies balance individual rights with collective needs?",
+            "What role should government play in a liberal society?"
+          ],
+          "related_concepts": ["Democracy", "Capitalism", "Conservatism", "Libertarianism"]
+        },
+        {
+          "name": "Libertarianism",
+          "description": "A political philosophy emphasizing individual liberty, minimal government intervention, and free market principles.",
+          "positive_aspect": "Strongly protects individual rights and freedoms, promotes personal responsibility, and limits government power.",
+          "negative_aspect": "May struggle to address collective challenges, public goods, and social inequalities.",
+          "historical_context": "Developed from classical liberal thought, gained prominence in the 20th century through thinkers like Friedrich Hayek and Murray Rothbard.",
+          "modern_applications": "Cryptocurrency movements, private property rights advocacy, free market solutions to social problems.",
+          "reflection_questions": [
+            "What is the proper balance between individual liberty and social responsibility?",
+            "How can a minimal state ensure public welfare and security?"
+          ],
+          "related_concepts": ["Classical Liberalism", "Anarchism", "Capitalism", "Minarchism"]
+        },
+        {
+          "name": "Mercantilism",
+          "description": "A historical economic-political system promoting government regulation of the economy to ensure national power through positive trade balances.",
+          "positive_aspect": "Builds national industrial capacity, promotes economic self-sufficiency, and strengthens state power.",
+          "negative_aspect": "Creates international tensions, can lead to colonial exploitation, and reduces overall economic efficiency.",
+          "historical_context": "Dominated European economic policy from 16th-18th centuries, influenced modern protectionist policies.",
+          "modern_applications": "Trade protectionism, industrial policy, economic nationalism, strategic resource management.",
+          "reflection_questions": [
+            "How do mercantilist ideas influence modern trade policies?",
+            "What role should national economic interests play in international trade?"
+          ],
+          "related_concepts": ["Nationalism", "Protectionism", "Capitalism", "Imperialism"]
+        },
+        {
+          "name": "Monarchism",
+          "description": "A political system advocating for or supporting rule by a hereditary sovereign, ranging from absolute to constitutional monarchy.",
+          "positive_aspect": "Can provide stability, national unity, and long-term political continuity through traditional leadership.",
+          "negative_aspect": "Places power based on birth rather than merit, can lead to autocratic rule and lack of accountability.",
+          "historical_context": "The dominant form of government throughout much of human history, evolved from absolute to constitutional forms in many countries.",
+          "modern_applications": "Constitutional monarchies, ceremonial heads of state, traditional leadership roles.",
+          "reflection_questions": [
+            "What role can traditional monarchy play in modern democracy?",
+            "How does hereditary leadership affect political stability?"
+          ],
+          "related_concepts": ["Authoritarianism", "Traditionalism", "Democracy", "Aristocracy"]
+        },
+        {
+          "name": "Nationalism",
+          "description": "A political ideology emphasizing devotion to national identity, interests, and unity, often promoting the nation's sovereignty and cultural distinctiveness.",
+          "positive_aspect": "Can foster social cohesion, cultural preservation, and collective mobilization for common goals.",
+          "negative_aspect": "Often leads to xenophobia, conflict with other nations, and suppression of internal diversity.",
+          "historical_context": "Rose to prominence in the 19th century, shaped modern state formation, and played a major role in both world wars and decolonization.",
+          "modern_applications": "National sovereignty movements, cultural preservation policies, economic protectionism.",
+          "reflection_questions": [
+            "How can national pride be balanced with international cooperation?",
+            "What role should national identity play in an increasingly globalized world?"
+          ],
+          "related_concepts": ["Fascism", "Populism", "Patriotism", "Imperialism"]
+        },
+        {
+          "name": "Neoliberalism",
+          "description": "An economic and political ideology emphasizing free markets, deregulation, privatization, and reduced government intervention.",
+          "positive_aspect": "Promotes economic efficiency, global trade, innovation, and individual economic freedom.",
+          "negative_aspect": "Can increase inequality, reduce social protections, and lead to market instability.",
+          "historical_context": "Gained prominence in the 1970s through figures like Hayek and Friedman, became dominant global ideology in the 1980s-90s.",
+          "modern_applications": "Free trade agreements, privatization policies, financial deregulation, austerity measures.",
+          "reflection_questions": [
+            "How has neoliberalism shaped modern global society?",
+            "What are the limits of market-based solutions to social problems?"
+          ],
+          "related_concepts": ["Capitalism", "Libertarianism", "Globalization", "Free Market"]
+        },
+        {
+          "name": "Pan-Nationalism",
+          "description": "Political movements advocating unity among peoples sharing cultural, ethnic, or regional identity beyond current national boundaries.",
+          "positive_aspect": "Promotes cultural solidarity, regional cooperation, and collective empowerment of related peoples.",
+          "negative_aspect": "Can lead to conflicts over leadership, cultural dominance, and tension with existing national identities.",
+          "historical_context": "Emerged in 19th-20th centuries through movements like Pan-Africanism, Pan-Arabism, and Pan-Slavism.",
+          "modern_applications": "Regional organizations, cultural cooperation programs, transnational political movements.",
+          "reflection_questions": [
+            "How can pan-national movements coexist with national sovereignty?",
+            "What role do shared cultural identities play in international politics?"
+          ],
+          "related_concepts": ["Nationalism", "Internationalism", "Cultural Identity", "Regionalism"]
+        },
+        {
+          "name": "Populism",
+          "description": "A political approach that appeals to ordinary people who feel their concerns are disregarded by established elite groups.",
+          "positive_aspect": "Gives voice to marginalized groups, challenges elite dominance, and can drive necessary reforms.",
+          "negative_aspect": "Often oversimplifies complex issues, can promote demagoguery, and may undermine democratic institutions.",
+          "historical_context": "Has appeared throughout history, from ancient Rome to modern times, taking both left-wing and right-wing forms.",
+          "modern_applications": "Anti-establishment movements, grassroots political campaigns, direct appeals to 'the people'.",
+          "reflection_questions": [
+            "How can democracies address popular grievances while maintaining institutional stability?",
+            "What distinguishes legitimate popular movements from destructive populism?"
+          ],
+          "related_concepts": ["Democracy", "Authoritarianism", "Nationalism", "Progressivism"]
+        },
+        {
+          "name": "Progressivism",
+          "description": "A political philosophy advocating social reform and improvement through government action and technological advancement.",
+          "positive_aspect": "Drives social improvement, addresses injustices, and promotes adaptation to changing conditions.",
+          "negative_aspect": "May disrupt stable social structures, create unintended consequences, and sometimes ignore valuable traditions.",
+          "historical_context": "Emerged in the late 19th century, influenced various reform movements, and shaped modern liberal democracy.",
+          "modern_applications": "Social welfare programs, environmental protection, civil rights expansion, technological innovation.",
+          "reflection_questions": [
+            "How can progress be measured and evaluated in society?",
+            "What role should government play in driving social progress?"
+          ],
+          "related_concepts": ["Liberalism", "Socialism", "Conservatism", "Transhumanism"]
+        },
+        {
+          "name": "Social Democracy",
+          "description": "A political ideology advocating for democratic welfare state policies within a capitalist economic framework.",
+          "positive_aspect": "Combines market efficiency with social welfare, reducing inequality while maintaining economic dynamism.",
+          "negative_aspect": "Can lead to high taxation, bureaucratic inefficiency, and potential economic stagnation.",
+          "historical_context": "Emerged from socialist movements, gained prominence in post-WWII Europe through welfare state development.",
+          "modern_applications": "Universal healthcare, public education, social security systems, labor protections.",
+          "reflection_questions": [
+            "How can social welfare be balanced with economic efficiency?",
+            "What is the optimal balance between state intervention and market forces?"
+          ],
+          "related_concepts": ["Socialism", "Liberalism", "Welfare State", "Mixed Economy"]
+        },
+        {
+          "name": "Socialism",
+          "description": "A political and economic system advocating for collective or state ownership of the means of production and democratic control of the economy.",
+          "positive_aspect": "Promotes economic equality, social welfare, and collective decision-making in economic matters.",
+          "negative_aspect": "Can reduce economic efficiency, individual initiative, and face challenges in resource allocation.",
+          "historical_context": "Emerged during the Industrial Revolution, inspired numerous movements and revolutions, and evolved into various forms from democratic socialism to market socialism.",
+          "modern_applications": "Public ownership of utilities, cooperative enterprises, universal public services, democratic workplace practices.",
+          "reflection_questions": [
+            "How can socialist principles be applied in modern economies?",
+            "What balance between collective and individual economic rights is optimal?"
+          ],
+          "related_concepts": ["Communism", "Social Democracy", "Marxism", "Syndicalism"]
+        },
+        {
+          "name": "Syndicalism",
+          "description": "A radical labor movement advocating worker control of industry through trade unions and direct action.",
+          "positive_aspect": "Empowers workers, promotes workplace democracy, and challenges economic exploitation.",
+          "negative_aspect": "Can lead to economic disruption, may struggle with large-scale coordination, and can create internal power struggles.",
+          "historical_context": "Gained prominence in early 20th century labor movements, particularly in France, Spain, and Italy.",
+          "modern_applications": "Worker cooperatives, industrial democracy initiatives, radical labor unions.",
+          "reflection_questions": [
+            "How might an economy organized by workers function?",
+            "What role should unions play in modern economic life?"
+          ],
+          "related_concepts": ["Anarchism", "Socialism", "Corporatism", "Industrial Unionism"]
+        },
+        {
+          "name": "Technocracy",
+          "description": "A system of governance where decision-makers are selected based on their technical expertise rather than political popularity.",
+          "positive_aspect": "Promotes evidence-based policy-making and technical efficiency in governance.",
+          "negative_aspect": "Can lead to disconnect from public needs and overlook non-technical social values.",
+          "historical_context": "Emerged in early 20th century with increasing technological complexity, gained influence in modern bureaucracies.",
+          "modern_applications": "Central bank independence, regulatory agencies, scientific advisory boards.",
+          "reflection_questions": [
+            "How can technical expertise be balanced with democratic accountability?",
+            "What role should experts play in political decision-making?"
+          ],
+          "related_concepts": ["Transhumanism", "Bureaucracy", "Meritocracy", "Democracy"]
+        },
+        {
+          "name": "Theocracy",
+          "description": "A system of government where religious authority directly exercises political power or heavily influences it.",
+          "positive_aspect": "Can provide strong moral framework, social cohesion, and cultural continuity.",
+          "negative_aspect": "Often suppresses religious freedom, individual rights, and can lead to persecution of minorities.",
+          "historical_context": "Common in ancient civilizations, medieval societies, and continues in some modern states.",
+          "modern_applications": "Religious law in governance, faith-based policy making, religious courts and institutions.",
+          "reflection_questions": [
+            "What role should religious beliefs play in governance?",
+            "How can religious and secular authority coexist in society?"
+          ],
+          "related_concepts": ["Authoritarianism", "Traditionalism", "Fundamentalism", "Secularism"]
+        },
+        {
+          "name": "Transhumanism",
+          "description": "A philosophical and political movement advocating for the transformation of human condition through advanced technology.",
+          "positive_aspect": "Promotes human enhancement, longevity, and solutions to fundamental human limitations.",
+          "negative_aspect": "Raises ethical concerns, could increase inequality, and might fundamentally alter human nature.",
+          "historical_context": "Emerged in mid-20th century, gained prominence with technological advances in genetics, AI, and biotechnology.",
+          "modern_applications": "Genetic engineering research, life extension technology, artificial intelligence development, human enhancement.",
+          "reflection_questions": [
+            "How might technology fundamentally change what it means to be human?",
+            "What ethical limits should apply to human enhancement?"
+          ],
+          "related_concepts": ["Progressivism", "Technocracy", "Futurism", "Posthumanism"]
+        }
+      ]
+    },
+    {
+      "name": "Philosophical Movements",
+      "concepts": [
+        {
+          "name": "Nondualism",
+          "description": "A philosophical and spiritual perspective that emphasizes the interconnectedness of all things, transcending dualities such as self and other.",
+          "positive_aspect": "Fosters a sense of unity, compassion, and freedom from ego-based suffering.",
+          "negative_aspect": "Can be challenging to integrate into practical daily life and may be misinterpreted as apathy.",
+          "historical_context": "Found in ancient traditions like Advaita Vedanta, Buddhism, and Taoism.",
+          "modern_applications": "Meditation practices, mindfulness teachings, and nondual therapy approaches.",
+          "reflection_questions": [
+            "What would life feel like if you saw no separation between yourself and others?",
+            "How can the idea of unity influence your actions and relationships?"
+          ],
+          "related_concepts": ["Advaita Vedanta", "Buddhism", "Taoism"]
+        }
+      ]
+    }
+  ]
+}
+

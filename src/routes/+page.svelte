@@ -1,101 +1,88 @@
 <script>
   import { messages } from '../lib/stores/messages.js';
+  import { currentConceptName } from '../lib/stores/conceptStore.js';
   import ConceptCard from '../lib/components/ConceptCard.svelte';
+  import ConceptNavigation from '../lib/components/ConceptNavigation.svelte';
 
-  let categories = [];
-  let currentCategory = null;
-  let currentConcepts = [];
-  let relatedConceptsMap = {};
+  let activeFilters = { tags: [], category: '' };
 
-  categories.forEach(category => {
-    category.concepts.forEach(concept => {
-      relatedConceptsMap[concept.name] = {
-        category: category.name,
-        concept
-      };
-    });
-  });
-
-  $: categories = $messages.categories?.map(category => category.name) || [];
-
-  function selectCategory(categoryName) {
-    currentCategory = categoryName;
-    currentConcepts =
-      $messages.categories?.find(category => category.name === categoryName)
-        ?.concepts || [];
+  function filterConcepts({ tags, category }) {
+    activeFilters = { tags, category };
+    if ($currentConceptName) {
+      currentConceptName.set(null);
+    }
   }
+
+  $: filteredConcepts = $messages.concepts ? 
+    $currentConceptName ?
+      [$messages.concepts.find(c => c.name === $currentConceptName)].filter(Boolean) :
+      $messages.concepts.filter(concept => {
+        // Category filter
+        if (activeFilters.category && 
+            concept.primary_category !== activeFilters.category && 
+            !concept.secondary_categories.includes(activeFilters.category)) {
+          return false;
+        }
+        
+        // Tag filter
+        if (activeFilters.tags.length > 0) {
+          return activeFilters.tags.every(tag => concept.tags.includes(tag));
+        }
+        
+        return true;
+      })
+    : [];
 </script>
 
-<div class="app">
-  <aside class="sidebar">
-    <ul>
-      {#each categories as category}
-        <li on:click={() => selectCategory(category)}>
-          {category}
-        </li>
-      {/each}
-    </ul>
-  </aside>
+<div class="min-h-screen bg-gray-50 p-4">
+  <div class="max-w-[2000px] mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-6 lg:grid-cols-8 gap-6">
+      <!-- Navigation Sidebar -->
+      <aside class="md:col-span-2 lg:col-span-2">
+        <div class="sticky top-4">
+          <ConceptNavigation 
+            concepts={$messages.concepts ?? []} 
+            onFilterChange={filterConcepts}
+          />
+          
+          {#if $currentConceptName}
+            <div class="mt-4">
+              <button
+                class="w-full px-4 py-2 text-blue-600 hover:bg-blue-50 rounded-lg transition-colors"
+                on:click={() => {
+                  currentConceptName.set(null);
+                }}
+              >
+                ← Back to all concepts
+              </button>
+            </div>
+          {/if}
+        </div>
+      </aside>
 
-  <main class="content">
-    {#if currentCategory}
-      <h1>{currentCategory}</h1>
-      <div class="card-grid">
-        {#each currentConcepts as concept}
-          <ConceptCard {concept} {relatedConceptsMap} />
-        {/each}
-      </div>
-    {:else}
-      <p>Please select a category to explore concepts.</p>
-    {/if}
-  </main>
+      <!-- Main Content -->
+      <main class="md:col-span-4 lg:col-span-6">
+        {#if filteredConcepts.length > 0}
+          <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
+            {#each filteredConcepts as concept (concept.name)}
+              <ConceptCard {concept} />
+            {/each}
+          </div>
+        {:else}
+          <div class="bg-white rounded-lg shadow-md p-8 text-center">
+            <h2 class="text-xl font-semibold text-gray-700 mb-2">
+              No concepts found
+            </h2>
+            <p class="text-gray-600">
+              Try adjusting your filters to see more concepts.
+            </p>
+          </div>
+        {/if}
+      </main>
+    </div>
+  </div>
 </div>
 
 <style>
-  .app {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    gap: 2rem;
-  }
-
-  .sidebar {
-    background: #f7f7f7;
-    padding: 1rem;
-    border-radius: 8px;
-    font-family: sans-serif;
-  }
-
-  .sidebar ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .sidebar li {
-    cursor: pointer;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    transition: background-color 0.3s ease;
-  }
-
-  .sidebar li:hover {
-    background-color: #ddd;
-  }
-
-  .content {
-    padding: 1rem;
-    font-family: sans-serif;
-  }
-
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1rem;
-  }
-
-  h1 {
-    margin-bottom: 1rem;
-    color: #333;
-  }
+  /* Global styles can be added here if needed */
 </style>
-
-
