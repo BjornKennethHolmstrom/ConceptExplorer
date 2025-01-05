@@ -281,6 +281,694 @@
         "How should we face the certainty of death?"
       ],
       "related_concepts": ["Phenomenology", "Nihilism", "Authenticity", "Freedom"]
+    },
+    {
+      "name": "Buddhism",
+      "tags": ["philosophical", "religious", "ethical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Religious Traditions", "Ethical Systems"],
+      "year_emerged": -500,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical system analyzing the nature of mind, reality, and suffering.",
+          "key_features": [
+            "Four Noble Truths",
+            "Dependent origination",
+            "Non-self doctrine",
+            "Middle way approach"
+          ]
+        },
+        "practical": {
+          "description": "A practical path of meditation, ethical conduct, and mental cultivation.",
+          "key_features": [
+            "Meditation practices",
+            "Ethical precepts",
+            "Mindfulness training",
+            "Compassion cultivation"
+          ]
+        }
+      },
+      "core_description": "A philosophical and practical system focused on understanding and alleviating suffering through mental cultivation and ethical living.",
+      "positive_aspect": "Offers practical methods for mental development and ethical living while promoting compassion and wisdom.",
+      "negative_aspect": "Can be misinterpreted as passive or escapist, and some traditional aspects may conflict with modern lifestyles.",
+      "historical_context": "Emerged in ancient India around 500 BCE through the teachings of Siddhartha Gautama, spreading throughout Asia.",
+      "modern_applications": [
+        "Mindfulness practices",
+        "Stress reduction techniques",
+        "Psychotherapy approaches",
+        "Environmental ethics"
+      ],
+      "reflection_questions": [
+        "What is the nature of suffering and its causes?",
+        "How can we balance acceptance with positive change?",
+        "What is the relationship between individual and collective transformation?"
+      ],
+      "related_concepts": ["Meditation", "Nondualism", "Mindfulness", "Ethics"]
+    },
+    {
+      "name": "Scientific Method",
+      "tags": ["scientific", "methodological", "epistemological"],
+      "primary_category": "Methodological Frameworks",
+      "secondary_categories": ["Philosophical Movements", "Knowledge Systems"],
+      "year_emerged": 1600,
+      "aspects": {
+        "methodological": {
+          "description": "A systematic approach to inquiry using observation, hypothesis, experimentation, and analysis.",
+          "key_features": [
+            "Empirical observation",
+            "Hypothesis formation",
+            "Controlled experimentation",
+            "Peer review process"
+          ]
+        },
+        "philosophical": {
+          "description": "An epistemological framework for establishing reliable knowledge through empirical investigation.",
+          "key_features": [
+            "Empiricism",
+            "Falsifiability",
+            "Reproducibility",
+            "Systematic skepticism"
+          ]
+        }
+      },
+      "core_description": "A systematic method for investigating phenomena, acquiring new knowledge, and correcting existing theories through empirical testing.",
+      "positive_aspect": "Provides reliable methods for discovering knowledge and testing claims, driving technological and social progress.",
+      "negative_aspect": "May be inappropriately applied to non-empirical questions or misused to dismiss valid non-scientific knowledge.",
+      "historical_context": "Formalized during the Scientific Revolution through works of Bacon, Galileo, and others, though with earlier roots.",
+      "modern_applications": [
+        "Scientific research",
+        "Technology development",
+        "Evidence-based policy",
+        "Critical thinking"
+      ],
+      "reflection_questions": [
+        "What are the limits of scientific knowledge?",
+        "How can we balance scientific and other forms of knowledge?",
+        "What role should science play in policy decisions?"
+      ],
+      "related_concepts": ["Empiricism", "Rationalism", "Evidence-Based Practice", "Skepticism"]
+    },
+    {
+      "name": "Romanticism",
+      "tags": ["cultural", "artistic", "philosophical"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Artistic Movements", "Philosophical Movements"],
+      "year_emerged": 1780,
+      "aspects": {
+        "cultural": {
+          "description": "A cultural movement emphasizing emotion, nature, and individual expression.",
+          "key_features": [
+            "Emotional expression",
+            "Nature worship",
+            "Individual genius",
+            "Cultural authenticity"
+          ]
+        },
+        "philosophical": {
+          "description": "A philosophical outlook prioritizing feeling, intuition, and connection with nature.",
+          "key_features": [
+            "Anti-rationalism",
+            "Organic unity",
+            "Spiritual connection",
+            "Creative imagination"
+          ]
+        }
+      },
+      "core_description": "A movement emphasizing emotion, individualism, and nature in reaction to Enlightenment rationalism and industrial society.",
+      "positive_aspect": "Promotes emotional expression, creativity, and connection with nature while valuing individual experience.",
+      "negative_aspect": "Can lead to anti-rational attitudes and excessive idealization of nature and the past.",
+      "historical_context": "Emerged in late 18th century Europe as a reaction to Enlightenment rationalism and industrial revolution.",
+      "modern_applications": [
+        "Environmental movements",
+        "Creative arts",
+        "Personal expression",
+        "Cultural preservation"
+      ],
+      "reflection_questions": [
+        "How can emotion and reason be balanced?",
+        "What is the proper relationship between humans and nature?",
+        "How should tradition and progress be balanced?"
+      ],
+      "related_concepts": ["Naturalism", "Individualism", "Anti-rationalism", "Expressionism"]
+    },
+    {
+      "name": "Postmodernism",
+      "tags": ["philosophical", "cultural", "critical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Cultural Movements", "Critical Theories"],
+      "year_emerged": 1960,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical approach questioning grand narratives, objective truth, and universal meaning.",
+          "key_features": [
+            "Skepticism of metanarratives",
+            "Deconstruction",
+            "Cultural relativism",
+            "Multiple perspectives"
+          ]
+        },
+        "cultural": {
+          "description": "A cultural attitude emphasizing plurality, hybridity, and skepticism toward traditional values.",
+          "key_features": [
+            "Cultural mixing",
+            "Irony and play",
+            "Media awareness",
+            "Identity politics"
+          ]
+        }
+      },
+      "core_description": "A movement questioning universal truths, grand narratives, and established structures while emphasizing plurality and relativity.",
+      "positive_aspect": "Challenges dogmatic thinking, promotes diverse perspectives, and questions power structures.",
+      "negative_aspect": "Can lead to extreme relativism, nihilism, and difficulty in establishing shared values.",
+      "historical_context": "Emerged in the 1960s through French philosophy and cultural criticism, gaining prominence in late 20th century.",
+      "modern_applications": [
+        "Cultural criticism",
+        "Media analysis",
+        "Identity politics",
+        "Artistic expression"
+      ],
+      "reflection_questions": [
+        "Can we have meaning without universal truth?",
+        "How do we make ethical decisions in a relativistic framework?",
+        "What replaces grand narratives in understanding history?"
+      ],
+      "related_concepts": ["Relativism", "Deconstruction", "Cultural Criticism", "Pluralism"]
+    },
+    {
+      "name": "Feminism",
+      "tags": ["political", "social", "philosophical"],
+      "primary_category": "Social Movements",
+      "secondary_categories": ["Political Ideologies", "Critical Theories"],
+      "year_emerged": 1848,
+      "aspects": {
+        "political": {
+          "description": "A political movement advocating for women's rights and gender equality.",
+          "key_features": [
+            "Equal rights advocacy",
+            "Political representation",
+            "Legal reform",
+            "Social justice"
+          ]
+        },
+        "theoretical": {
+          "description": "A theoretical framework analyzing gender relations, power structures, and social inequality.",
+          "key_features": [
+            "Gender analysis",
+            "Intersectionality",
+            "Patriarchy critique",
+            "Social construction theory"
+          ]
+        }
+      },
+      "core_description": "A movement and theoretical framework promoting gender equality and analyzing gender-based oppression.",
+      "positive_aspect": "Advances equality, challenges discrimination, and promotes social justice across gender lines.",
+      "negative_aspect": "Can face backlash, misinterpretation, and internal disagreements over goals and methods.",
+      "historical_context": "Modern movement emerged in 19th century with suffrage movement, developing through several 'waves'.",
+      "modern_applications": [
+        "Gender equality policies",
+        "Social justice activism",
+        "Academic analysis",
+        "Cultural criticism"
+      ],
+      "reflection_questions": [
+        "How do gender roles shape society and individual experience?",
+        "What is the relationship between different forms of oppression?",
+        "How can equality be achieved while recognizing difference?"
+      ],
+      "related_concepts": ["Gender Theory", "Social Justice", "Intersectionality", "Equal Rights"]
+    },
+    {
+      "name": "Quantum Theory",
+      "tags": ["scientific", "physical", "philosophical"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Philosophical Frameworks", "Physical Theories"],
+      "year_emerged": 1900,
+      "aspects": {
+        "scientific": {
+          "description": "A physical theory describing nature at the atomic and subatomic scales.",
+          "key_features": [
+            "Wave-particle duality",
+            "Uncertainty principle",
+            "Quantum entanglement",
+            "Superposition"
+          ]
+        },
+        "philosophical": {
+          "description": "A framework challenging classical concepts of reality, causality, and observation.",
+          "key_features": [
+            "Observer effect",
+            "Probabilistic nature",
+            "Non-locality",
+            "Measurement problem"
+          ]
+        }
+      },
+      "core_description": "A fundamental physical theory revealing the probabilistic and interconnected nature of reality at microscopic scales.",
+      "positive_aspect": "Provides extremely accurate predictions and enables modern technology while revealing fundamental aspects of reality.",
+      "negative_aspect": "Challenges intuitive understanding and can be misappropriated for pseudoscientific claims.",
+      "historical_context": "Developed in early 20th century through work of Planck, Einstein, Bohr, and others.",
+      "modern_applications": [
+        "Computer technology",
+        "Medical imaging",
+        "Quantum computing",
+        "Cryptography"
+      ],
+      "reflection_questions": [
+        "What does quantum theory tell us about the nature of reality?",
+        "How does observation affect physical systems?",
+        "Can quantum phenomena be understood intuitively?"
+      ],
+      "related_concepts": ["Physics", "Uncertainty", "Wave-Particle Duality", "Causality"]
+    },
+    {
+      "name": "Democracy",
+      "tags": ["political", "social", "governance"],
+      "primary_category": "Political Systems",
+      "secondary_categories": ["Governance Models", "Social Systems"],
+      "year_emerged": -507,
+      "aspects": {
+        "political": {
+          "description": "A system of government where power derives from the people through voting and representation.",
+          "key_features": [
+            "Popular sovereignty",
+            "Regular elections",
+            "Political equality",
+            "Majority rule with minority rights"
+          ]
+        },
+        "social": {
+          "description": "A social system emphasizing equality, participation, and collective decision-making.",
+          "key_features": [
+            "Civic participation",
+            "Public discourse",
+            "Civil society",
+            "Social equality"
+          ]
+        }
+      },
+      "core_description": "A system of governance and social organization based on popular sovereignty and political equality.",
+      "positive_aspect": "Enables peaceful power transitions, protects individual rights, and promotes civic participation.",
+      "negative_aspect": "Can lead to majority tyranny, gridlock, and populist manipulation.",
+      "historical_context": "First emerged in Ancient Athens around 507 BCE, evolved through various forms to modern representative democracy.",
+      "modern_applications": [
+        "Electoral systems",
+        "Participatory budgeting",
+        "Digital democracy",
+        "Workplace democracy"
+      ],
+      "reflection_questions": [
+        "How can democracies balance majority rule with minority rights?",
+        "What role should expertise play in democratic decision-making?",
+        "How can democratic systems adapt to modern challenges?"
+      ],
+      "related_concepts": ["Republicanism", "Liberty", "Voting Systems", "Civil Rights"]
+    },
+    {
+      "name": "Empiricism",
+      "tags": ["philosophical", "epistemological", "scientific"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Scientific Methods"],
+      "year_emerged": 1600,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical approach asserting that knowledge comes primarily from sensory experience.",
+          "key_features": [
+            "Sensory observation",
+            "Experiential learning",
+            "Evidence-based knowledge",
+            "Skepticism of pure reason"
+          ]
+        },
+        "methodological": {
+          "description": "A methodological framework emphasizing observation and evidence in knowledge acquisition.",
+          "key_features": [
+            "Experimental method",
+            "Data collection",
+            "Observational verification",
+            "Inductive reasoning"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach that emphasizes the role of experience and evidence in knowledge formation.",
+      "positive_aspect": "Provides reliable basis for knowledge and promotes evidence-based thinking.",
+      "negative_aspect": "May undervalue non-empirical forms of knowledge and abstract reasoning.",
+      "historical_context": "Developed through works of Bacon, Locke, and Hume in the 17th-18th centuries.",
+      "modern_applications": [
+        "Scientific research",
+        "Evidence-based medicine",
+        "Data-driven decision making",
+        "Experimental psychology"
+      ],
+      "reflection_questions": [
+        "What are the limits of empirical knowledge?",
+        "How reliable are our sensory experiences?",
+        "Can all valuable knowledge be empirically verified?"
+      ],
+      "related_concepts": ["Scientific Method", "Rationalism", "Positivism", "Skepticism"]
+    },
+    {
+      "name": "Cybernetics",
+      "tags": ["scientific", "technological", "interdisciplinary"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Systems Theory", "Technology Frameworks"],
+      "year_emerged": 1948,
+      "aspects": {
+        "scientific": {
+          "description": "A scientific approach studying control and communication in systems of all types.",
+          "key_features": [
+            "Feedback loops",
+            "System control",
+            "Information theory",
+            "Circular causality"
+          ]
+        },
+        "technological": {
+          "description": "A framework for understanding and designing self-regulating systems.",
+          "key_features": [
+            "Automation",
+            "System design",
+            "Neural networks",
+            "Adaptive control"
+          ]
+        }
+      },
+      "core_description": "The study of regulatory systems, communication, and control in living things and machines.",
+      "positive_aspect": "Provides powerful tools for understanding complex systems and designing better technologies.",
+      "negative_aspect": "Can lead to oversimplified mechanistic views of living systems and society.",
+      "historical_context": "Developed by Norbert Wiener and others in the 1940s, influencing computer science and systems theory.",
+      "modern_applications": [
+        "Artificial intelligence",
+        "Robotics",
+        "Systems engineering",
+        "Organizational design"
+      ],
+      "reflection_questions": [
+        "How do systems maintain stability and adapt?",
+        "What are the parallels between biological and artificial systems?",
+        "How can cybernetic principles improve social systems?"
+      ],
+      "related_concepts": ["Systems Theory", "Information Theory", "Artificial Intelligence", "Complexity"]
+    },
+    {
+      "name": "Taoism",
+      "tags": ["philosophical", "religious", "spiritual"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Religious Traditions", "Ethical Systems"],
+      "year_emerged": -600,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical system emphasizing harmony with natural law and spontaneous action.",
+          "key_features": [
+            "Wu-wei (non-forcing)",
+            "Yin-yang balance",
+            "Natural harmony",
+            "Simplicity"
+          ]
+        },
+        "practical": {
+          "description": "A practical approach to living emphasizing spontaneity, balance, and natural wisdom.",
+          "key_features": [
+            "Meditation practices",
+            "Health cultivation",
+            "Environmental harmony",
+            "Minimal intervention"
+          ]
+        }
+      },
+      "core_description": "A philosophical and practical tradition emphasizing living in harmony with the Tao (natural way).",
+      "positive_aspect": "Promotes balance, adaptability, and harmony with nature while reducing stress and conflict.",
+      "negative_aspect": "Can be misinterpreted as passive or used to justify inaction in face of problems.",
+      "historical_context": "Emerged in ancient China through works attributed to Laozi and Zhuangzi.",
+      "modern_applications": [
+        "Stress management",
+        "Environmental ethics",
+        "Leadership approaches",
+        "Health practices"
+      ],
+      "reflection_questions": [
+        "How can we balance action and non-action?",
+        "What does it mean to live naturally?",
+        "How can ancient wisdom apply to modern life?"
+      ],
+      "related_concepts": ["Buddhism", "Naturalism", "Holism", "Environmental Ethics"]
+    },
+    {
+      "name": "Structuralism",
+      "tags": ["philosophical", "linguistic", "anthropological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Linguistic Theories", "Social Theories"],
+      "year_emerged": 1916,
+      "aspects": {
+        "theoretical": {
+          "description": "An approach analyzing phenomena through underlying structures and relationships.",
+          "key_features": [
+            "System analysis",
+            "Relational thinking",
+            "Pattern recognition",
+            "Synchronic study"
+          ]
+        },
+        "methodological": {
+          "description": "A method for analyzing cultural phenomena through their structural relationships.",
+          "key_features": [
+            "Binary opposition",
+            "Structural analysis",
+            "Cultural systems",
+            "Sign systems"
+          ]
+        }
+      },
+      "core_description": "An approach analyzing phenomena through their underlying structural relationships and systems.",
+      "positive_aspect": "Provides powerful tools for analyzing patterns and relationships in various domains.",
+      "negative_aspect": "Can be overly rigid and may neglect historical and individual factors.",
+      "historical_context": "Emerged from linguistics through Saussure's work, expanded to anthropology and other fields.",
+      "modern_applications": [
+        "Cultural analysis",
+        "Literary criticism",
+        "Social analysis",
+        "Systems design"
+      ],
+      "reflection_questions": [
+        "How do underlying structures shape meaning?",
+        "What is the relationship between structure and change?",
+        "How universal are structural patterns?"
+      ],
+      "related_concepts": ["Semiotics", "Systems Theory", "Linguistics", "Anthropology"]
+    },
+    {
+      "name": "Nihilism",
+      "tags": ["philosophical", "existential", "ethical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Cultural Movements"],
+      "year_emerged": 1860,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical view that life is meaningless and traditional values/beliefs are unfounded.",
+          "key_features": [
+            "Meaning rejection",
+            "Value skepticism",
+            "Truth questioning",
+            "Metaphysical doubt"
+          ]
+        },
+        "cultural": {
+          "description": "A cultural attitude of radical skepticism toward accepted values and beliefs.",
+          "key_features": [
+            "Cultural criticism",
+            "Value rejection",
+            "Traditional opposition",
+            "Radical doubt"
+          ]
+        }
+      },
+      "core_description": "A philosophical position asserting the meaninglessness of existence and the groundlessness of values.",
+      "positive_aspect": "Encourages critical examination of assumptions and can lead to authentic value creation.",
+      "negative_aspect": "Can lead to despair, destructive behavior, and social disintegration.",
+      "historical_context": "Gained prominence in 19th century Russia, developed through Nietzsche and existentialist thought.",
+      "modern_applications": [
+        "Cultural criticism",
+        "Artistic expression",
+        "Value examination",
+        "Social critique"
+      ],
+      "reflection_questions": [
+        "Can meaning exist without absolute foundations?",
+        "How should we respond to the absence of inherent meaning?",
+        "What role does nihilism play in cultural change?"
+      ],
+      "related_concepts": ["Existentialism", "Absurdism", "Skepticism", "Postmodernism"]
+    },
+    {
+      "name": "Game Theory",
+      "tags": ["mathematical", "strategic", "interdisciplinary"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Economic Theories", "Social Sciences"],
+      "year_emerged": 1944,
+      "aspects": {
+        "mathematical": {
+          "description": "A mathematical framework for analyzing strategic interaction and decision-making.",
+          "key_features": [
+            "Strategic equilibrium",
+            "Payoff matrices",
+            "Cooperative games",
+            "Nash equilibrium"
+          ]
+        },
+        "social": {
+          "description": "A way of understanding social interaction, conflict, and cooperation.",
+          "key_features": [
+            "Conflict analysis",
+            "Cooperation strategies",
+            "Social dilemmas",
+            "Behavioral prediction"
+          ]
+        }
+      },
+      "core_description": "A theoretical framework for understanding strategic decision-making and interaction between rational agents.",
+      "positive_aspect": "Provides powerful tools for analyzing conflict, cooperation, and strategic behavior.",
+      "negative_aspect": "Can oversimplify human behavior and may encourage overly strategic thinking in social situations.",
+      "historical_context": "Formally developed by von Neumann and Morgenstern in 1944, expanded by Nash and others.",
+      "modern_applications": [
+        "Economic analysis",
+        "Political strategy",
+        "Military planning",
+        "Environmental policy"
+      ],
+      "reflection_questions": [
+        "How do individuals balance competition and cooperation?",
+        "Can strategic thinking explain all social behavior?",
+        "What role does irrationality play in decision-making?"
+      ],
+      "related_concepts": ["Decision Theory", "Economics", "Strategic Planning", "Social Choice Theory"]
+    },
+    {
+      "name": "Phenomenology",
+      "tags": ["philosophical", "psychological", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Research Methods", "Psychological Theories"],
+      "year_emerged": 1900,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical approach focusing on the structure of consciousness and direct experience.",
+          "key_features": [
+            "Intentionality",
+            "Bracketing",
+            "Lived experience",
+            "First-person perspective"
+          ]
+        },
+        "methodological": {
+          "description": "A research method emphasizing detailed description of conscious experience.",
+          "key_features": [
+            "Descriptive analysis",
+            "Suspension of judgment",
+            "Essential structures",
+            "Experiential focus"
+          ]
+        }
+      },
+      "core_description": "A philosophical movement and method focusing on the study of consciousness and direct experience.",
+      "positive_aspect": "Provides rich insights into human experience and consciousness while respecting subjective perspectives.",
+      "negative_aspect": "Can be overly introspective and may struggle with verification and generalization.",
+      "historical_context": "Developed by Husserl around 1900, expanded by Heidegger, Merleau-Ponty, and others.",
+      "modern_applications": [
+        "Qualitative research",
+        "Consciousness studies",
+        "User experience design",
+        "Therapeutic approaches"
+      ],
+      "reflection_questions": [
+        "How can we understand subjective experience objectively?",
+        "What is the relationship between consciousness and reality?",
+        "How does perspective shape experience?"
+      ],
+      "related_concepts": ["Consciousness", "Existentialism", "Psychology", "Subjectivity"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "tags": ["technological", "scientific", "philosophical"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Technology Frameworks", "Philosophical Questions"],
+      "year_emerged": 1956,
+      "aspects": {
+        "technical": {
+          "description": "The development of systems capable of performing tasks that typically require human intelligence.",
+          "key_features": [
+            "Machine learning",
+            "Neural networks",
+            "Natural language processing",
+            "Problem solving"
+          ]
+        },
+        "philosophical": {
+          "description": "Exploration of questions about mind, consciousness, and the nature of intelligence.",
+          "key_features": [
+            "Consciousness questions",
+            "Ethics of AI",
+            "Machine consciousness",
+            "Intelligence nature"
+          ]
+        }
+      },
+      "core_description": "The theory and development of computer systems able to perform tasks normally requiring human intelligence.",
+      "positive_aspect": "Enables automation of complex tasks and provides new insights into intelligence and cognition.",
+      "negative_aspect": "Raises serious ethical concerns and may pose existential risks to humanity.",
+      "historical_context": "Formally initiated at Dartmouth Conference in 1956, advancing rapidly with computing power.",
+      "modern_applications": [
+        "Machine learning systems",
+        "Autonomous vehicles",
+        "Medical diagnosis",
+        "Language models"
+      ],
+      "reflection_questions": [
+        "Can machines truly be intelligent?",
+        "What are the ethical implications of AI development?",
+        "How will AI change human society?"
+      ],
+      "related_concepts": ["Computer Science", "Consciousness", "Ethics", "Machine Learning"]
+    },
+    {
+      "name": "Aesthetics",
+      "tags": ["philosophical", "artistic", "cultural"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Art Theory", "Cultural Studies"],
+      "year_emerged": -400,
+      "aspects": {
+        "philosophical": {
+          "description": "The philosophical study of beauty, art, and taste.",
+          "key_features": [
+            "Beauty theory",
+            "Artistic value",
+            "Aesthetic experience",
+            "Taste judgment"
+          ]
+        },
+        "cultural": {
+          "description": "The study of cultural expressions and standards of beauty.",
+          "key_features": [
+            "Cultural values",
+            "Artistic traditions",
+            "Beauty standards",
+            "Creative expression"
+          ]
+        }
+      },
+      "core_description": "The philosophical and cultural study of beauty, art, taste, and sensory experiences.",
+      "positive_aspect": "Enriches understanding of art and beauty while providing frameworks for artistic evaluation.",
+      "negative_aspect": "Can become overly abstract or elitist, potentially limiting artistic expression.",
+      "historical_context": "Begun in ancient Greece, developed through various philosophical traditions to modern theory.",
+      "modern_applications": [
+        "Art criticism",
+        "Design theory",
+        "Cultural analysis",
+        "Creative practices"
+      ],
+      "reflection_questions": [
+        "What makes something beautiful?",
+        "How do cultural factors influence aesthetic judgment?",
+        "What is the relationship between art and truth?"
+      ],
+      "related_concepts": ["Art Theory", "Beauty", "Culture", "Creative Expression"]
     }
   ]
 }

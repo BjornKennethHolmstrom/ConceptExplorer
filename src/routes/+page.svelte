@@ -3,11 +3,11 @@
   import { currentConceptName } from '../lib/stores/conceptStore.js';
   import ConceptCard from '../lib/components/ConceptCard.svelte';
   import ConceptNavigation from '../lib/components/ConceptNavigation.svelte';
+  import ResultsHeader from '../lib/components/ResultsHeader.svelte';
   import { ArrowUpDown } from 'lucide-svelte';
 
   let activeFilters = { tags: [], categories: [] };
   let currentSortMethod = 'alphabetical';
-  let filteredAndSortedConcepts = [];
 
   const sortMethods = [
     { id: 'alphabetical', name: 'Alphabetical (A-Z)' },
@@ -115,6 +115,16 @@
 
       <!-- Main Content -->
       <main class="md:col-span-4 lg:col-span-6">
+        <ResultsHeader 
+          resultCount={filteredAndSortedConcepts.length}
+          {activeFilters}
+          {currentSortMethod}
+          onClearFilters={() => {
+            activeFilters = { tags: [], categories: [] };
+            filterConcepts(activeFilters);
+          }}
+        />
+
         {#if filteredAndSortedConcepts.length > 0}
           <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
             {#each filteredAndSortedConcepts as concept (concept.name)}
