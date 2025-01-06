@@ -5,12 +5,14 @@
   import ConceptNavigation from '../lib/components/ConceptNavigation.svelte';
   import ResultsHeader from '../lib/components/ResultsHeader.svelte';
   import SearchBar from '../lib/components/SearchBar.svelte';
-  import { ArrowUpDown } from 'lucide-svelte';
+  import { ArrowUpDown, ChevronDown, X } from 'lucide-svelte';
+  import { onMount } from 'svelte';   // Check localStorage on mount
 
   let activeFilters = { tags: [], categories: [] };
   let currentSortMethod = 'alphabetical';
   let searchQuery = "";
-
+  let showTip = true;
+  
   const sortMethods = [
     { id: 'alphabetical', name: 'Alphabetical (A-Z)' },
     { id: 'chronological', name: 'Chronological' }
@@ -99,6 +101,18 @@
   // Then, apply search and sorting
   $: searchedAndFilteredConcepts = searchConcepts(filteredConcepts, searchQuery);
   $: finalConcepts = sortConcepts(searchedAndFilteredConcepts, currentSortMethod);
+
+  onMount(() => {
+    const tipDismissed = localStorage.getItem('tipDismissed');
+    if (tipDismissed === 'true') {
+      showTip = false;
+    }
+  });
+
+  function dismissTip() {
+    showTip = false;
+    localStorage.setItem('tipDismissed', 'true');
+  }
 </script>
 
 <div class="min-h-screen bg-gray-50 p-4">
@@ -106,9 +120,9 @@
     <div class="grid grid-cols-1 md:grid-cols-6 lg:grid-cols-8 gap-6">
       <!-- Navigation Sidebar -->
       <aside class="md:col-span-2 lg:col-span-2">
-        <div class="sticky top-4 space-y-4">
+        <div class="sticky top-4 h-[calc(100vh-2rem)] overflow-y-auto">
           <!-- Sort Method Selector -->
-          <div class="bg-white rounded-lg shadow-md p-3">
+          <div class="bg-white rounded-lg shadow-md p-3 mb-4">
             <div class="flex items-center gap-2 mb-3">
               <ArrowUpDown size={18} />
               <h2 class="text-lg font-semibold">Sort By</h2>
@@ -136,7 +150,7 @@
           />
           
           {#if $currentConceptName}
-            <div class="mt-4">
+            <div class="mt-4 mb-4">
               <button
                 class="w-full px-4 py-2 text-blue-600 hover:bg-blue-50 rounded-lg transition-colors"
                 on:click={() => {
@@ -155,9 +169,26 @@
         <div class="mb-4">
           <SearchBar 
             value={searchQuery}
+            concepts={$messages.concepts ?? []}
             on:search={handleSearch}
             placeholder="Search concepts by name, description, tags..."
           />
+          {#if showTip}
+            <div class="mt-2 flex items-center justify-begin gap-2">
+              <p class="text-sm text-gray-500 flex items-center gap-1">
+                <span>Click</span>
+                <ChevronDown size={16} class="text-gray-400" />
+                <span>on any concept card to expand it and see more details</span>
+              </p>
+              <button
+                class="text-gray-400 hover:text-gray-600 p-1 rounded-full hover:bg-gray-100 transition-colors"
+                on:click={dismissTip}
+                aria-label="Dismiss tip"
+              >
+                <X size={14} />
+              </button>
+            </div>
+          {/if}
         </div>
 
         <ResultsHeader 
@@ -197,5 +228,14 @@
 </div>
 
 <style>
-  /* Global styles can be added here if needed */
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .overflow-y-auto::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .overflow-y-auto {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
 </style>

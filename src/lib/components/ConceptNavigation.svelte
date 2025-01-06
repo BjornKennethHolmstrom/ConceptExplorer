@@ -9,7 +9,7 @@
   let selectedTags = new Set();
   let selectedCategories = new Set();
   let showTagFilters = false;
-  let expandedGroups = new Set(['Philosophical', 'Political']); // Default expanded groups
+  let expandedGroups = new Set(['Philosophical', 'Political & Social']); // Default expanded groups
 
   // Category groups mapping
   const categoryGroups = {
@@ -17,30 +17,41 @@
       'Philosophical Movements',
       'Ethical Systems',
       'Epistemology',
-      'Metaphysical Systems'
+      'Metaphysical Systems',
+      'Practice Systems'
     ],
-    'Political': [
+    'Political & Social': [
       'Political Ideologies',
-      'Political Systems',
-      'Governance Models'
+      'Governance Models',
+      'Social Systems',
+      'Social Movements'
     ],
-    'Scientific': [
+    'Scientific & Technical': [
       'Scientific Theories',
-      'Scientific Methods',
       'Technology Frameworks',
-      'Systems Theory'
+      'Systems Theory',
+      'Methodological Frameworks'
     ],
-    'Cultural': [
+    'Cultural & Critical': [
       'Cultural Movements',
-      'Social Movements',
-      'Religious Traditions',
+      'Cultural Frameworks',
+      'Critical Theories',
       'Art Theory'
     ],
-    'Methodological': [
-      'Research Methods',
-      'Knowledge Systems',
-      'Analytical Frameworks',
-      'Critical Theories'
+    'Religious & Spiritual': [
+      'Religious Systems',
+      'Spiritual Systems',
+      'Spiritual Traditions'
+    ],
+    'Economic & Organizational': [
+      'Economic Systems',
+      'Economic Theories',
+      'Organizational Structures'
+    ],
+    'Environmental & Developmental': [
+      'Environmental Theories',
+      'Developmental Frameworks',
+      'Biological Frameworks'
     ]
   };
 

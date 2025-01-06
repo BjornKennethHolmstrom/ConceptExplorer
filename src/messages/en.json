@@ -2990,6 +2990,2630 @@
         "What is the relationship between appearance and reality?"
       ],
       "related_concepts": ["Nondualism", "Consciousness", "Buddhism", "Metaphysics"]
+    },
+    {
+      "name": "Metamodernism",
+      "tags": ["cultural", "philosophical", "aesthetic"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Philosophical Movements", "Art Theory"],
+      "year_emerged": 2010,
+      "aspects": {
+        "cultural": {
+          "description": "A cultural movement attempting to transcend postmodern irony through sincere engagement while maintaining critical awareness",
+          "key_features": [
+            "Oscillation between modernism and postmodernism",
+            "Informed naivety",
+            "Pragmatic idealism",
+            "New sincerity"
+          ]
+        },
+        "aesthetic": {
+          "description": "An aesthetic approach combining earnestness with irony, hope with melancholy",
+          "key_features": [
+            "Oscillating perspectives",
+            "Romantic response to crisis",
+            "Reconstructive spirituality",
+            "Digital culture integration"
+          ]
+        }
+      },
+      "core_description": "A cultural sensibility characterized by oscillation between modern earnestness and postmodern irony, seeking constructive ways forward",
+      "positive_aspect": "Offers way beyond postmodern cynicism while maintaining critical awareness",
+      "negative_aspect": "Can be conceptually vague and risk becoming merely fashionable terminology",
+      "historical_context": "Emerged in early 21st century as response to postmodernism and contemporary crises",
+      "modern_applications": [
+        "Contemporary art",
+        "Cultural criticism",
+        "Social movements",
+        "Digital culture"
+      ],
+      "reflection_questions": [
+        "How can sincerity and irony be productively combined?",
+        "What comes after postmodernism?",
+        "How can hope be maintained alongside critical awareness?"
+      ],
+      "related_concepts": ["Postmodernism", "Romanticism", "New Sincerity", "Digital Culture"]
+    },
+    {
+      "name": "Deep Ecology",
+      "tags": ["environmental", "philosophical", "ethical"],
+      "primary_category": "Environmental Theories",
+      "secondary_categories": ["Philosophical Movements", "Ethical Systems"],
+      "year_emerged": 1972,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical perspective emphasizing the intrinsic value of all living beings regardless of human utility",
+          "key_features": [
+            "Biocentric equality",
+            "Systems thinking",
+            "Ecological wisdom",
+            "Self-realization"
+          ]
+        },
+        "practical": {
+          "description": "An approach to environmental action based on deep identification with nature",
+          "key_features": [
+            "Lifestyle simplification",
+            "Direct action",
+            "Community building",
+            "Ecological restoration"
+          ]
+        }
+      },
+      "core_description": "An environmental philosophy and movement emphasizing the intrinsic worth of living beings regardless of their utility to human needs",
+      "positive_aspect": "Provides foundation for profound environmental ethics and action",
+      "negative_aspect": "Can be seen as misanthropic or impractical in modern industrial society",
+      "historical_context": "Developed by Arne Naess in 1972, influenced by ecology and Eastern philosophy",
+      "modern_applications": [
+        "Environmental activism",
+        "Conservation biology",
+        "Sustainable living",
+        "Ecological education"
+      ],
+      "reflection_questions": [
+        "What is humanity's proper relationship with nature?",
+        "How can deep ecological principles be applied in modern society?",
+        "What constitutes ecological wisdom?"
+      ],
+      "related_concepts": ["Environmentalism", "Biocentrism", "Systems Thinking", "Ecology"]
+    },
+    {
+      "name": "Afrofuturism",
+      "tags": ["cultural", "artistic", "philosophical"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Artistic Movements", "Political Ideologies"],
+      "year_emerged": 1994,
+      "aspects": {
+        "cultural": {
+          "description": "Cultural movement exploring African diaspora experiences through science fiction, technology, and futuristic themes",
+          "key_features": [
+            "African mythology",
+            "Technological innovation",
+            "Alternative futures",
+            "Cultural reclamation"
+          ]
+        },
+        "political": {
+          "description": "Political imagination challenging colonial narratives and envisioning empowered Black futures",
+          "key_features": [
+            "Liberation politics",
+            "Historical revision",
+            "Digital empowerment",
+            "Cultural transformation"
+          ]
+        }
+      },
+      "core_description": "A cultural aesthetic, philosophy, and movement combining African diaspora culture with technology, science fiction, and futurism",
+      "positive_aspect": "Empowers African diaspora communities through imaginative future-making and cultural reclamation",
+      "negative_aspect": "Risk of oversimplifying complex cultural histories or becoming commercially co-opted",
+      "historical_context": "Term coined by Mark Dery in 1994, though practice existed earlier in music, art, and literature",
+      "modern_applications": [
+        "Arts and literature",
+        "Music production",
+        "Digital culture",
+        "Political activism"
+      ],
+      "reflection_questions": [
+        "How can technology serve cultural liberation?",
+        "What role does imagination play in social change?",
+        "How can past and future be reconciled?"
+      ],
+      "related_concepts": ["Futurism", "Cultural Theory", "Liberation Movements", "Science Fiction"]
+    },
+    {
+      "name": "Biosemiotics",
+      "tags": ["scientific", "philosophical", "biological"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Philosophical Frameworks", "Biological Theories"],
+      "year_emerged": 1963,
+      "aspects": {
+        "scientific": {
+          "description": "Study of sign processes and meaning-making in biological systems",
+          "key_features": [
+            "Sign processes in nature",
+            "Biological communication",
+            "Information transfer",
+            "Meaning in living systems"
+          ]
+        },
+        "philosophical": {
+          "description": "Philosophy of biological meaning and natural signs",
+          "key_features": [
+            "Natural meaning",
+            "Biological interpretation",
+            "Evolutionary semiotics",
+            "Mind-nature relationship"
+          ]
+        }
+      },
+      "core_description": "An interdisciplinary field studying sign processes and meaning-making in biological systems",
+      "positive_aspect": "Provides framework for understanding meaning and communication in nature",
+      "negative_aspect": "Can be highly abstract and difficult to apply practically",
+      "historical_context": "Developed from work of Jakob von Uexküll and Thomas Sebeok",
+      "modern_applications": [
+        "Ecological research",
+        "Animal behavior studies",
+        "Environmental communication",
+        "Cognitive biology"
+      ],
+      "reflection_questions": [
+        "How do organisms create and interpret meaning?",
+        "What is the relationship between signs and life?",
+        "How does meaning evolve in nature?"
+      ],
+      "related_concepts": ["Semiotics", "Ecology", "Evolution", "Communication"]
+    },
+    {
+      "name": "Social Ecology",
+      "tags": ["environmental", "social", "political"],
+      "primary_category": "Environmental Theories",
+      "secondary_categories": ["Social Theories", "Political Ideologies"],
+      "year_emerged": 1964,
+      "aspects": {
+        "theoretical": {
+          "description": "Framework linking environmental problems to social hierarchies and domination",
+          "key_features": [
+            "Ecological rationality",
+            "Social hierarchy analysis",
+            "Dialectical naturalism",
+            "Community focus"
+          ]
+        },
+        "practical": {
+          "description": "Approach to environmental and social change through democratic participation",
+          "key_features": [
+            "Direct democracy",
+            "Urban planning",
+            "Community organization",
+            "Ecological restoration"
+          ]
+        }
+      },
+      "core_description": "A theory connecting environmental problems to social hierarchies and promoting ecological reconstruction through democratic participation",
+      "positive_aspect": "Links social and environmental issues while offering practical solutions",
+      "negative_aspect": "Can underestimate complexity of both social and ecological systems",
+      "historical_context": "Developed by Murray Bookchin in 1960s, combining anarchist and ecological thought",
+      "modern_applications": [
+        "Urban planning",
+        "Community development",
+        "Environmental justice",
+        "Democratic participation"
+      ],
+      "reflection_questions": [
+        "How do social structures affect environmental problems?",
+        "What role should communities play in ecological management?",
+        "How can society be reorganized ecologically?"
+      ],
+      "related_concepts": ["Environmentalism", "Anarchism", "Democracy", "Ecology"]
+    },
+    {
+      "name": "Xenofeminism",
+      "tags": ["feminist", "technological", "philosophical"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Political Ideologies", "Technology Frameworks"],
+      "year_emerged": 2015,
+      "aspects": {
+        "theoretical": {
+          "description": "Feminist framework advocating technological liberation and gender abolition",
+          "key_features": [
+            "Technomaterialism",
+            "Gender acceleration",
+            "Anti-naturalism",
+            "Universal emancipation"
+          ]
+        },
+        "practical": {
+          "description": "Approach to using technology for feminist liberation",
+          "key_features": [
+            "Technological appropriation",
+            "Identity experimentation",
+            "Bio-hacking",
+            "Digital resistance"
+          ]
+        }
+      },
+      "core_description": "A feminist movement advocating technological liberation and the abolition of gender through technological means",
+      "positive_aspect": "Offers radical vision of technological emancipation and gender freedom",
+      "negative_aspect": "Can be overly optimistic about technology's liberatory potential",
+      "historical_context": "Emerged from cyberfeminism and accelerationist thought in 2010s",
+      "modern_applications": [
+        "Technology activism",
+        "Gender politics",
+        "Biotechnology",
+        "Digital culture"
+      ],
+      "reflection_questions": [
+        "How can technology advance feminist goals?",
+        "What would gender abolition mean?",
+        "Can nature be overcome through technology?"
+      ],
+      "related_concepts": ["Feminism", "Transhumanism", "Cyberfeminism", "Accelerationism"]
+    },
+    {
+      "name": "Mindfulness",
+      "tags": ["psychological", "spiritual", "practical"],
+      "primary_category": "Practice Systems",
+      "secondary_categories": ["Psychological Theories", "Spiritual Traditions"],
+      "year_emerged": -500,
+      "aspects": {
+        "practical": {
+          "description": "A practice of focused attention on present-moment experience",
+          "key_features": [
+            "Present-moment awareness",
+            "Non-judgmental observation",
+            "Attention training",
+            "Emotional regulation"
+          ]
+        },
+        "therapeutic": {
+          "description": "Application in mental health and well-being",
+          "key_features": [
+            "Stress reduction",
+            "Emotional awareness",
+            "Behavioral change",
+            "Mental health support"
+          ]
+        }
+      },
+      "core_description": "A practice and approach emphasizing present-moment awareness and non-judgmental observation of experience",
+      "positive_aspect": "Reduces stress, improves mental health, and enhances self-awareness",
+      "negative_aspect": "Can be commercialized, oversimplified, or used to bypass addressing systemic issues",
+      "historical_context": "Ancient practice from Buddhist traditions, adapted for modern secular contexts",
+      "modern_applications": [
+        "Mental health treatment",
+        "Stress management",
+        "Educational programs",
+        "Corporate wellness"
+      ],
+      "reflection_questions": [
+        "How does awareness affect experience?",
+        "What is the relationship between mindfulness and social change?",
+        "Can spiritual practices be secularized effectively?"
+      ],
+      "related_concepts": ["Buddhism", "Psychology", "Meditation", "Therapy"]
+    },
+    {
+      "name": "Materialism",
+      "tags": ["philosophical", "economic", "cultural"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Economic Systems", "Cultural Theories"],
+      "year_emerged": -460,
+      "aspects": {
+        "philosophical": {
+          "description": "View that physical matter is the fundamental substance of reality",
+          "key_features": [
+            "Physical causation",
+            "Scientific explanation",
+            "Anti-spiritualism",
+            "Naturalistic worldview"
+          ]
+        },
+        "cultural": {
+          "description": "Focus on material goods and physical comfort",
+          "key_features": [
+            "Consumer culture",
+            "Material success",
+            "Physical comfort",
+            "Wealth accumulation"
+          ]
+        }
+      },
+      "core_description": "A philosophical and cultural orientation emphasizing physical matter and material possessions",
+      "positive_aspect": "Promotes scientific understanding and material progress",
+      "negative_aspect": "Can lead to excessive consumption and spiritual emptiness",
+      "historical_context": "Ancient philosophical view, gained prominence with scientific revolution",
+      "modern_applications": [
+        "Scientific research",
+        "Economic systems",
+        "Consumer culture",
+        "Technology development"
+      ],
+      "reflection_questions": [
+        "What is the relationship between material and spiritual well-being?",
+        "How does materialism affect society?",
+        "Can science explain everything?"
+      ],
+      "related_concepts": ["Science", "Consumerism", "Physicalism", "Economics"]
+    },
+    {
+      "name": "Pacifism",
+      "tags": ["ethical", "political", "social"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Political Ideologies", "Social Movements"],
+      "year_emerged": -500,
+      "aspects": {
+        "ethical": {
+          "description": "Moral position opposing war and violence",
+          "key_features": [
+            "Non-violence",
+            "Conflict resolution",
+            "Peace promotion",
+            "Moral conviction"
+          ]
+        },
+        "political": {
+          "description": "Political approach advocating peaceful solutions",
+          "key_features": [
+            "Anti-war activism",
+            "Diplomatic solutions",
+            "International cooperation",
+            "Peaceful resistance"
+          ]
+        }
+      },
+      "core_description": "A commitment to peace and opposition to war and violence as means of solving conflicts",
+      "positive_aspect": "Promotes peaceful conflict resolution and reduces human suffering",
+      "negative_aspect": "May be ineffective against aggressive forces or urgent threats",
+      "historical_context": "Present in many religious and philosophical traditions, strengthened by modern wars",
+      "modern_applications": [
+        "Peace movements",
+        "Conflict resolution",
+        "International relations",
+        "Social activism"
+      ],
+      "reflection_questions": [
+        "Is violence ever justified?",
+        "How can peace be maintained in a violent world?",
+        "What are the limits of non-violent resistance?"
+      ],
+      "related_concepts": ["Non-violence", "Peace", "Conflict Resolution", "Activism"]
+    },
+    {
+      "name": "Traditionalism",
+      "tags": ["cultural", "religious", "social"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Religious Systems", "Social Philosophies"],
+      "year_emerged": 1920,
+      "aspects": {
+        "cultural": {
+          "description": "Emphasis on maintaining traditional values and practices",
+          "key_features": [
+            "Cultural preservation",
+            "Value transmission",
+            "Social continuity",
+            "Historical respect"
+          ]
+        },
+        "religious": {
+          "description": "Focus on traditional religious wisdom and practice",
+          "key_features": [
+            "Sacred tradition",
+            "Ritual preservation",
+            "Spiritual lineage",
+            "Doctrinal orthodoxy"
+          ]
+        }
+      },
+      "core_description": "A perspective emphasizing the importance of traditional values, practices, and wisdom",
+      "positive_aspect": "Preserves cultural wisdom and provides stable social framework",
+      "negative_aspect": "Can resist necessary changes and perpetuate harmful practices",
+      "historical_context": "Reaction to modernism and rapid social change in early 20th century",
+      "modern_applications": [
+        "Cultural preservation",
+        "Religious practice",
+        "Social organization",
+        "Education"
+      ],
+      "reflection_questions": [
+        "How should tradition and progress be balanced?",
+        "What makes a tradition worth preserving?",
+        "Can traditions evolve while maintaining authenticity?"
+      ],
+      "related_concepts": ["Conservatism", "Religion", "Culture", "Heritage"]
+    },
+    {
+      "name": "Secularism",
+      "tags": ["political", "social", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Social Systems", "Philosophical Movements"],
+      "year_emerged": 1851,
+      "aspects": {
+        "political": {
+          "description": "Principle of separation between religious and state institutions",
+          "key_features": [
+            "Church-state separation",
+            "Religious neutrality",
+            "Civic governance",
+            "Public reason"
+          ]
+        },
+        "social": {
+          "description": "Organization of society independent of religious authority",
+          "key_features": [
+            "Religious freedom",
+            "Cultural pluralism",
+            "Civil society",
+            "Public education"
+          ]
+        }
+      },
+      "core_description": "A principle advocating separation of religious institutions from state institutions",
+      "positive_aspect": "Protects religious freedom and promotes social pluralism",
+      "negative_aspect": "Can marginalize religious perspectives and values",
+      "historical_context": "Emerged from Enlightenment thinking and democratic revolutions",
+      "modern_applications": [
+        "Government policy",
+        "Education systems",
+        "Legal frameworks",
+        "Public institutions"
+      ],
+      "reflection_questions": [
+        "What role should religion play in public life?",
+        "How can religious and secular values coexist?",
+        "What are the limits of religious freedom?"
+      ],
+      "related_concepts": ["Democracy", "Religion", "Pluralism", "State"]
+    },
+    {
+      "name": "Meritocracy",
+      "tags": ["political", "social", "organizational"],
+      "primary_category": "Social Systems",
+      "secondary_categories": ["Political Ideologies", "Organizational Structures"],
+      "year_emerged": 1958,
+      "aspects": {
+        "social": {
+          "description": "System where advancement is based on ability and achievement",
+          "key_features": [
+            "Merit-based rewards",
+            "Competition",
+            "Individual achievement",
+            "Performance measurement"
+          ]
+        },
+        "organizational": {
+          "description": "Structure promoting advancement based on demonstrated ability",
+          "key_features": [
+            "Performance evaluation",
+            "Skill recognition",
+            "Career advancement",
+            "Talent development"
+          ]
+        }
+      },
+      "core_description": "A system where success and status are determined by individual merit rather than wealth, birth, or social class",
+      "positive_aspect": "Promotes efficiency and rewards talent and hard work",
+      "negative_aspect": "Can ignore systemic inequalities and perpetuate existing advantages",
+      "historical_context": "Term coined in 1958 as satirical critique, later adopted as positive ideal",
+      "modern_applications": [
+        "Education systems",
+        "Corporate structures",
+        "Civil service",
+        "Professional advancement"
+      ],
+      "reflection_questions": [
+        "How can merit be fairly measured?",
+        "What role do privilege and opportunity play?",
+        "Can a true meritocracy exist?"
+      ],
+      "related_concepts": ["Competition", "Equality", "Social Mobility", "Education"]
+    },
+    {
+      "name": "Individualism",
+      "tags": ["philosophical", "cultural", "political"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Cultural Values", "Political Ideologies"],
+      "year_emerged": 1830,
+      "aspects": {
+        "philosophical": {
+          "description": "Emphasis on individual rights, interests, and autonomy",
+          "key_features": [
+            "Personal autonomy",
+            "Self-reliance",
+            "Individual rights",
+            "Personal responsibility"
+          ]
+        },
+        "cultural": {
+          "description": "Cultural value system prioritizing individual over group",
+          "key_features": [
+            "Self-expression",
+            "Personal achievement",
+            "Independent thinking",
+            "Private interests"
+          ]
+        }
+      },
+      "core_description": "A philosophy and cultural orientation emphasizing individual autonomy, rights, and self-reliance",
+      "positive_aspect": "Promotes personal freedom, creativity, and responsibility",
+      "negative_aspect": "Can lead to social atomization and weakening of community bonds",
+      "historical_context": "Emerged with Enlightenment and industrial revolution",
+      "modern_applications": [
+        "Personal rights",
+        "Economic freedom",
+        "Creative expression",
+        "Life choices"
+      ],
+      "reflection_questions": [
+        "How should individual and collective interests be balanced?",
+        "What are the limits of personal freedom?",
+        "Can individualism support community?"
+      ],
+      "related_concepts": ["Liberty", "Rights", "Autonomy", "Self-reliance"]
+    },
+    {
+      "name": "Holism",
+      "tags": ["philosophical", "scientific", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Scientific Theories", "Methodological Frameworks"],
+      "year_emerged": 1926,
+      "aspects": {
+        "philosophical": {
+          "description": "View that systems must be understood as wholes rather than collections of parts",
+          "key_features": [
+            "Systemic thinking",
+            "Interconnectedness",
+            "Emergent properties",
+            "Unity perspective"
+          ]
+        },
+        "methodological": {
+          "description": "Approach emphasizing comprehensive understanding of systems",
+          "key_features": [
+            "Systems analysis",
+            "Integrative methods",
+            "Context consideration",
+            "Relationship focus"
+          ]
+        }
+      },
+      "core_description": "A perspective emphasizing the interconnectedness of systems and importance of whole over parts",
+      "positive_aspect": "Promotes comprehensive understanding and recognition of complexity",
+      "negative_aspect": "Can overlook important details and make analysis impractical",
+      "historical_context": "Term coined by Jan Smuts, influenced by ancient philosophical traditions",
+      "modern_applications": [
+        "Healthcare",
+        "Environmental science",
+        "Systems theory",
+        "Social analysis"
+      ],
+      "reflection_questions": [
+        "How do parts relate to wholes?",
+        "Can complex systems be understood reductively?",
+        "What are the limits of holistic thinking?"
+      ],
+      "related_concepts": ["Systems Theory", "Emergence", "Integration", "Complexity"]
+    },
+    {
+      "name": "Rationalism",
+      "tags": ["philosophical", "epistemological", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Methodological Frameworks"],
+      "year_emerged": 1600,
+      "aspects": {
+        "philosophical": {
+          "description": "View that reason is the chief source and test of knowledge",
+          "key_features": [
+            "Logical reasoning",
+            "A priori knowledge",
+            "Mathematical thinking",
+            "Deductive method"
+          ]
+        },
+        "methodological": {
+          "description": "Approach emphasizing logical analysis and systematic thinking",
+          "key_features": [
+            "Systematic analysis",
+            "Logical proof",
+            "Conceptual clarity",
+            "Theoretical understanding"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach emphasizing reason and logic as the primary sources of knowledge",
+      "positive_aspect": "Promotes clear thinking and logical analysis",
+      "negative_aspect": "Can undervalue emotional and experiential knowledge",
+      "historical_context": "Developed in 17th century through work of Descartes and others",
+      "modern_applications": [
+        "Scientific method",
+        "Mathematical proof",
+        "Logical analysis",
+        "Decision making"
+      ],
+      "reflection_questions": [
+        "What are the limits of reason?",
+        "How do reason and experience relate?",
+        "Can all knowledge be rational?"
+      ],
+      "related_concepts": ["Logic", "Mathematics", "Science", "Knowledge"]
+    },
+    {
+      "name": "Critical Theory",
+      "tags": ["philosophical", "social", "political"],
+      "primary_category": "Critical Theories",
+      "secondary_categories": ["Philosophical Movements", "Social Theories"],
+      "year_emerged": 1930,
+      "aspects": {
+        "theoretical": {
+          "description": "Interdisciplinary approach combining social theory, philosophy, and cultural criticism",
+          "key_features": [
+            "Social critique",
+            "Emancipatory interest",
+            "Dialectical thinking",
+            "Ideology critique"
+          ]
+        },
+        "practical": {
+          "description": "Method for analyzing and challenging social domination",
+          "key_features": [
+            "Social analysis",
+            "Cultural critique",
+            "Political activism",
+            "Consciousness raising"
+          ]
+        }
+      },
+      "core_description": "An interdisciplinary approach to social theory oriented toward critiquing and changing society",
+      "positive_aspect": "Provides tools for understanding and challenging social domination",
+      "negative_aspect": "Can be overly abstract and disconnected from practical struggles",
+      "historical_context": "Developed by Frankfurt School in 1930s, combining Marxism with other social theories",
+      "modern_applications": [
+        "Social analysis",
+        "Cultural criticism",
+        "Political activism",
+        "Educational theory"
+      ],
+      "reflection_questions": [
+        "How can theory contribute to social change?",
+        "What is the relationship between knowledge and power?",
+        "How can social domination be recognized and challenged?"
+      ],
+      "related_concepts": ["Marxism", "Social Theory"]
+    },
+    {
+      "name": "Pluralism",
+      "tags": ["political", "cultural", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Cultural Theories", "Social Systems"],
+      "year_emerged": 1920,
+      "aspects": {
+        "political": {
+          "description": "Theory promoting coexistence of different groups and viewpoints in society",
+          "key_features": [
+            "Diversity recognition",
+            "Group rights",
+            "Power distribution",
+            "Inclusive governance"
+          ]
+        },
+        "cultural": {
+          "description": "Approach valuing cultural diversity and multiple perspectives",
+          "key_features": [
+            "Cultural diversity",
+            "Multiple traditions",
+            "Intercultural dialogue",
+            "Identity respect"
+          ]
+        }
+      },
+      "core_description": "A perspective advocating the coexistence and mutual respect of different groups, beliefs, and viewpoints within society",
+      "positive_aspect": "Promotes diversity, tolerance, and rich cultural exchange",
+      "negative_aspect": "Can lead to social fragmentation and conflict over values",
+      "historical_context": "Developed in response to cultural diversity and religious conflicts",
+      "modern_applications": [
+        "Multicultural policy",
+        "Religious tolerance",
+        "Democratic systems",
+        "Cultural preservation"
+      ],
+      "reflection_questions": [
+        "How can different value systems coexist?",
+        "What are the limits of tolerance?",
+        "How can unity be maintained amid diversity?"
+      ],
+      "related_concepts": ["Multiculturalism", "Democracy", "Tolerance", "Diversity"]
+    },
+    {
+      "name": "Collectivism",
+      "tags": ["social", "political", "cultural"],
+      "primary_category": "Social Systems",
+      "secondary_categories": ["Political Ideologies", "Cultural Values"],
+      "year_emerged": 1850,
+      "aspects": {
+        "social": {
+          "description": "Emphasis on group cohesion and collective interests over individual desires",
+          "key_features": [
+            "Group harmony",
+            "Shared responsibility",
+            "Social cooperation",
+            "Community focus"
+          ]
+        },
+        "cultural": {
+          "description": "Cultural value system prioritizing group needs and identity",
+          "key_features": [
+            "Group identity",
+            "Social obligations",
+            "Mutual support",
+            "Collective achievement"
+          ]
+        }
+      },
+      "core_description": "A social orientation emphasizing the group over individual interests and promoting collective responsibility",
+      "positive_aspect": "Fosters social cohesion, mutual support, and community strength",
+      "negative_aspect": "Can suppress individual freedom and innovation",
+      "historical_context": "Present in traditional societies, revived in modern political movements",
+      "modern_applications": [
+        "Community organization",
+        "Social welfare",
+        "Cultural practices",
+        "Economic cooperation"
+      ],
+      "reflection_questions": [
+        "How should individual and collective needs be balanced?",
+        "What makes communities strong?",
+        "Can collectivism support individual growth?"
+      ],
+      "related_concepts": ["Community", "Cooperation", "Socialism", "Culture"]
+    },
+    {
+      "name": "Determinism",
+      "tags": ["philosophical", "scientific", "psychological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Scientific Theories", "Psychological Theories"],
+      "year_emerged": -500,
+      "aspects": {
+        "philosophical": {
+          "description": "View that all events are caused by previous events according to natural laws",
+          "key_features": [
+            "Causal necessity",
+            "Natural law",
+            "Predictability",
+            "Universal causation"
+          ]
+        },
+        "scientific": {
+          "description": "Scientific perspective on causation and natural law",
+          "key_features": [
+            "Physical causation",
+            "Scientific law",
+            "Predictive models",
+            "Causal chains"
+          ]
+        }
+      },
+      "core_description": "The philosophical view that all events are inevitably caused by previous events according to natural laws",
+      "positive_aspect": "Supports scientific understanding and prediction of events",
+      "negative_aspect": "Can challenge concepts of free will and moral responsibility",
+      "historical_context": "Ancient philosophical concept, strengthened by scientific revolution",
+      "modern_applications": [
+        "Scientific research",
+        "Behavioral prediction",
+        "Technology development",
+        "Social planning"
+      ],
+      "reflection_questions": [
+        "Is free will compatible with determinism?",
+        "How predictable are events really?",
+        "What role does chance play in nature?"
+      ],
+      "related_concepts": ["Causation", "Free Will", "Science", "Prediction"]
+    },
+    {
+      "name": "Relativism",
+      "tags": ["philosophical", "cultural", "ethical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Cultural Theories", "Ethical Systems"],
+      "year_emerged": -400,
+      "aspects": {
+        "philosophical": {
+          "description": "View that truth, knowledge, or morality exists in relation to culture, society, or historical context",
+          "key_features": [
+            "Contextual truth",
+            "Multiple perspectives",
+            "Cultural dependence",
+            "Subjective knowledge"
+          ]
+        },
+        "ethical": {
+          "description": "Moral perspective emphasizing cultural and contextual nature of values",
+          "key_features": [
+            "Cultural values",
+            "Moral context",
+            "Value diversity",
+            "Ethical pluralism"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach holding that truth, knowledge, and morality exist in relation to particular contexts",
+      "positive_aspect": "Promotes cultural understanding and challenges dogmatic thinking",
+      "negative_aspect": "Can lead to moral nihilism and inability to judge harmful practices",
+      "historical_context": "Present in ancient Greek thought, prominent in modern anthropology",
+      "modern_applications": [
+        "Cultural analysis",
+        "Moral philosophy",
+        "International relations",
+        "Social understanding"
+      ],
+      "reflection_questions": [
+        "Can any truths be universal?",
+        "How should we judge different cultural practices?",
+        "What are the limits of relativism?"
+      ],
+      "related_concepts": ["Culture", "Truth", "Ethics", "Perspective"]
+    },
+    {
+      "name": "Reductionism",
+      "tags": ["scientific", "philosophical", "methodological"],
+      "primary_category": "Methodological Frameworks",
+      "secondary_categories": ["Scientific Theories", "Philosophical Movements"],
+      "year_emerged": 1600,
+      "aspects": {
+        "scientific": {
+          "description": "Approach explaining complex phenomena through simpler components",
+          "key_features": [
+            "Component analysis",
+            "Fundamental units",
+            "Simple explanation",
+            "Basic principles"
+          ]
+        },
+        "methodological": {
+          "description": "Method of breaking down complex systems into simpler parts",
+          "key_features": [
+            "Analysis method",
+            "System breakdown",
+            "Element isolation",
+            "Component study"
+          ]
+        }
+      },
+      "core_description": "An approach to understanding complex systems by breaking them down into simpler, fundamental components",
+      "positive_aspect": "Enables detailed analysis and scientific understanding",
+      "negative_aspect": "Can miss emergent properties and system-level phenomena",
+      "historical_context": "Developed with modern science, fundamental to scientific method",
+      "modern_applications": [
+        "Scientific research",
+        "Systems analysis",
+        "Problem solving",
+        "Technology development"
+      ],
+      "reflection_questions": [
+        "Can all systems be reduced to parts?",
+        "What is lost in reductive analysis?",
+        "How should complexity be studied?"
+      ],
+      "related_concepts": ["Analysis", "Science", "Complexity", "Systems"]
+    },
+    {
+      "name": "Absolutism",
+      "tags": ["philosophical", "ethical", "political"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Political Ideologies"],
+      "year_emerged": 1500,
+      "aspects": {
+        "philosophical": {
+          "description": "Belief in absolute truths and universal principles",
+          "key_features": [
+            "Universal truth",
+            "Objective standards",
+            "Absolute values",
+            "Unchanging principles"
+          ]
+        },
+        "ethical": {
+          "description": "Moral view holding certain actions always right or wrong",
+          "key_features": [
+            "Moral absolutes",
+            "Universal ethics",
+            "Principle-based",
+            "Categorical rules"
+          ]
+        }
+      },
+      "core_description": "A perspective asserting the existence of absolute truths, values, or principles independent of context",
+      "positive_aspect": "Provides clear moral guidelines and stable principles",
+      "negative_aspect": "Can lead to dogmatism and inability to adapt to circumstances",
+      "historical_context": "Traditional philosophical view, challenged by modern relativism",
+      "modern_applications": [
+        "Moral philosophy",
+        "Religious doctrine",
+        "Legal systems",
+        "Political ideology"
+      ],
+      "reflection_questions": [
+        "Can any principles be truly absolute?",
+        "How do absolutes relate to context?",
+        "What role should certainty play in thinking?"
+      ],
+      "related_concepts": ["Truth", "Ethics", "Principles", "Certainty"]
+    },
+    {
+      "name": "Skepticism",
+      "tags": ["philosophical", "epistemological", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Methodological Frameworks"],
+      "year_emerged": -400,
+      "aspects": {
+        "philosophical": {
+          "description": "Approach questioning accepted beliefs and seeking justification",
+          "key_features": [
+            "Doubt method",
+            "Critical inquiry",
+            "Knowledge limits",
+            "Belief examination"
+          ]
+        },
+        "methodological": {
+          "description": "Method of systematic questioning and evidence evaluation",
+          "key_features": [
+            "Evidence demand",
+            "Assumption testing",
+            "Critical thinking",
+            "Rational doubt"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach emphasizing systematic doubt and critical examination of accepted beliefs",
+      "positive_aspect": "Promotes critical thinking and prevents dogmatism",
+      "negative_aspect": "Can lead to paralysis of action and excessive doubt",
+      "historical_context": "Ancient Greek philosophy, central to scientific revolution",
+      "modern_applications": [
+        "Scientific method",
+        "Critical thinking",
+        "Research methodology",
+        "Public discourse"
+      ],
+      "reflection_questions": [
+        "What should we doubt?",
+        "How can we know anything?",
+        "When is skepticism appropriate?"
+      ],
+      "related_concepts": ["Doubt", "Knowledge", "Evidence", "Criticism"]
+    },
+    {
+      "name": "Naturalism",
+      "tags": ["philosophical", "scientific", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Scientific Theories", "Methodological Frameworks"],
+      "year_emerged": 1600,
+      "aspects": {
+        "philosophical": {
+          "description": "View that everything arises from natural properties and causes",
+          "key_features": [
+            "Natural causation",
+            "Material reality",
+            "Scientific explanation",
+            "Physical laws"
+          ]
+        },
+        "methodological": {
+          "description": "Approach studying phenomena through natural methods",
+          "key_features": [
+            "Empirical study",
+            "Natural processes",
+            "Scientific method",
+            "Observable phenomena"
+          ]
+        }
+      },
+      "core_description": "A perspective that everything arises from natural causes and can be explained through natural methods",
+      "positive_aspect": "Supports scientific understanding and rational explanation",
+      "negative_aspect": "May exclude non-material aspects of human experience",
+      "historical_context": "Developed with modern science, challenging supernatural explanations",
+      "modern_applications": [
+        "Scientific research",
+        "Environmental study",
+        "Medical science",
+        "Social analysis"
+      ],
+      "reflection_questions": [
+        "Can everything be explained naturally?",
+        "What are the limits of natural explanation?",
+        "How should we understand non-material experience?"
+      ],
+      "related_concepts": ["Science", "Nature", "Materialism", "Empiricism"]
+    },
+    {
+      "name": "Cultural Hegemony",
+      "tags": ["cultural", "philosophical", "sociological"],
+      "primary_category": "Cultural Frameworks",
+      "secondary_categories": ["Sociological Theories", "Philosophical Movements"],
+      "year_emerged": 1920,
+      "aspects": {
+        "cultural": {
+          "description": "The domination of cultural norms and values by a ruling class or group",
+          "key_features": [
+            "Normative control",
+            "Media influence",
+            "Cultural imperialism",
+            "Ideological domination"
+          ]
+        },
+        "sociological": {
+          "description": "Theory of social control where power structures perpetuate dominance through cultural means",
+          "key_features": [
+            "Ideological manipulation",
+            "Social stratification",
+            "Consensus-building",
+            "Cultural reinforcement"
+          ]
+        }
+      },
+      "core_description": "A sociocultural theory explaining how dominant groups maintain power by shaping cultural norms and values.",
+      "positive_aspect": "Highlights hidden power structures and challenges social inequality.",
+      "negative_aspect": "May overstate the role of culture in maintaining dominance.",
+      "historical_context": "Developed by Antonio Gramsci as part of Marxist theory to explain non-violent control in capitalist societies.",
+      "modern_applications": [
+        "Media studies",
+        "Critical theory",
+        "Education reform",
+        "Globalization critiques"
+      ],
+      "reflection_questions": [
+        "How do dominant groups maintain control without force?",
+        "What role does media play in cultural hegemony?",
+        "How can cultural hegemony be resisted?"
+      ],
+      "related_concepts": ["Marxism", "Critical Theory", "Globalization", "Ideology"]
+    },
+    {
+      "name": "Egalitarianism",
+      "tags": ["political", "ethical", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Ethical Systems", "Philosophical Movements"],
+      "year_emerged": -400,
+      "aspects": {
+        "political": {
+          "description": "A belief in the equality of all people in political, economic, and social dimensions",
+          "key_features": [
+            "Equality of opportunity",
+            "Wealth redistribution",
+            "Anti-discrimination",
+            "Social justice"
+          ]
+        },
+        "ethical": {
+          "description": "Moral principle advocating for the inherent worth and equal treatment of all individuals",
+          "key_features": [
+            "Moral equality",
+            "Fairness",
+            "Universal human rights",
+            "Equity in outcomes"
+          ]
+        }
+      },
+      "core_description": "An ideology and ethical principle that emphasizes equality among all people, advocating for equal rights and opportunities.",
+      "positive_aspect": "Encourages fairness, justice, and reduction of inequality.",
+      "negative_aspect": "Can oversimplify differences and overlook practical constraints or merit-based systems.",
+      "historical_context": "Rooted in ancient philosophy, including Plato and Aristotle's discussions on justice, and central to Enlightenment thinkers like Rousseau. It was a driving force in revolutionary movements like the French Revolution and has influenced modern movements such as feminism, civil rights, and socialism.",
+      "modern_applications": [
+        "Social welfare systems",
+        "Affirmative action policies",
+        "Universal basic income proposals",
+        "Anti-discrimination legislation"
+      ],
+      "reflection_questions": [
+        "What does equality mean in practice?",
+        "How can we balance equality with individual freedom?",
+        "Are there natural limits to egalitarianism?"
+      ],
+      "related_concepts": ["Social Justice", "Democracy", "Equity", "Liberty"]
+    },
+    {
+      "name": "Panarchism",
+      "tags": ["political", "philosophical"],
+      "primary_category": "Political Ideologies",
+      "secondary_categories": ["Governance Models", "Philosophical Movements"],
+      "year_emerged": 1860,
+      "aspects": {
+        "political": {
+          "description": "A political philosophy advocating voluntary participation in governance systems",
+          "key_features": [
+            "Voluntary governance",
+            "Freedom of association",
+            "Competing governments",
+            "Choice of governance models"
+          ]
+        },
+        "philosophical": {
+          "description": "Philosophical approach to governance rooted in individual freedom and non-coercion",
+          "key_features": [
+            "Pluralistic governance",
+            "Individual sovereignty",
+            "Decentralization",
+            "Personal choice"
+          ]
+        }
+      },
+      "core_description": "A political philosophy that supports the coexistence of multiple governance systems, allowing individuals to voluntarily choose their affiliations.",
+      "positive_aspect": "Maximizes individual freedom and reduces coercion in governance.",
+      "negative_aspect": "May lead to fragmentation, inefficiency, or lack of shared societal goals.",
+      "historical_context": "Originated in the 19th century with Paul Émile de Puydt, echoing ideas of pluralism and decentralized governance.",
+      "modern_applications": [
+        "Decentralized governance experiments",
+        "Grassroots political movements",
+        "Localized governance initiatives",
+        "Emerging models of digital citizenship"
+      ],
+      "reflection_questions": [
+        "Can multiple governance systems coexist peacefully?",
+        "How can conflicts be resolved under panarchism?",
+        "Is panarchism practical in a globalized world?"
+      ],
+      "related_concepts": ["Libertarianism", "Anarchism", "Pluralism", "Decentralization"]
+    },
+    {
+      "name": "Federalism",
+      "tags": ["political", "governance"],
+      "primary_category": "Governance Models",
+      "secondary_categories": ["Political Systems", "Legal Frameworks"],
+      "year_emerged": 1700,
+      "aspects": {
+        "political": {
+          "description": "A governance model where power is divided between central and regional authorities",
+          "key_features": [
+            "Division of powers",
+            "Regional autonomy",
+            "Shared governance",
+            "Centralized coordination"
+          ]
+        },
+        "legal": {
+          "description": "A constitutional framework establishing the distribution of power between levels of government",
+          "key_features": [
+            "Constitutional division",
+            "Legal jurisdiction",
+            "Intergovernmental relations",
+            "Checks and balances"
+          ]
+        }
+      },
+      "core_description": "A political system where authority is shared between central and regional governments, allowing for localized and national governance.",
+      "positive_aspect": "Promotes balance of power and regional representation.",
+      "negative_aspect": "Can lead to inefficiencies or conflicts between levels of government.",
+      "historical_context": "Prominent in the founding of the United States, Switzerland's cantonal system, and India's federal governance structure. The European Union also embodies federal principles in its multilevel governance model.",
+      "modern_applications": [
+        "United States government",
+        "European Union governance",
+        "Decentralization reforms",
+        "Multilevel policy-making"
+      ],
+      "reflection_questions": [
+        "How does federalism balance unity and diversity?",
+        "What are the challenges of shared governance?",
+        "Is federalism suitable for global governance?"
+      ],
+      "related_concepts": ["Democracy", "Decentralization", "Regionalism", "Constitutionalism"]
+    },
+    {
+      "name": "Technological Determinism",
+      "tags": ["scientific", "cultural", "philosophical"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Cultural Frameworks", "Philosophical Movements"],
+      "year_emerged": 1800,
+      "aspects": {
+        "scientific": {
+          "description": "Theory that technology is the primary driver of societal and cultural change",
+          "key_features": [
+            "Innovation-driven change",
+            "Technological inevitability",
+            "Automation impact",
+            "Cultural shaping"
+          ]
+        },
+        "cultural": {
+          "description": "Perspective that views technology as shaping social norms, institutions, and relationships",
+          "key_features": [
+            "Cultural adaptation",
+            "Economic transformation",
+            "Media influence",
+            "Social dependency on technology"
+          ]
+        }
+      },
+      "core_description": "A theory proposing that technological developments determine societal and cultural progress.",
+      "positive_aspect": "Explains the transformative power of innovation in society.",
+      "negative_aspect": "Oversimplifies complex sociocultural dynamics, downplays human agency, and may lead to technological determinism as a self-fulfilling prophecy.",
+      "historical_context": "Rooted in the industrial revolution and expanded in media and communications theory, particularly through thinkers like Marshall McLuhan and Neil Postman.",
+      "modern_applications": [
+        "AI ethics",
+        "Media studies",
+        "Digital transformation",
+        "Technological policy-making"
+      ],
+      "reflection_questions": [
+        "Does technology drive society, or vice versa?",
+        "What role does human agency play in technological development?",
+        "Can we predict societal change through technological trends?"
+      ],
+      "related_concepts": ["Media Ecology", "Innovation", "Automation", "Globalization"]
+    },
+    {
+      "name": "Absurdism",
+      "tags": ["philosophical", "existential", "ethical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Cultural Movements"],
+      "year_emerged": 1942,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical view that the human search for meaning in an inherently meaningless universe is fundamentally absurd",
+          "key_features": [
+            "Inherent meaninglessness",
+            "Human meaning-seeking",
+            "Embracing contradiction",
+            "Conscious revolt"
+          ]
+        },
+        "practical": {
+          "description": "An approach to life acknowledging and embracing the absurd while continuing to live meaningfully",
+          "key_features": [
+            "Authentic living",
+            "Creative response",
+            "Conscious rebellion",
+            "Joy in uncertainty"
+          ]
+        }
+      },
+      "core_description": "A philosophical position recognizing the conflict between the human search for meaning and the meaninglessness of the universe",
+      "positive_aspect": "Provides a way to find joy and purpose while acknowledging life's fundamental uncertainty",
+      "negative_aspect": "Can lead to nihilistic attitudes or paralysis in face of meaninglessness",
+      "historical_context": "Developed by Albert Camus in 1940s, emerging from existentialism and responses to World War II",
+      "modern_applications": [
+        "Personal meaning-making",
+        "Artistic expression",
+        "Mental health approaches",
+        "Cultural criticism"
+      ],
+      "reflection_questions": [
+        "How can we find meaning while accepting meaninglessness?",
+        "What is the appropriate response to the absurd?",
+        "Can absurdity be a source of joy?"
+      ],
+      "related_concepts": ["Existentialism", "Nihilism", "Authenticity", "Meaning"]
+    },
+    {
+      "name": "Epistemology",
+      "tags": ["philosophical", "theoretical", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Methodological Frameworks", "Scientific Theories"],
+      "year_emerged": -400,
+      "aspects": {
+        "theoretical": {
+          "description": "The study of knowledge, its nature, sources, limits, and verification",
+          "key_features": [
+            "Knowledge theory",
+            "Truth criteria",
+            "Belief justification",
+            "Skeptical inquiry"
+          ]
+        },
+        "methodological": {
+          "description": "Framework for evaluating claims and establishing reliable knowledge",
+          "key_features": [
+            "Evidence evaluation",
+            "Reasoning methods",
+            "Knowledge validation",
+            "Error recognition"
+          ]
+        }
+      },
+      "core_description": "The philosophical investigation of knowledge: what it is, how we get it, and how we can be sure about what we know",
+      "positive_aspect": "Provides tools for evaluating claims and establishing reliable knowledge",
+      "negative_aspect": "Can lead to excessive skepticism or paralysis in practical decision-making",
+      "historical_context": "Founded in ancient Greek philosophy, particularly through Plato's investigations of knowledge, developed through medieval and modern philosophy",
+      "modern_applications": [
+        "Scientific methodology",
+        "Information verification",
+        "Educational theory",
+        "Digital literacy"
+      ],
+      "reflection_questions": [
+        "How do we know what we know?",
+        "What makes knowledge reliable?",
+        "What are the limits of human knowledge?"
+      ],
+      "related_concepts": ["Knowledge", "Truth", "Science", "Logic"]
+    },
+    {
+      "name": "Moral Relativism",
+      "tags": ["ethical", "philosophical", "cultural"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Cultural Theories", "Philosophical Movements"],
+      "year_emerged": -450,
+      "aspects": {
+        "ethical": {
+          "description": "View that moral truths are relative to particular contexts or cultures rather than universal",
+          "key_features": [
+            "Cultural context",
+            "Moral pluralism",
+            "Value diversity",
+            "Ethical subjectivity"
+          ]
+        },
+        "cultural": {
+          "description": "Recognition of diverse moral systems across different cultures and contexts",
+          "key_features": [
+            "Cultural differences",
+            "Historical variation",
+            "Social context",
+            "Moral evolution"
+          ]
+        }
+      },
+      "core_description": "The philosophical view that moral and ethical truths are relative to particular times, places, or cultures rather than absolute",
+      "positive_aspect": "Promotes cultural understanding and challenges ethnocentric assumptions",
+      "negative_aspect": "Can make it difficult to condemn harmful practices or establish universal human rights",
+      "historical_context": "Present in ancient Greek sophism, gained prominence through anthropological studies of diverse cultures",
+      "modern_applications": [
+        "Cross-cultural understanding",
+        "International relations",
+        "Cultural policy",
+        "Ethical decision-making"
+      ],
+      "reflection_questions": [
+        "Can any moral principles be universal?",
+        "How should we judge practices across cultures?",
+        "What are the limits of moral relativism?"
+      ],
+      "related_concepts": ["Ethics", "Cultural Relativism", "Pluralism", "Values"]
+    },
+    {
+      "name": "Phenomenalism",
+      "tags": ["philosophical", "epistemological", "perceptual"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Cognitive Frameworks"],
+      "year_emerged": 1710,
+      "aspects": {
+        "epistemological": {
+          "description": "Theory that physical objects exist only as perceptual phenomena or sense experiences",
+          "key_features": [
+            "Sensory primacy",
+            "Perception-based reality",
+            "Mental construction",
+            "Experience-centered knowledge"
+          ]
+        },
+        "theoretical": {
+          "description": "Framework for understanding the relationship between perception and reality",
+          "key_features": [
+            "Sense-data analysis",
+            "Object construction",
+            "Perceptual patterns",
+            "Experiential knowledge"
+          ]
+        }
+      },
+      "core_description": "A philosophical view that physical objects can be completely described through their perceptual properties and exist only as patterns of perception",
+      "positive_aspect": "Grounds knowledge in direct experience and avoids assumptions about unobservable reality",
+      "negative_aspect": "Can lead to solipsism and struggles to account for objects nobody is perceiving",
+      "historical_context": "Developed through Berkeley's idealism and later empiricists, influential in early 20th century philosophy",
+      "modern_applications": [
+        "Cognitive science",
+        "Virtual reality design",
+        "Perceptual psychology",
+        "User experience research"
+      ],
+      "reflection_questions": [
+        "How do we know objects exist when not perceived?",
+        "What is the relationship between perception and reality?",
+        "Can all knowledge be reduced to sensory experience?"
+      ],
+      "related_concepts": ["Empiricism", "Idealism", "Perception", "Experience"]
+    },
+    {
+      "name": "The Sublime",
+      "tags": ["aesthetic", "philosophical", "experiential"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Aesthetic Theories", "Psychological Concepts"],
+      "year_emerged": 1757,
+      "aspects": {
+        "aesthetic": {
+          "description": "Experience of overwhelming beauty, power, or vastness that transcends ordinary perception",
+          "key_features": [
+            "Transcendent beauty",
+            "Overwhelming scale",
+            "Aesthetic awe",
+            "Natural grandeur"
+          ]
+        },
+        "psychological": {
+          "description": "Mental state combining terror and attraction, awe and wonder",
+          "key_features": [
+            "Mixed emotions",
+            "Cognitive overwhelm",
+            "Existential awareness",
+            "Transformative experience"
+          ]
+        }
+      },
+      "core_description": "An aesthetic and philosophical concept describing experiences of overwhelming grandeur or power that transcend ordinary beauty",
+      "positive_aspect": "Provides framework for understanding profound aesthetic and existential experiences",
+      "negative_aspect": "Can romanticize potentially dangerous or destructive forces",
+      "historical_context": "Theorized by Edmund Burke and Immanuel Kant, central to Romantic movement and modern environmental thought",
+      "modern_applications": [
+        "Environmental appreciation",
+        "Artistic creation",
+        "Digital media design",
+        "Architectural theory"
+      ],
+      "reflection_questions": [
+        "What distinguishes the sublime from ordinary beauty?",
+        "Why are we attracted to overwhelming experiences?",
+        "How does technology change our experience of the sublime?"
+      ],
+      "related_concepts": ["Aesthetics", "Beauty", "Romanticism", "Awe"]
+    },
+    {
+      "name": "Veganism",
+      "tags": ["ethical", "social", "environmental"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Social Movements", "Environmental Theories"],
+      "year_emerged": 1944,
+      "aspects": {
+        "ethical": {
+          "description": "Philosophical and practical stance opposing the exploitation of animals for human use",
+          "key_features": [
+            "Animal rights",
+            "Ethical consumption",
+            "Non-violence",
+            "Moral consideration"
+          ]
+        },
+        "environmental": {
+          "description": "Environmental approach focusing on reducing animal agriculture's impact",
+          "key_features": [
+            "Environmental impact",
+            "Resource efficiency",
+            "Climate consideration",
+            "Ecosystem protection"
+          ]
+        }
+      },
+      "core_description": "An ethical philosophy and lifestyle avoiding animal exploitation and promoting plant-based alternatives",
+      "positive_aspect": "Reduces animal suffering, environmental impact, and often improves personal health",
+      "negative_aspect": "Can be socially challenging, require careful nutritional planning, and may overlook indigenous practices",
+      "historical_context": "Term coined by Donald Watson in 1944, building on vegetarian movements and animal rights philosophy",
+      "modern_applications": [
+        "Dietary choices",
+        "Consumer ethics",
+        "Environmental policy",
+        "Animal rights activism"
+      ],
+      "reflection_questions": [
+        "What obligations do humans have to other species?",
+        "How should cultural traditions be balanced with ethical progress?",
+        "Can individual choices create systemic change?"
+      ],
+      "related_concepts": ["Animal Rights", "Environmentalism", "Ethics", "Sustainability"]
+    },
+    {
+      "name": "Confucianism",
+      "tags": ["philosophical", "ethical", "social"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Social Theories"],
+      "year_emerged": -500,
+      "aspects": {
+        "philosophical": {
+          "description": "System of thought emphasizing personal and governmental morality, social relationships, and justice",
+          "key_features": [
+            "Moral cultivation",
+            "Social harmony",
+            "Hierarchical order",
+            "Ethical governance"
+          ]
+        },
+        "social": {
+          "description": "Framework for social organization based on relationships and mutual obligations",
+          "key_features": [
+            "Filial piety",
+            "Social roles",
+            "Reciprocal duties",
+            "Educational emphasis"
+          ]
+        }
+      },
+      "core_description": "A philosophical system emphasizing moral cultivation, social harmony, and proper relationships",
+      "positive_aspect": "Promotes social stability, moral development, and educational excellence",
+      "negative_aspect": "Can reinforce hierarchical structures and traditional gender roles",
+      "historical_context": "Developed from teachings of Confucius in ancient China, shaped East Asian civilization for over two millennia",
+      "modern_applications": [
+        "Educational philosophy",
+        "Business ethics",
+        "Governance models",
+        "Family relationships"
+      ],
+      "reflection_questions": [
+        "How do traditional values apply to modern society?",
+        "What is the relationship between individual and social good?",
+        "Can hierarchy and equality be reconciled?"
+      ],
+      "related_concepts": ["Ethics", "Tradition", "Harmony", "Education"]
+    },
+    {
+      "name": "Solipsism",
+      "tags": ["philosophical", "epistemological", "metaphysical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Metaphysical Systems"],
+      "year_emerged": -400,
+      "aspects": {
+        "metaphysical": {
+          "description": "Philosophical idea that only one's own mind is sure to exist",
+          "key_features": [
+            "Self-existence",
+            "Mental reality",
+            "Consciousness primacy",
+            "External world doubt"
+          ]
+        },
+        "epistemological": {
+          "description": "Theory that knowledge of anything outside one's own mind is uncertain",
+          "key_features": [
+            "Knowledge limits",
+            "Subjective experience",
+            "Personal certainty",
+            "External skepticism"
+          ]
+        }
+      },
+      "core_description": "The philosophical position that only one's own mind is sure to exist, and knowledge of anything outside it cannot be proven",
+      "positive_aspect": "Highlights fundamental epistemological challenges and the primacy of consciousness",
+      "negative_aspect": "Can lead to extreme skepticism and social disconnection",
+      "historical_context": "Present in ancient Greek philosophy, recurring through Cartesian doubt and modern consciousness studies",
+      "modern_applications": [
+        "Consciousness research",
+        "Virtual reality theory",
+        "Personal identity",
+        "AI philosophy"
+      ],
+      "reflection_questions": [
+        "How can we know other minds exist?",
+        "What makes us sure of external reality?",
+        "Can solipsism be definitively disproven?"
+      ],
+      "related_concepts": ["Consciousness", "Skepticism", "Reality", "Mind"]
+    },
+    {
+      "name": "Chaos Engineering",
+      "tags": ["scientific", "methodological", "technological"],
+      "primary_category": "Methodological Frameworks",
+      "secondary_categories": ["Scientific Method", "Systems Thinking"],
+      "year_emerged": 2010,
+      "aspects": {
+        "methodological": {
+          "description": "A practice of experimenting on a system to build confidence in its ability to withstand unexpected conditions.",
+          "key_features": [
+            "Resilience testing",
+            "Fault injection",
+            "Controlled experiments",
+            "Proactive system design"
+          ]
+        },
+        "technological": {
+          "description": "Closely tied to cloud computing, distributed systems, and reliability engineering.",
+          "key_features": [
+            "Tooling like Chaos Monkey and Gremlin",
+            "Incident response training",
+            "Service-level objectives",
+            "Monitoring and observability"
+          ]
+        }
+      },
+      "core_description": "A discipline for improving system reliability through controlled, experimental failure scenarios.",
+      "positive_aspect": "Improves system resilience and reliability.",
+      "negative_aspect": "Can risk real-world outages if not carefully managed.",
+      "historical_context": "Pioneered by Netflix in the early 2010s to test the reliability of distributed systems.",
+      "modern_applications": [
+        "Cloud infrastructure reliability",
+        "Distributed system testing",
+        "DevOps practices",
+        "Incident response simulation"
+      ],
+      "reflection_questions": [
+        "What trade-offs exist between system reliability and complexity?",
+        "How can failure help in designing more resilient systems?"
+      ],
+      "related_concepts": ["Resilience Engineering", "Systems Thinking", "Fault Tolerance"]
+    },
+    {
+      "name": "Futurology",
+      "tags": ["scientific", "cultural", "philosophical"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Philosophical Movements", "Scientific Method"],
+      "year_emerged": 1940,
+      "aspects": {
+        "philosophical": {
+          "description": "A discipline exploring possible, probable, and preferable futures.",
+          "key_features": [
+            "Speculative thinking",
+            "Scenario planning",
+            "Ethical considerations",
+            "Trend analysis"
+          ]
+        },
+        "scientific": {
+          "description": "Incorporates data-driven approaches like modeling, simulation, and forecasting.",
+          "key_features": [
+            "Predictive modeling",
+            "Trend extrapolation",
+            "Big data analysis",
+            "Cross-disciplinary research"
+          ]
+        }
+      },
+      "core_description": "The study of the future, analyzing trends and potential outcomes to prepare for societal, technological, and environmental changes.",
+      "positive_aspect": "Encourages proactive thinking and innovation.",
+      "negative_aspect": "Prone to speculative inaccuracies and overconfidence in predictions.",
+      "historical_context": "Emerging as a formal discipline in the mid-20th century with the rise of systems thinking and long-term planning.",
+      "modern_applications": [
+        "Scenario planning for climate change",
+        "Technology forecasting",
+        "Urban planning",
+        "Corporate strategy"
+      ],
+      "reflection_questions": [
+        "How can we responsibly balance optimism and caution when imagining the future?",
+        "What role should ethics play in shaping our preferred futures?"
+      ],
+      "related_concepts": ["Systems Thinking", "Transhumanism", "Sustainability"]
+    },
+    {
+      "name": "Biopolitics",
+      "tags": ["political", "philosophical", "scientific"],
+      "primary_category": "Political Systems",
+      "secondary_categories": ["Philosophical Movements", "Social Theory"],
+      "year_emerged": 1970,
+      "aspects": {
+        "political": {
+          "description": "A framework analyzing how political power is exercised over bodies, populations, and life itself.",
+          "key_features": [
+            "Population control",
+            "Public health policies",
+            "Surveillance",
+            "Biosecurity"
+          ]
+        },
+        "philosophical": {
+          "description": "Examines the relationship between life, politics, and power.",
+          "key_features": [
+            "Sovereignty and control",
+            "Ethics of governance",
+            "Intersection of biology and politics",
+            "Foucault's theory of biopower"
+          ]
+        }
+      },
+      "core_description": "The study of the intersections between biology, politics, and governance, focusing on how power operates on living beings.",
+      "positive_aspect": "Provides insights into the ethical implications of policies on life and health.",
+      "negative_aspect": "Can justify intrusive state control over individual lives.",
+      "historical_context": "Popularized by Michel Foucault's work on biopower and its role in modern governance.",
+      "modern_applications": [
+        "Public health policy",
+        "Global pandemic response",
+        "Genetic engineering regulation",
+        "Surveillance and privacy debates"
+      ],
+      "reflection_questions": [
+        "What limits should exist on state control over life and health?",
+        "How does power shape our understanding of biology and human life?"
+      ],
+      "related_concepts": ["Sovereignty", "Bioethics", "Surveillance", "Public Health"]
+    },
+    {
+      "name": "Neuromarketing",
+      "tags": ["scientific", "technological", "cultural"],
+      "primary_category": "Methodological Frameworks",
+      "secondary_categories": ["Cultural Movements", "Behavioral Science"],
+      "year_emerged": 2002,
+      "aspects": {
+        "scientific": {
+          "description": "A field combining neuroscience and marketing to study consumer behavior.",
+          "key_features": [
+            "Brain imaging technologies",
+            "Emotional response tracking",
+            "Cognitive bias analysis",
+            "Behavior prediction"
+          ]
+        },
+        "cultural": {
+          "description": "Examines how cultural norms and consumer psychology interact.",
+          "key_features": [
+            "Brand loyalty",
+            "Cultural symbolism",
+            "Targeted advertising",
+            "Personalization strategies"
+          ]
+        }
+      },
+      "core_description": "The application of neuroscience to marketing, analyzing how consumers' brains respond to marketing stimuli.",
+      "positive_aspect": "Enables deeper insights into consumer behavior for tailored experiences.",
+      "negative_aspect": "Raises ethical concerns about manipulation and privacy.",
+      "historical_context": "Emerging in the early 2000s with advancements in brain imaging technologies.",
+      "modern_applications": [
+        "Ad campaign optimization",
+        "Product design feedback",
+        "Brand perception studies",
+        "Personalized marketing"
+      ],
+      "reflection_questions": [
+        "Where is the line between persuasion and manipulation in marketing?",
+        "How should consumer data be ethically handled?"
+      ],
+      "related_concepts": ["Behavioral Economics", "Neuroscience", "Consumer Psychology", "Ethics"]
+    },
+    {
+      "name": "Synthetic Biology",
+      "tags": ["scientific", "technological", "philosophical"],
+      "primary_category": "Scientific Method",
+      "secondary_categories": ["Technological Innovations", "Bioethics"],
+      "year_emerged": 2000,
+      "aspects": {
+        "scientific": {
+          "description": "An interdisciplinary field that designs and constructs new biological parts, devices, and systems.",
+          "key_features": [
+            "Gene editing",
+            "Biological circuit design",
+            "Synthetic organisms",
+            "Biological engineering"
+          ]
+        },
+        "philosophical": {
+          "description": "Raises questions about the ethical implications and limits of creating life.",
+          "key_features": [
+            "Redefining life",
+            "Human intervention in nature",
+            "Ethical boundaries",
+            "Purpose-driven design"
+          ]
+        }
+      },
+      "core_description": "An interdisciplinary field focused on designing and engineering synthetic biological systems and organisms.",
+      "positive_aspect": "Can revolutionize medicine, energy, and environmental restoration.",
+      "negative_aspect": "Raises ethical concerns and risks of misuse or unintended consequences.",
+      "historical_context": "Gained traction in the early 21st century with advancements in gene editing and molecular biology.",
+      "modern_applications": [
+        "Synthetic vaccines",
+        "Biodegradable materials",
+        "Biofuels",
+        "Environmental remediation"
+      ],
+      "reflection_questions": [
+        "What ethical guidelines should govern the creation of synthetic life?",
+        "How can we balance innovation with safety in biological engineering?"
+      ],
+      "related_concepts": ["Genetics", "Bioethics", "CRISPR", "Biotechnology"]
+    },
+    {
+      "name": "Critical Media Theory",
+      "tags": ["cultural", "philosophical", "technological"],
+      "primary_category": "Art, Culture, & Aesthetics",
+      "secondary_categories": ["Cultural Movements", "Social Theory", "Media Studies"],
+      "year_emerged": 1930,
+      "aspects": {
+        "philosophical": {
+          "description": "Analyzes how media structures society and influences culture, often critiquing systems of power and control.",
+          "key_features": [
+            "Media as a cultural force",
+            "Ideological critique",
+            "Audience reception studies",
+            "Focus on power dynamics"
+          ]
+        },
+        "technological": {
+          "description": "Explores the technological evolution of media and its role in shaping human communication.",
+          "key_features": [
+            "Digital media analysis",
+            "Algorithmic bias",
+            "Media convergence",
+            "Impact of social media"
+          ]
+        }
+      },
+      "core_description": "A field of study critiquing how media, technology, and communication shape culture, power, and societal structures.",
+      "positive_aspect": "Encourages awareness of media influence and promotes media literacy.",
+      "negative_aspect": "Can sometimes appear overly cynical or reductionist.",
+      "historical_context": "Emerging from the Frankfurt School in the 1930s, it critiques mass media as tools of ideological control.",
+      "modern_applications": [
+        "Social media analysis",
+        "Algorithmic transparency advocacy",
+        "Digital activism",
+        "Media literacy education"
+      ],
+      "reflection_questions": [
+        "How do media technologies shape our understanding of reality?",
+        "What ethical responsibilities do media producers hold in shaping cultural narratives?"
+      ],
+      "related_concepts": ["Cultural Studies", "Media Literacy", "Marxism", "Technological Determinism"]
+    },
+    {
+      "name": "Posthuman Aesthetics",
+      "tags": ["philosophical", "cultural", "technological"],
+      "primary_category": "Art, Culture, & Aesthetics",
+      "secondary_categories": ["Philosophical Movements", "Technological Innovations", "Cultural Movements"],
+      "year_emerged": 1990,
+      "aspects": {
+        "philosophical": {
+          "description": "Explores art and aesthetics beyond the human-centric perspective, incorporating the non-human, technological, and ecological.",
+          "key_features": [
+            "Decentering of human subjectivity",
+            "Ecological and planetary perspectives",
+            "Hybridization of biology and technology",
+            "Speculative futures"
+          ]
+        },
+        "technological": {
+          "description": "Incorporates emerging technologies like AI, robotics, and virtual reality to challenge traditional boundaries of art.",
+          "key_features": [
+            "Generative art",
+            "Bioart",
+            "Immersive experiences",
+            "Non-human creativity"
+          ]
+        }
+      },
+      "core_description": "An artistic and philosophical exploration of aesthetics that transcends the human, focusing on ecological, technological, and speculative dimensions.",
+      "positive_aspect": "Encourages inclusion of diverse perspectives beyond human experience.",
+      "negative_aspect": "Can alienate audiences with its abstract or speculative nature.",
+      "historical_context": "Emerging in the 1990s alongside posthumanism and critical theory, it critiques anthropocentrism in art.",
+      "modern_applications": [
+        "AI-generated art",
+        "Eco-art installations",
+        "Virtual reality experiences",
+        "Speculative design"
+      ],
+      "reflection_questions": [
+        "How can art challenge human-centric narratives in the Anthropocene?",
+        "What role should technology play in the evolution of aesthetics?"
+      ],
+      "related_concepts": ["Posthumanism", "Speculative Design", "Cybernetics", "Ecofeminism"]
+    },
+    {
+      "name": "Symbolism",
+      "tags": ["artistic", "philosophical", "cultural"],
+      "primary_category": "Art, Culture, & Aesthetics",
+      "secondary_categories": ["Philosophical Movements", "Cultural Movements", "Literature"],
+      "year_emerged": 1880,
+      "aspects": {
+        "artistic": {
+          "description": "An artistic movement emphasizing the use of symbols to convey ideas, emotions, and spirituality.",
+          "key_features": [
+            "Evocative imagery",
+            "Dream-like atmospheres",
+            "Focus on the metaphysical",
+            "Rejection of realism"
+          ]
+        },
+        "philosophical": {
+          "description": "Grounded in the belief that art should represent absolute truths through metaphor and symbolism.",
+          "key_features": [
+            "Connection to mysticism",
+            "Exploration of the subconscious",
+            "Critique of materialism",
+            "Spiritual transcendence"
+          ]
+        }
+      },
+      "core_description": "An artistic and literary movement using symbols and metaphors to express deeper truths and emotions.",
+      "positive_aspect": "Encourages introspection and emotional depth in art.",
+      "negative_aspect": "Can be overly esoteric or inaccessible to some audiences.",
+      "historical_context": "Originating in late 19th-century France as a reaction to realism and naturalism.",
+      "modern_applications": [
+        "Fantasy and surrealist art",
+        "Spiritual literature",
+        "Abstract painting",
+        "Poetry"
+      ],
+      "reflection_questions": [
+        "How can symbols communicate universal truths across cultures?",
+        "What is the role of the subconscious in artistic creation?"
+      ],
+      "related_concepts": ["Romanticism", "Surrealism", "Expressionism", "Mysticism"]
+    },
+    {
+      "name": "Surrealism",
+      "tags": ["artistic", "philosophical", "cultural"],
+      "primary_category": "Art, Culture, & Aesthetics",
+      "secondary_categories": ["Philosophical Movements", "Cultural Movements", "Literature"],
+      "year_emerged": 1924,
+      "aspects": {
+        "artistic": {
+          "description": "An avant-garde movement exploring the unconscious mind through irrational and dream-like imagery.",
+          "key_features": [
+            "Juxtaposition of unrelated objects",
+            "Automatic drawing and writing",
+            "Dream analysis",
+            "Psychological depth"
+          ]
+        },
+        "philosophical": {
+          "description": "Grounded in the ideas of psychoanalysis, especially the theories of Sigmund Freud.",
+          "key_features": [
+            "Exploration of the subconscious",
+            "Critique of rationalism",
+            "Emphasis on spontaneity",
+            "Search for hidden truths"
+          ]
+        }
+      },
+      "core_description": "A cultural movement seeking to unlock the unconscious mind through art, literature, and philosophy.",
+      "positive_aspect": "Expands the boundaries of creativity and imagination.",
+      "negative_aspect": "Can appear nonsensical or overly abstract to some audiences.",
+      "historical_context": "Founded by André Breton in 1924 as a reaction to World War I and traditional artistic norms.",
+      "modern_applications": [
+        "Film and visual effects",
+        "Dream-inspired art",
+        "Psychological explorations in literature",
+        "Performance art"
+      ],
+      "reflection_questions": [
+        "How does the subconscious influence creativity?",
+        "What is the role of absurdity in questioning societal norms?"
+      ],
+      "related_concepts": ["Dadaism", "Symbolism", "Expressionism", "Freudian Psychology"]
+    },
+    {
+      "name": "Pantheism",
+      "tags": ["spiritual", "philosophical", "religious"],
+      "primary_category": "Spirituality & Religion",
+      "secondary_categories": ["Philosophical Movements", "Metaphysical Concepts"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "spiritual": {
+          "description": "The belief that the divine is identical with the universe and everything within it.",
+          "key_features": [
+            "Immanence of divinity",
+            "Nature as sacred",
+            "Unity of existence",
+            "Rejection of transcendent deities"
+          ]
+        },
+        "philosophical": {
+          "description": "A worldview asserting that God and the universe are one and the same.",
+          "key_features": [
+            "Monistic understanding of reality",
+            "Interconnection of all things",
+            "Influences from Eastern and Western traditions",
+            "Rejection of dualism"
+          ]
+        }
+      },
+      "core_description": "A belief system that identifies God with the universe, emphasizing the unity and sacredness of all existence.",
+      "positive_aspect": "Promotes reverence for nature and a sense of universal connectedness.",
+      "negative_aspect": "Critics argue it lacks a personal deity or clear ethical guidelines.",
+      "historical_context": "Rooted in ancient traditions, it gained prominence through philosophers like Spinoza and Romanticism.",
+      "modern_applications": [
+        "Environmental ethics",
+        "Eco-spirituality movements",
+        "Holistic approaches to spirituality",
+        "Interfaith dialogues"
+      ],
+      "reflection_questions": [
+        "How does viewing the universe as divine affect our relationship with nature?",
+        "Can Pantheism provide a foundation for global spiritual unity?"
+      ],
+      "related_concepts": ["Animism", "Panentheism", "Eco-Spirituality", "Holism"]
+    },
+    {
+      "name": "Animism",
+      "tags": ["spiritual", "cultural", "metaphysical"],
+      "primary_category": "Spirituality & Religion",
+      "secondary_categories": ["Cultural Beliefs", "Metaphysical Concepts"],
+      "year_emerged": "Prehistoric",
+      "aspects": {
+        "spiritual": {
+          "description": "The belief that all objects, beings, and places possess a spiritual essence.",
+          "key_features": [
+            "Sacredness of nature",
+            "Spiritual interconnectedness",
+            "Personification of natural forces",
+            "Ritual practices to honor spirits"
+          ]
+        },
+        "cultural": {
+          "description": "A worldview deeply embedded in indigenous traditions and practices.",
+          "key_features": [
+            "Oral traditions",
+            "Totemism",
+            "Shamanic rituals",
+            "Localized spiritual practices"
+          ]
+        }
+      },
+      "core_description": "A spiritual belief system that attributes spiritual essence to all elements of the natural world, fostering deep respect for nature.",
+      "positive_aspect": "Promotes environmental stewardship and interconnectedness with nature.",
+      "negative_aspect": "Misunderstood or dismissed in modern, materialist frameworks.",
+      "historical_context": "Prehistoric in origin, it forms the foundation of many indigenous and shamanic traditions worldwide.",
+      "modern_applications": [
+        "Revival of indigenous spiritual practices",
+        "Eco-centric activism",
+        "Interdisciplinary studies of religion",
+        "Cultural preservation efforts"
+      ],
+      "reflection_questions": [
+        "What can modern societies learn from Animistic worldviews?",
+        "How does attributing spirit to all things change ethical decision-making?"
+      ],
+      "related_concepts": ["Shamanism", "Pantheism", "Eco-Spirituality", "Indigenous Beliefs"]
+    },
+    {
+      "name": "Integral Theory",
+      "tags": ["philosophical", "spiritual", "systemic"],
+      "primary_category": "Spirituality & Religion",
+      "secondary_categories": ["Philosophical Movements", "Systems Thinking", "Psychology"],
+      "year_emerged": 1990,
+      "aspects": {
+        "philosophical": {
+          "description": "A comprehensive framework that integrates insights from multiple disciplines to understand reality.",
+          "key_features": [
+            "Four quadrants of reality",
+            "Levels of consciousness",
+            "Stages of development",
+            "Holistic worldview"
+          ]
+        },
+        "spiritual": {
+          "description": "Includes spiritual dimensions as integral to human development and the understanding of existence.",
+          "key_features": [
+            "Transpersonal psychology",
+            "Mystical insights",
+            "Integration of science and spirituality",
+            "Focus on personal and collective evolution"
+          ]
+        }
+      },
+      "core_description": "A holistic framework integrating insights from science, spirituality, psychology, and culture to create a comprehensive understanding of reality.",
+      "positive_aspect": "Provides a unifying model for interdisciplinary collaboration and personal development.",
+      "negative_aspect": "Critics argue it can be overly abstract or complex for practical application.",
+      "historical_context": "Developed by Ken Wilber in the 1990s as a synthesis of diverse philosophical and spiritual traditions.",
+      "modern_applications": [
+        "Personal growth and coaching",
+        "Leadership development",
+        "Integral education",
+        "Systems-level analysis"
+      ],
+      "reflection_questions": [
+        "How can Integral Theory help bridge science and spirituality?",
+        "What are the practical challenges of applying Integral frameworks?"
+      ],
+      "related_concepts": ["Systems Thinking", "Transpersonal Psychology", "Holism", "Evolutionary Theory"]
+    },
+    {
+      "name": "Mysticism",
+      "tags": ["spiritual", "philosophical", "experiential"],
+      "primary_category": "Spirituality & Religion",
+      "secondary_categories": ["Metaphysical Concepts", "Philosophical Movements"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "spiritual": {
+          "description": "A pursuit of direct, personal experience of the divine or ultimate reality.",
+          "key_features": [
+            "Union with the divine",
+            "Transcendence of the ego",
+            "Meditative and contemplative practices",
+            "Focus on inner transformation"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores the nature of ultimate reality and the means of transcending ordinary consciousness.",
+          "key_features": [
+            "Ineffability of mystical experiences",
+            "Unity of all existence",
+            "Beyond dogma or religious boundaries",
+            "Focus on direct experience over belief"
+          ]
+        }
+      },
+      "core_description": "A spiritual tradition emphasizing direct experience of the divine or ultimate reality through transcendence of the self.",
+      "positive_aspect": "Encourages personal spiritual transformation and a sense of unity with all existence.",
+      "negative_aspect": "Critics argue it can be vague or overly subjective.",
+      "historical_context": "Rooted in ancient traditions across all major religions, from Hinduism and Buddhism to Christian and Sufi mysticism.",
+      "modern_applications": [
+        "Mindfulness and meditation practices",
+        "Transpersonal psychology",
+        "Interfaith spirituality",
+        "Exploration of altered states of consciousness"
+      ],
+      "reflection_questions": [
+        "What role does mystical experience play in spiritual growth?",
+        "How can mysticism bridge divides between different religions?"
+      ],
+      "related_concepts": ["Transcendence", "Meditation", "Spiritual Awakening", "Non-Duality"]
+    },
+    {
+      "name": "Sacred Geometry",
+      "tags": ["spiritual", "mathematical", "symbolic"],
+      "primary_category": "Spirituality & Religion",
+      "secondary_categories": ["Mathematics", "Symbolism"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "spiritual": {
+          "description": "The belief that geometric patterns and shapes hold symbolic and spiritual significance.",
+          "key_features": [
+            "Connection to the divine",
+            "Symbolism in nature",
+            "Universal patterns",
+            "Meditative practices"
+          ]
+        },
+        "mathematical": {
+          "description": "Focuses on the mathematical principles underlying natural and cosmic patterns.",
+          "key_features": [
+            "Golden ratio",
+            "Fractals",
+            "Platonic solids",
+            "Symmetry in nature"
+          ]
+        }
+      },
+      "core_description": "A belief system and practice focusing on the spiritual and symbolic significance of geometric patterns in nature and the universe.",
+      "positive_aspect": "Inspires awe for the mathematical beauty of nature and the cosmos.",
+      "negative_aspect": "Critics argue it can be overly mystical or pseudoscientific.",
+      "historical_context": "Rooted in ancient civilizations like Egypt and Greece, it permeates religious architecture and art.",
+      "modern_applications": [
+        "Design and architecture",
+        "Meditation and mandala practices",
+        "Artistic symbolism",
+        "Exploration of fractals and natural patterns"
+      ],
+      "reflection_questions": [
+        "How can understanding geometry deepen spiritual practice?",
+        "What universal truths might Sacred Geometry reveal about existence?"
+      ],
+      "related_concepts": ["Symbolism", "Mysticism", "Mathematics", "Platonic Solids"]
+    },
+    {
+      "name": "Ahimsa",
+      "tags": ["spirituality", "philosophical", "ethical"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Spirituality", "Philosophical Movements"],
+      "year_emerged": -500,
+      "aspects": {
+        "philosophical": {
+          "description": "An ethical principle of non-violence, rooted in compassion and reverence for all forms of life.",
+          "key_features": [
+            "Non-violence toward all beings",
+            "Rejection of harm in thought, word, and action",
+            "Interconnection of all life"
+          ]
+        },
+        "spiritual": {
+          "description": "A core tenet in religions like Jainism, Buddhism, and Hinduism, emphasizing universal love and peace.",
+          "key_features": [
+            "Spiritual growth through non-violence",
+            "Harmony with nature",
+            "Focus on inner transformation"
+          ]
+        }
+      },
+      "core_description": "Ahimsa is the practice of non-violence and compassion toward all living beings.",
+      "positive_aspect": "Fosters peace, empathy, and a harmonious existence.",
+      "negative_aspect": "Can be challenging to apply in complex ethical dilemmas.",
+      "historical_context": "Central to Indian spiritual traditions and key to Gandhi's philosophy of nonviolent resistance.",
+      "modern_applications": [
+        "Animal rights movements",
+        "Sustainable lifestyles",
+        "Peace-building efforts",
+        "Ethical veganism"
+      ],
+      "reflection_questions": [
+        "How can non-violence be applied in daily life?",
+        "What are the limits of practicing ahimsa in a modern context?",
+        "How does ahimsa relate to sustainability and environmentalism?"
+      ],
+      "related_concepts": ["Non-violence", "Compassion", "Interconnectedness", "Peace"]
+    },
+    {
+      "name": "Interfaith Harmony",
+      "tags": ["spirituality", "social", "cultural"],
+      "primary_category": "Cultural Concepts",
+      "secondary_categories": ["Spirituality", "Social Movements"],
+      "year_emerged": 1900,
+      "aspects": {
+        "spiritual": {
+          "description": "Encourages mutual understanding and respect among diverse religious traditions.",
+          "key_features": [
+            "Fostering dialogue",
+            "Promoting shared values",
+            "Building bridges between communities"
+          ]
+        },
+        "social": {
+          "description": "Aims to create cohesive societies by integrating diverse beliefs and practices.",
+          "key_features": [
+            "Collaboration between faiths",
+            "Conflict resolution",
+            "Promoting social cohesion"
+          ]
+        }
+      },
+      "core_description": "Interfaith Harmony promotes understanding, respect, and collaboration among different religious traditions.",
+      "positive_aspect": "Encourages unity and reduces religious conflicts.",
+      "negative_aspect": "Can face resistance from exclusivist ideologies.",
+      "historical_context": "Emerging from the 20th-century interfaith movement and formalized through organizations like the Parliament of the World’s Religions.",
+      "modern_applications": [
+        "Interfaith dialogues",
+        "Peace-building initiatives",
+        "Community integration efforts",
+        "Global spiritual cooperation"
+      ],
+      "reflection_questions": [
+        "How can interfaith harmony be nurtured in divided societies?",
+        "What shared values unite different faiths?",
+        "How does interfaith dialogue contribute to global peace?"
+      ],
+      "related_concepts": ["Unity", "Tolerance", "Dialogue", "Diversity"]
+    },
+    {
+      "name": "Regenerative Design",
+      "tags": ["environmentalism", "systems", "sustainability"],
+      "primary_category": "Systems Thinking",
+      "secondary_categories": ["Environmentalism", "Sustainability"],
+      "year_emerged": 1970,
+      "aspects": {
+        "environmental": {
+          "description": "A design philosophy focused on restoring and enhancing ecosystems.",
+          "key_features": [
+            "Regeneration of natural systems",
+            "Circular economies",
+            "Net-positive impact"
+          ]
+        },
+        "social": {
+          "description": "Aims to create systems that regenerate communities and promote equity.",
+          "key_features": [
+            "Community-centered design",
+            "Social equity",
+            "Long-term sustainability"
+          ]
+        }
+      },
+      "core_description": "Regenerative Design seeks to create systems that restore and enhance ecological and social systems.",
+      "positive_aspect": "Goes beyond sustainability to actively improve ecosystems and communities.",
+      "negative_aspect": "Requires a paradigm shift in traditional design practices.",
+      "historical_context": "Inspired by permaculture and ecological design movements in the late 20th century.",
+      "modern_applications": [
+        "Permaculture systems",
+        "Green building design",
+        "Regenerative agriculture",
+        "Circular economies"
+      ],
+      "reflection_questions": [
+        "How can regenerative principles be applied in urban design?",
+        "What role does regeneration play in combating climate change?",
+        "How can communities benefit from regenerative approaches?"
+      ],
+      "related_concepts": ["Sustainability", "Permaculture", "Circular Economy", "Resilience"]
+    },
+    {
+      "name": "Global Citizenship",
+      "tags": ["social", "ethical", "global"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Social Movements", "Philosophical Movements"],
+      "year_emerged": 1800,
+      "aspects": {
+        "social": {
+          "description": "A mindset emphasizing responsibilities beyond national borders.",
+          "key_features": [
+            "Human rights advocacy",
+            "Global cooperation",
+            "Recognition of interdependence"
+          ]
+        },
+        "ethical": {
+          "description": "Focuses on ethical obligations to the global community.",
+          "key_features": [
+            "Sustainability principles",
+            "Equity and justice",
+            "Planetary stewardship"
+          ]
+        }
+      },
+      "core_description": "Global Citizenship emphasizes responsibility, solidarity, and ethical behavior on a global scale.",
+      "positive_aspect": "Promotes unity and collective action for global challenges.",
+      "negative_aspect": "Can conflict with nationalist ideologies.",
+      "historical_context": "Rooted in Enlightenment ideals and expanded through globalization.",
+      "modern_applications": [
+        "Climate action",
+        "Human rights campaigns",
+        "International development",
+        "Cultural exchange programs"
+      ],
+      "reflection_questions": [
+        "What does it mean to be a global citizen?",
+        "How can global citizenship balance local and global responsibilities?",
+        "What actions can individuals take to embody global citizenship?"
+      ],
+      "related_concepts": ["Solidarity", "Sustainability", "Interdependence", "Unity"]
+    },
+    {
+      "name": "Gaia Hypothesis",
+      "tags": ["scientific", "environmental", "systems"],
+      "primary_category": "Scientific Theories",
+      "secondary_categories": ["Environmentalism", "Systems Thinking"],
+      "year_emerged": 1972,
+      "aspects": {
+        "scientific": {
+          "description": "Proposes that Earth functions as a self-regulating, living organism.",
+          "key_features": [
+            "Homeostasis of ecosystems",
+            "Planetary feedback loops",
+            "Interconnection of life and environment"
+          ]
+        },
+        "environmental": {
+          "description": "Highlights the interdependence of life forms with their physical environment.",
+          "key_features": [
+            "Harmony between life and climate",
+            "Resilience of natural systems",
+            "Impact of human activity on balance"
+          ]
+        }
+      },
+      "core_description": "The Gaia Hypothesis suggests that Earth behaves as a self-regulating, interconnected system.",
+      "positive_aspect": "Encourages holistic thinking about planetary health.",
+      "negative_aspect": "Criticized for being overly anthropomorphic or speculative.",
+      "historical_context": "Developed by James Lovelock and Lynn Margulis in the 1970s.",
+      "modern_applications": [
+        "Climate science",
+        "Sustainability movements",
+        "Ecological restoration",
+        "Systems thinking frameworks"
+      ],
+      "reflection_questions": [
+        "How does the Gaia Hypothesis reshape our view of Earth?",
+        "What role do humans play in Earth's self-regulation?",
+        "How can we live in harmony with Earth's systems?"
+      ],
+      "related_concepts": ["Systems Thinking", "Homeostasis", "Interdependence", "Ecology"]
+    },
+    {
+      "name": "Self-Actualization",
+      "tags": ["psychology", "personal development", "philosophy"],
+      "primary_category": "Personal Development",
+      "secondary_categories": ["Psychology", "Philosophical Movements"],
+      "year_emerged": 1943,
+      "aspects": {
+        "psychological": {
+          "description": "The process of realizing and fulfilling one's potential and capabilities.",
+          "key_features": [
+            "Growth mindset",
+            "Pursuit of meaningful goals",
+            "Alignment with inner values"
+          ]
+        },
+        "philosophical": {
+          "description": "Linked to existential and humanistic philosophies that emphasize personal growth and authenticity.",
+          "key_features": [
+            "Authentic living",
+            "Transcending ego limitations",
+            "Pursuit of higher purpose"
+          ]
+        }
+      },
+      "core_description": "Self-Actualization refers to the realization of one’s full potential and the pursuit of meaningful growth.",
+      "positive_aspect": "Encourages personal growth and alignment with purpose.",
+      "negative_aspect": "Can be misinterpreted as self-centered or detached from social responsibility.",
+      "historical_context": "Introduced by Abraham Maslow as the pinnacle of his hierarchy of needs.",
+      "modern_applications": [
+        "Life coaching and therapy",
+        "Personal development programs",
+        "Educational frameworks promoting holistic growth"
+      ],
+      "reflection_questions": [
+        "What does it mean to live authentically?",
+        "What steps can lead to self-actualization?",
+        "How does self-actualization connect to social responsibility?"
+      ],
+      "related_concepts": ["Authenticity", "Personal Growth", "Eudaimonia", "Purpose"]
+    },
+    {
+      "name": "Flow State",
+      "tags": ["psychology", "creativity", "performance"],
+      "primary_category": "Cognitive States",
+      "secondary_categories": ["Psychology", "Personal Development"],
+      "year_emerged": 1975,
+      "aspects": {
+        "psychological": {
+          "description": "A mental state of complete absorption and focus on an activity.",
+          "key_features": [
+            "Loss of time awareness",
+            "Effortless engagement",
+            "Optimal performance"
+          ]
+        },
+        "practical": {
+          "description": "Achieved when skills and challenges are in balance, fostering creativity and productivity.",
+          "key_features": [
+            "High concentration",
+            "Intrinsic motivation",
+            "Sense of mastery"
+          ]
+        }
+      },
+      "core_description": "Flow State is a peak mental state where one is fully immersed in an activity, leading to optimal performance and creativity.",
+      "positive_aspect": "Boosts creativity, focus, and productivity.",
+      "negative_aspect": "Over-reliance on flow can lead to burnout or avoidance of routine tasks.",
+      "historical_context": "Coined by psychologist Mihaly Csikszentmihalyi in the 1970s.",
+      "modern_applications": [
+        "Creative industries",
+        "Sports and performance coaching",
+        "Workplace productivity strategies"
+      ],
+      "reflection_questions": [
+        "What activities help you enter a flow state?",
+        "How can flow be balanced with rest and reflection?",
+        "What role does flow play in achieving personal fulfillment?"
+      ],
+      "related_concepts": ["Creativity", "Focus", "Self-Actualization", "Intrinsic Motivation"]
+    },
+    {
+      "name": "Shadow Work",
+      "tags": ["psychology", "spirituality", "personal development"],
+      "primary_category": "Psychological Practices",
+      "secondary_categories": ["Spirituality", "Personal Development"],
+      "year_emerged": 1930,
+      "aspects": {
+        "psychological": {
+          "description": "The practice of exploring and integrating the unconscious aspects of oneself.",
+          "key_features": [
+            "Acknowledging hidden fears and desires",
+            "Integration of repressed emotions",
+            "Self-awareness and healing"
+          ]
+        },
+        "spiritual": {
+          "description": "A transformative process for aligning the conscious and unconscious mind.",
+          "key_features": [
+            "Healing inner conflicts",
+            "Achieving wholeness",
+            "Embracing all aspects of self"
+          ]
+        }
+      },
+      "core_description": "Shadow Work involves recognizing and integrating repressed or unconscious aspects of the self to achieve inner harmony.",
+      "positive_aspect": "Promotes emotional healing and self-awareness.",
+      "negative_aspect": "Can be emotionally challenging or uncomfortable to confront.",
+      "historical_context": "Developed as part of Carl Jung's psychological theories.",
+      "modern_applications": [
+        "Therapeutic practices",
+        "Mindfulness and meditation techniques",
+        "Self-reflection exercises"
+      ],
+      "reflection_questions": [
+        "What aspects of yourself have you avoided confronting?",
+        "How can embracing your shadow lead to personal growth?",
+        "What practices can support shadow work?"
+      ],
+      "related_concepts": ["Self-Awareness", "Healing", "Integration", "Wholeness"]
+    },
+    {
+      "name": "Eudaimonia",
+      "tags": ["philosophy", "ethics", "personal development"],
+      "primary_category": "Philosophical Concepts",
+      "secondary_categories": ["Ethics", "Personal Development"],
+      "year_emerged": -400,
+      "aspects": {
+        "philosophical": {
+          "description": "A concept from Aristotelian ethics, meaning 'human flourishing' or living in alignment with one’s true nature.",
+          "key_features": [
+            "Virtue as the foundation of happiness",
+            "Living in harmony with reason",
+            "Cultivating personal excellence"
+          ]
+        },
+        "ethical": {
+          "description": "An ethical framework for achieving a meaningful and fulfilling life.",
+          "key_features": [
+            "Focus on long-term well-being",
+            "Balance between personal and social responsibilities",
+            "Integration of wisdom and virtue"
+          ]
+        }
+      },
+      "core_description": "Eudaimonia is the state of flourishing and fulfillment achieved through virtuous living and self-realization.",
+      "positive_aspect": "Promotes a balanced and meaningful life.",
+      "negative_aspect": "May be challenging to define and measure universally.",
+      "historical_context": "Central to Aristotle’s Nicomachean Ethics.",
+      "modern_applications": [
+        "Positive psychology",
+        "Ethical leadership frameworks",
+        "Personal growth methodologies"
+      ],
+      "reflection_questions": [
+        "What does flourishing mean to you?",
+        "How can virtue guide your life choices?",
+        "What practices lead to eudaimonia?"
+      ],
+      "related_concepts": ["Virtue Ethics", "Self-Actualization", "Happiness", "Fulfillment"]
+    },
+    {
+      "name": "Ethical Universalism",
+      "tags": ["philosophy", "ethics", "social"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Philosophical Movements", "Global Concepts"],
+      "year_emerged": -500,
+      "aspects": {
+        "ethical": {
+          "description": "The belief that moral principles are universally applicable to all individuals regardless of context.",
+          "key_features": [
+            "Equality and justice",
+            "Moral consistency",
+            "Global applicability of ethics"
+          ]
+        },
+        "philosophical": {
+          "description": "Emphasizes rational, objective ethical principles that transcend cultural or situational differences.",
+          "key_features": [
+            "Focus on universal human rights",
+            "Opposition to moral relativism",
+            "Foundation for global ethics"
+          ]
+        }
+      },
+      "core_description": "Ethical Universalism advocates for the application of universal moral principles across all cultures and situations.",
+      "positive_aspect": "Provides a framework for global justice and human rights.",
+      "negative_aspect": "May conflict with cultural relativism or local traditions.",
+      "historical_context": "Rooted in Stoic philosophy and expanded through Enlightenment ideals.",
+      "modern_applications": [
+        "Human rights charters",
+        "Global ethics frameworks",
+        "International law"
+      ],
+      "reflection_questions": [
+        "Are there universal moral principles?",
+        "How can ethical universalism address cultural differences?",
+        "What role does context play in ethical decisions?"
+      ],
+      "related_concepts": ["Justice", "Human Rights", "Global Citizenship", "Equality"]
+    },
+    {
+      "name": "Universal Consciousness",
+      "tags": ["spirituality", "philosophy", "cosmic"],
+      "primary_category": "Spiritual Concepts",
+      "secondary_categories": ["Philosophical Movements", "Cosmic Concepts"],
+      "year_emerged": 1800,
+      "aspects": {
+        "spiritual": {
+          "description": "The belief that all consciousness is interconnected and part of a universal whole.",
+          "key_features": [
+            "Interconnection of all beings",
+            "Oneness with the universe",
+            "Collective awareness"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores the nature of consciousness as a fundamental aspect of the cosmos.",
+          "key_features": [
+            "Non-dual perspectives",
+            "Unity of mind and matter",
+            "Cosmic awareness"
+          ]
+        }
+      },
+      "core_description": "Universal Consciousness refers to the idea that all individual consciousnesses are interconnected and part of a greater whole.",
+      "positive_aspect": "Fosters unity, compassion, and transcendence of ego.",
+      "negative_aspect": "Can be abstract and difficult to ground in personal experience.",
+      "historical_context": "Influenced by Eastern philosophies and modern metaphysical thought.",
+      "modern_applications": [
+        "Meditation and mindfulness practices",
+        "Quantum consciousness theories",
+        "Spiritual movements promoting unity"
+      ],
+      "reflection_questions": [
+        "What connects all consciousness?",
+        "How does the idea of universal consciousness influence personal identity?",
+        "What practices can help experience this interconnectedness?"
+      ],
+      "related_concepts": ["Oneness", "Interconnection", "Mindfulness", "Non-Duality"]
     }
   ]
 }
