@@ -5614,6 +5614,1081 @@
         "What practices can help experience this interconnectedness?"
       ],
       "related_concepts": ["Oneness", "Interconnection", "Mindfulness", "Non-Duality"]
+    },
+    {
+      "name": "Object-Oriented Ethics", 
+      "tags": ["philosophical", "ethical", "metaphysical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Metaphysical Systems"],
+      "year_emerged": 2010,
+      "aspects": {
+        "philosophical": {
+          "description": "An ethical framework extending moral consideration to non-human entities and objects, focusing on their inherent existence rather than their utility to humans.",
+          "key_features": [
+            "Inherent value of objects",
+            "Non-anthropocentric perspective",
+            "Ethics beyond human interaction",
+            "Inter-object relationships"
+          ]
+        },
+        "practical": {
+          "description": "Applications in fields like environmental ethics, design, and technology, emphasizing care for systems and entities as wholes.",
+          "key_features": [
+            "Sustainable design principles",
+            "Object-oriented care",
+            "Systems ethics",
+            "Environmental stewardship"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach to ethics that centers on the intrinsic value and interconnectedness of all objects and entities, human and non-human alike.",
+      "positive_aspect": "Encourages respect for non-human entities and promotes holistic approaches to ethics.",
+      "negative_aspect": "Can be abstract and challenging to apply in practical scenarios.",
+      "historical_context": "Emerging from object-oriented ontology (OOO), it builds on concepts popularized by Graham Harman and others in the early 21st century.",
+      "modern_applications": [
+        "Environmental ethics",
+        "Sustainable design",
+        "Technological ethics",
+        "Holistic education"
+      ],
+      "reflection_questions": [
+        "How can ethics apply to non-living entities?",
+        "What responsibilities do humans have toward objects and systems?",
+        "Can a non-human-centered ethic change societal values?"
+      ],
+      "related_concepts": ["Object-Oriented Ontology", "Environmental Ethics", "Systems Thinking", "Holism"]
+    },
+    {
+      "name": "Epistemic Justice",
+      "tags": ["philosophical", "ethical", "social"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ethical Systems", "Social Theories"],
+      "year_emerged": 2007,
+      "aspects": {
+        "philosophical": {
+          "description": "A theory addressing fairness in knowledge practices, focusing on the inclusion and recognition of diverse voices and experiences.",
+          "key_features": [
+            "Recognition of marginalized knowledge",
+            "Equity in epistemic participation",
+            "Critique of systemic epistemic injustice",
+            "Focus on testimony and credibility"
+          ]
+        },
+        "practical": {
+          "description": "Strategies for creating inclusive and fair knowledge practices in academia, media, and policymaking.",
+          "key_features": [
+            "Inclusive research methods",
+            "Community-based knowledge systems",
+            "Advocacy for epistemic equity",
+            "Representation in media"
+          ]
+        }
+      },
+      "core_description": "A philosophical and ethical framework advocating fairness and inclusivity in the creation, distribution, and recognition of knowledge.",
+      "positive_aspect": "Promotes equity in knowledge systems and highlights the importance of diverse perspectives.",
+      "negative_aspect": "Can challenge entrenched power structures and face resistance from dominant knowledge systems.",
+      "historical_context": "Coined by Miranda Fricker in her work on epistemic injustice, it has gained traction in feminist and postcolonial studies.",
+      "modern_applications": [
+        "Inclusive education",
+        "Media representation",
+        "Policy development",
+        "Knowledge equity initiatives"
+      ],
+      "reflection_questions": [
+        "How do societal structures affect whose knowledge is valued?",
+        "What steps can be taken to ensure epistemic fairness?",
+        "How can diverse voices be amplified in knowledge systems?"
+      ],
+      "related_concepts": ["Feminist Epistemology", "Social Justice", "Critical Theory", "Postcolonial Studies"]
+    },
+    {
+      "name": "Anthropocene Philosophy",
+      "tags": ["philosophical", "environmental", "social"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Environmental Theories", "Social Theories"],
+      "year_emerged": 2000,
+      "aspects": {
+        "philosophical": {
+          "description": "Explores the ethical, existential, and ontological implications of the Anthropocene epoch, characterized by significant human impact on Earth's systems.",
+          "key_features": [
+            "Human-environment interdependence",
+            "Ontological shifts in nature-culture relationship",
+            "Ethics of planetary stewardship",
+            "Impact of human actions on deep time"
+          ]
+        },
+        "practical": {
+          "description": "Addresses real-world challenges such as climate change, sustainability, and global equity through a philosophical lens.",
+          "key_features": [
+            "Sustainable development frameworks",
+            "Ethical approaches to environmental crisis",
+            "Holistic policy design",
+            "Planetary ethics"
+          ]
+        }
+      },
+      "core_description": "A philosophical framework addressing the profound ethical and existential questions posed by humanity's role in shaping the Earth's geological epoch, the Anthropocene.",
+      "positive_aspect": "Encourages a deep reflection on humanity's responsibilities and promotes sustainable practices.",
+      "negative_aspect": "Can be overwhelming in scope and difficult to translate into actionable solutions.",
+      "historical_context": "Developed alongside the recognition of the Anthropocene epoch, driven by environmental sciences and humanities.",
+      "modern_applications": [
+        "Climate change ethics",
+        "Sustainability planning",
+        "Global equity initiatives",
+        "Educational reform"
+      ],
+      "reflection_questions": [
+        "What responsibilities do humans have as planetary stewards?",
+        "How does the Anthropocene challenge traditional notions of nature?",
+        "What ethical frameworks are needed to address global crises?"
+      ],
+      "related_concepts": ["Environmental Ethics", "Systems Thinking", "Sustainability", "Deep Time"]
+    },
+    {
+      "name": "Astrobiology",
+      "tags": ["scientific", "environmental", "cosmic"],
+      "primary_category": "Scientific Paradigms",
+      "secondary_categories": ["Cosmic Sciences", "Environmental Sciences"],
+      "year_emerged": 1960,
+      "aspects": {
+        "scientific": {
+          "description": "The study of the origin, evolution, distribution, and future of life in the universe.",
+          "key_features": [
+            "Search for extraterrestrial life",
+            "Origins of life research",
+            "Habitability of planets",
+            "Astrobiological modeling"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores existential and ethical implications of discovering life beyond Earth.",
+          "key_features": [
+            "Humanity's place in the cosmos",
+            "Ethics of space exploration",
+            "Interplanetary ecology",
+            "Cosmic interconnectedness"
+          ]
+        }
+      },
+      "core_description": "Astrobiology investigates life in the universe, focusing on its origin, distribution, and implications for humanity.",
+      "positive_aspect": "Advances our understanding of life's possibilities and cosmic interconnectedness.",
+      "negative_aspect": "Highly speculative and limited by technological constraints.",
+      "historical_context": "Developed with the advent of space exploration and interest in Mars and exoplanets.",
+      "modern_applications": [
+        "Exoplanet research",
+        "Mars exploration",
+        "Origin of life experiments",
+        "Space ethics"
+      ],
+      "reflection_questions": [
+        "What would the discovery of extraterrestrial life mean for humanity?",
+        "How can astrobiology guide sustainable space exploration?",
+        "What are the ethical considerations of interplanetary colonization?"
+      ],
+      "related_concepts": ["Exoplanets", "Cosmic Ecology", "Space Exploration", "Origins of Life"]
+    },
+    {
+      "name": "Neuroethics",
+      "tags": ["scientific", "ethical", "psychological"],
+      "primary_category": "Ethical Systems",
+      "secondary_categories": ["Neurosciences", "Philosophical Movements"],
+      "year_emerged": 2002,
+      "aspects": {
+        "ethical": {
+          "description": "The study of ethical issues related to advances in neuroscience.",
+          "key_features": [
+            "Brain privacy concerns",
+            "Cognitive enhancement ethics",
+            "Neurotechnology regulation",
+            "Impact on personal identity"
+          ]
+        },
+        "scientific": {
+          "description": "Explores implications of neuroscience on society, policy, and human behavior.",
+          "key_features": [
+            "Brain-computer interfaces",
+            "AI and neural integration",
+            "Memory manipulation",
+            "Mental health interventions"
+          ]
+        }
+      },
+      "core_description": "Neuroethics examines the societal and ethical implications of neuroscience advancements.",
+      "positive_aspect": "Guides responsible innovation and ensures ethical standards in brain research.",
+      "negative_aspect": "Faces challenges in addressing rapidly evolving technologies.",
+      "historical_context": "Formalized as a field with the rise of neurotechnology and ethical dilemmas it presents.",
+      "modern_applications": [
+        "AI ethics in brain research",
+        "Neural privacy policies",
+        "Therapeutic interventions",
+        "Neuro-enhancement guidelines"
+      ],
+      "reflection_questions": [
+        "How should society regulate brain-enhancing technologies?",
+        "What ethical limits should exist on neural experimentation?",
+        "How does neuroscience impact our concept of free will?"
+      ],
+      "related_concepts": ["Bioethics", "Neuroscience", "AI Ethics", "Cognitive Science"]
+    },
+    {
+      "name": "Conservation Biology",
+      "tags": ["scientific", "environmental", "ecological"],
+      "primary_category": "Environmental Sciences",
+      "secondary_categories": ["Scientific Paradigms", "Sustainability"],
+      "year_emerged": 1985,
+      "aspects": {
+        "scientific": {
+          "description": "A multidisciplinary field focused on protecting biodiversity and managing ecosystems.",
+          "key_features": [
+            "Biodiversity preservation",
+            "Habitat restoration",
+            "Endangered species management",
+            "Sustainable ecosystems"
+          ]
+        },
+        "practical": {
+          "description": "Develops and applies strategies for maintaining ecological balance.",
+          "key_features": [
+            "Community-based conservation",
+            "Wildlife corridors",
+            "Environmental policy integration",
+            "Climate resilience strategies"
+          ]
+        }
+      },
+      "core_description": "Conservation Biology seeks to protect biodiversity and ensure the sustainability of ecosystems.",
+      "positive_aspect": "Promotes ecological health and combats biodiversity loss.",
+      "negative_aspect": "Faces challenges from political and economic pressures.",
+      "historical_context": "Emerged as an urgent response to increasing species extinction and habitat loss.",
+      "modern_applications": [
+        "Endangered species recovery",
+        "Sustainable development",
+        "Climate adaptation",
+        "Ecological education"
+      ],
+      "reflection_questions": [
+        "How can conservation balance ecological and human needs?",
+        "What role do local communities play in biodiversity protection?",
+        "How can we address global challenges to conservation?"
+      ],
+      "related_concepts": ["Biodiversity", "Ecosystem Management", "Sustainability", "Climate Change"]
+    },
+    {
+      "name": "Solarpunk",
+      "tags": ["cultural", "environmental", "utopian"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Utopian Visions", "Sustainability"],
+      "year_emerged": 2010,
+      "aspects": {
+        "cultural": {
+          "description": "A cultural and artistic movement envisioning a sustainable and equitable future.",
+          "key_features": [
+            "Green energy utopias",
+            "Community resilience",
+            "Technological harmony",
+            "Ecological aesthetics"
+          ]
+        },
+        "practical": {
+          "description": "Promotes actions and technologies for sustainable living.",
+          "key_features": [
+            "Renewable energy systems",
+            "Urban permaculture",
+            "Collaborative economies",
+            "Decentralized governance"
+          ]
+        }
+      },
+      "core_description": "Solarpunk envisions a hopeful, sustainable future where humans coexist harmoniously with nature.",
+      "positive_aspect": "Inspires proactive solutions to ecological and social challenges.",
+      "negative_aspect": "Can be seen as overly idealistic or utopian.",
+      "historical_context": "Grew as a counter-response to dystopian narratives in media and literature.",
+      "modern_applications": [
+        "Sustainable architecture",
+        "Green urban planning",
+        "Community co-housing",
+        "Renewable energy advocacy"
+      ],
+      "reflection_questions": [
+        "How can Solarpunk ideals be applied to current urban design?",
+        "What steps are needed to transition toward a Solarpunk future?",
+        "How can art and culture inspire sustainable solutions?"
+      ],
+      "related_concepts": ["Utopian Visions", "Permaculture", "Sustainability", "Green Technology"]
+    },
+    {
+      "name": "Post-Scarcity Economies",
+      "tags": ["economic", "futuristic", "utopian"],
+      "primary_category": "Utopian Visions",
+      "secondary_categories": ["Economic Systems", "Technological Paradigms"],
+      "year_emerged": 1950,
+      "aspects": {
+        "economic": {
+          "description": "A theoretical economic system where goods and services are abundant and freely available.",
+          "key_features": [
+            "Automation of labor",
+            "Abundant resources",
+            "Universal access",
+            "Elimination of scarcity-driven conflicts"
+          ]
+        },
+        "technological": {
+          "description": "Relies on advanced technologies to produce resources sustainably.",
+          "key_features": [
+            "3D printing",
+            "Renewable energy",
+            "AI-managed production",
+            "Resource recycling"
+          ]
+        }
+      },
+      "core_description": "Post-Scarcity Economies envision a future where technological advances make material scarcity obsolete.",
+      "positive_aspect": "Reduces inequality and prioritizes collective well-being.",
+      "negative_aspect": "Relies on speculative technologies and faces ethical challenges.",
+      "historical_context": "Rooted in speculative fiction and early futurist ideas about automation and abundance.",
+      "modern_applications": [
+        "Resource management algorithms",
+        "Universal Basic Income models",
+        "Renewable infrastructure",
+        "Ethical AI systems"
+      ],
+      "reflection_questions": [
+        "What technologies are critical for a post-scarcity future?",
+        "How can societies adapt to abundance-driven economies?",
+        "What ethical challenges arise in eliminating scarcity?"
+      ],
+      "related_concepts": ["Automation", "Futurism", "Universal Basic Income", "Sustainability"]
+    },
+    {
+      "name": "Futurism",
+      "tags": ["cultural", "artistic", "philosophical"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Artistic Movements", "Philosophical Movements"],
+      "year_emerged": 1909,
+      "aspects": {
+        "cultural": {
+          "description": "An artistic and cultural movement celebrating technology, speed, and modernity.",
+          "key_features": [
+            "Celebration of progress",
+            "Focus on industrial and urban aesthetics",
+            "Rejection of tradition",
+            "Integration of art and technology"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores the philosophical implications of rapid technological advancement.",
+          "key_features": [
+            "Speculative thinking",
+            "Challenge to traditional values",
+            "Focus on potential futures",
+            "Critique of modernity"
+          ]
+        }
+      },
+      "core_description": "Futurism is a cultural and philosophical movement emphasizing the transformative power of technology and modernity.",
+      "positive_aspect": "Inspires innovation and celebrates human ingenuity.",
+      "negative_aspect": "Can lead to excessive glorification of technology and disregard for tradition.",
+      "historical_context": "Originated in Italy as an avant-garde art movement, later influencing other cultural and technological fields.",
+      "modern_applications": [
+        "Speculative design",
+        "Tech-inspired art",
+        "Visionary urban planning",
+        "Cultural futurism"
+      ],
+      "reflection_questions": [
+        "How can we balance progress with tradition?",
+        "What responsibilities accompany the celebration of technology?",
+        "How does futurism influence cultural identity?"
+      ],
+      "related_concepts": ["Modernity", "Technology", "Speculative Design", "Cultural Movements"]
+    },
+    {
+      "name": "Metaphysics",
+      "tags": ["philosophical", "ontological", "theoretical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Ontological Frameworks", "Theoretical Frameworks"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "philosophical": {
+          "description": "The study of the fundamental nature of reality, existence, and the universe.",
+          "key_features": [
+            "Ontology and being",
+            "Nature of time and space",
+            "Reality and appearance",
+            "Mind and matter relationships"
+          ]
+        },
+        "theoretical": {
+          "description": "Develops frameworks for understanding concepts that go beyond empirical observation.",
+          "key_features": [
+            "Abstract reasoning",
+            "Existential inquiry",
+            "Principles of causality",
+            "Exploration of universals"
+          ]
+        }
+      },
+      "core_description": "Metaphysics explores the nature of existence and the foundational principles underlying reality.",
+      "positive_aspect": "Encourages deep reflection on existence and the cosmos.",
+      "negative_aspect": "Can be abstract and disconnected from practical concerns.",
+      "historical_context": "Rooted in ancient philosophy, particularly in the works of Aristotle and later expanded by modern thinkers.",
+      "modern_applications": [
+        "Philosophy of science",
+        "Existential frameworks",
+        "Spiritual inquiry",
+        "Ethical foundations"
+      ],
+      "reflection_questions": [
+        "What constitutes reality?",
+        "How does metaphysics inform our understanding of life?",
+        "What are the limits of human comprehension of the universe?"
+      ],
+      "related_concepts": ["Ontology", "Epistemology", "Cosmology", "Existentialism"]
+    },
+    {
+      "name": "Non-duality",
+      "tags": ["philosophical", "spiritual", "metaphysical"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Spiritual Traditions", "Metaphysical Systems"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "philosophical": {
+          "description": "A metaphysical perspective that challenges the separation between subject and object, emphasizing unity.",
+          "key_features": [
+            "Unity of existence",
+            "Transcendence of dualities",
+            "Interconnected reality",
+            "Non-separation of self and other"
+          ]
+        },
+        "spiritual": {
+          "description": "A spiritual understanding focusing on the direct recognition of fundamental unity.",
+          "key_features": [
+            "Meditative practices",
+            "Ego transcendence",
+            "Awareness of the absolute",
+            "Integration of opposites"
+          ]
+        }
+      },
+      "core_description": "Non-duality emphasizes the fundamental unity of all phenomena, transcending dualistic thinking.",
+      "positive_aspect": "Promotes a sense of oneness and reduces conflict rooted in separation.",
+      "negative_aspect": "Can be difficult to grasp and apply practically.",
+      "historical_context": "Found in ancient traditions such as Advaita Vedanta, Taoism, and Zen Buddhism, with modern interpretations in philosophy and spirituality.",
+      "modern_applications": [
+        "Meditation and mindfulness",
+        "Nondual therapy",
+        "Environmental ethics",
+        "Consciousness studies"
+      ],
+      "reflection_questions": [
+        "How does the perception of unity affect our experience of life?",
+        "What practices help integrate non-dual awareness?",
+        "How can non-duality inform global challenges?"
+      ],
+      "related_concepts": ["Advaita Vedanta", "Taoism", "Mysticism", "Consciousness"]
+    },
+    {
+      "name": "Mathematics",
+      "tags": ["scientific", "logical", "abstract"],
+      "primary_category": "Scientific Paradigms",
+      "secondary_categories": ["Theoretical Frameworks", "Logical Systems"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "scientific": {
+          "description": "The study of numbers, structures, space, and change, providing foundational tools for science and technology.",
+          "key_features": [
+            "Abstract reasoning",
+            "Quantitative analysis",
+            "Problem-solving methods",
+            "Theorems and proofs"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores the nature of mathematical truths and their relationship to reality.",
+          "key_features": [
+            "Concept of infinity",
+            "Nature of mathematical objects",
+            "Mathematical realism vs. nominalism",
+            "Logical foundations"
+          ]
+        }
+      },
+      "core_description": "Mathematics is the abstract study of quantity, structure, and relationships, foundational to scientific inquiry.",
+      "positive_aspect": "Drives innovation and provides tools for understanding the universe.",
+      "negative_aspect": "Can be perceived as overly abstract or disconnected from practical life.",
+      "historical_context": "Developed across civilizations, from ancient Babylon and Greece to modern computational systems.",
+      "modern_applications": [
+        "Cryptography",
+        "Data science",
+        "Physics and engineering",
+        "Economic modeling"
+      ],
+      "reflection_questions": [
+        "What is the relationship between mathematics and reality?",
+        "How do mathematical models shape our understanding of the world?",
+        "What ethical considerations arise from mathematical applications?"
+      ],
+      "related_concepts": ["Logic", "Physics", "Abstract Reasoning", "Algorithms"]
+    },
+    {
+      "name": "Permaculture",
+      "tags": ["environmental", "sustainable", "agricultural"],
+      "primary_category": "Environmental Theories",
+      "secondary_categories": ["Sustainability", "Agricultural Systems"],
+      "year_emerged": 1978,
+      "aspects": {
+        "environmental": {
+          "description": "A design philosophy for sustainable and self-sufficient ecosystems.",
+          "key_features": [
+            "Ecological harmony",
+            "Closed-loop systems",
+            "Diversity and resilience",
+            "Renewable resources"
+          ]
+        },
+        "practical": {
+          "description": "Applies ecological principles to agriculture, housing, and community design.",
+          "key_features": [
+            "Food forests",
+            "Water management",
+            "Energy-efficient housing",
+            "Community collaboration"
+          ]
+        }
+      },
+      "core_description": "Permaculture is a system of sustainable design rooted in ecological principles and resource efficiency.",
+      "positive_aspect": "Promotes sustainability, resilience, and community self-reliance.",
+      "negative_aspect": "Implementation can be labor-intensive and context-dependent.",
+      "historical_context": "Coined by Bill Mollison and David Holmgren, it has grown into a global movement for sustainable living.",
+      "modern_applications": [
+        "Urban permaculture",
+        "Community food systems",
+        "Sustainable housing design",
+        "Climate adaptation strategies"
+      ],
+      "reflection_questions": [
+        "How can permaculture principles be scaled to urban settings?",
+        "What role does community play in sustainable design?",
+        "How does permaculture address global environmental challenges?"
+      ],
+      "related_concepts": ["Sustainability", "Ecological Design", "Regenerative Agriculture", "Community Resilience"]
+    },
+    {
+      "name": "Psychedelics",
+      "tags": ["scientific", "spiritual", "cultural"],
+      "primary_category": "Cultural Movements",
+      "secondary_categories": ["Scientific Paradigms", "Spiritual Traditions"],
+      "year_emerged": 1950,
+      "aspects": {
+        "scientific": {
+          "description": "The study of psychoactive substances that alter perception, mood, and cognition.",
+          "key_features": [
+            "Neurological effects",
+            "Therapeutic applications",
+            "Altered states of consciousness",
+            "Exploration of brain plasticity"
+          ]
+        },
+        "cultural": {
+          "description": "Explores the role of psychedelics in art, spirituality, and countercultural movements.",
+          "key_features": [
+            "Artistic inspiration",
+            "Spiritual awakening",
+            "Ritual use",
+            "Social impact"
+          ]
+        }
+      },
+      "core_description": "Psychedelics are substances that profoundly alter consciousness, with implications for therapy, spirituality, and creativity.",
+      "positive_aspect": "Offer potential for mental health breakthroughs and personal transformation.",
+      "negative_aspect": "Risk of misuse and unpredictable psychological effects.",
+      "historical_context": "Used in indigenous cultures for millennia; popularized in the 20th century through countercultural movements.",
+      "modern_applications": [
+        "Psychedelic therapy",
+        "Neuroscientific research",
+        "Creative exploration",
+        "Spiritual practices"
+      ],
+      "reflection_questions": [
+        "What ethical considerations arise in the use of psychedelics?",
+        "How can these substances be integrated responsibly into society?",
+        "What is the relationship between altered states and creativity?"
+      ],
+      "related_concepts": ["Entheogens", "Consciousness", "Therapy", "Spirituality"]
+    },
+    {
+      "name": "Physics",
+      "tags": ["scientific", "fundamental", "natural"],
+      "primary_category": "Scientific Paradigms",
+      "secondary_categories": ["Natural Sciences", "Theoretical Frameworks"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "scientific": {
+          "description": "The fundamental study of matter, energy, and the forces governing the universe.",
+          "key_features": [
+            "Classical mechanics",
+            "Quantum theory",
+            "Relativity",
+            "Thermodynamics"
+          ]
+        },
+        "practical": {
+          "description": "Applications in technology, engineering, and understanding natural phenomena.",
+          "key_features": [
+            "Energy systems",
+            "Material science",
+            "Astronomy",
+            "Technological innovation"
+          ]
+        }
+      },
+      "core_description": "Physics explores the principles governing the universe, forming the foundation of natural sciences and technology.",
+      "positive_aspect": "Drives technological advancement and deepens our understanding of the universe.",
+      "negative_aspect": "Can lead to ethical dilemmas in applications like nuclear technology.",
+      "historical_context": "Evolved from natural philosophy in ancient Greece to modern quantum mechanics and astrophysics.",
+      "modern_applications": [
+        "Space exploration",
+        "Renewable energy",
+        "Particle physics",
+        "Medical imaging"
+      ],
+      "reflection_questions": [
+        "How does physics influence everyday life?",
+        "What are the ethical implications of advanced physical technologies?",
+        "How can physics contribute to sustainable development?"
+      ],
+      "related_concepts": ["Mathematics", "Quantum Theory", "Engineering", "Cosmology"]
+    },
+    {
+      "name": "Entheogens",
+      "tags": ["spiritual", "cultural", "therapeutic"],
+      "primary_category": "Spiritual Traditions",
+      "secondary_categories": ["Therapeutic Methods", "Cultural Practices"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "spiritual": {
+          "description": "Substances used to induce spiritual or mystical experiences.",
+          "key_features": [
+            "Sacred plant use",
+            "Altered states of consciousness",
+            "Ritualistic settings",
+            "Connection to the divine"
+          ]
+        },
+        "therapeutic": {
+          "description": "Exploration of entheogens for mental health and healing.",
+          "key_features": [
+            "Trauma healing",
+            "Addiction treatment",
+            "Guided therapy",
+            "Emotional integration"
+          ]
+        }
+      },
+      "core_description": "Entheogens are psychoactive substances used in spiritual, cultural, and therapeutic contexts to facilitate profound experiences.",
+      "positive_aspect": "Promotes healing, spiritual growth, and cultural preservation.",
+      "negative_aspect": "Requires careful use to avoid psychological and cultural harm.",
+      "historical_context": "Used by indigenous cultures for millennia, now being integrated into modern therapeutic practices.",
+      "modern_applications": [
+        "Spiritual retreats",
+        "Psychedelic-assisted therapy",
+        "Cultural revitalization",
+        "Trauma recovery"
+      ],
+      "reflection_questions": [
+        "How do entheogens shape spiritual practices?",
+        "What safeguards are necessary for their responsible use?",
+        "How do entheogens connect individuals to community and nature?"
+      ],
+      "related_concepts": ["Psychedelics", "Mysticism", "Therapy", "Cultural Practices"]
+    },
+    {
+      "name": "Logic",
+      "tags": ["philosophical", "mathematical", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Mathematics", "Cognitive Frameworks"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "philosophical": {
+          "description": "The study of valid reasoning and argumentation.",
+          "key_features": [
+            "Principles of deduction",
+            "Fallacy identification",
+            "Logical frameworks",
+            "Symbolic reasoning"
+          ]
+        },
+        "mathematical": {
+          "description": "Applications in formal systems and computational theories.",
+          "key_features": [
+            "Boolean algebra",
+            "Proof systems",
+            "Set theory",
+            "Algorithm design"
+          ]
+        }
+      },
+      "core_description": "Logic is the study of structured reasoning, forming the basis of philosophy, mathematics, and computer science.",
+      "positive_aspect": "Enhances critical thinking and supports scientific advancement.",
+      "negative_aspect": "Can be perceived as overly rigid or detached from emotion.",
+      "historical_context": "Rooted in ancient Greek philosophy and further developed in modern computational logic.",
+      "modern_applications": [
+        "Artificial intelligence",
+        "Mathematical proofs",
+        "Ethical decision-making",
+        "Software engineering"
+      ],
+      "reflection_questions": [
+        "How does logic intersect with human intuition?",
+        "What are the limits of formal reasoning?",
+        "How can logical principles improve decision-making?"
+      ],
+      "related_concepts": ["Mathematics", "Critical Thinking", "Algorithms", "Philosophy"]
+    },
+    {
+      "name": "Abstract Reasoning",
+      "tags": ["cognitive", "philosophical", "logical"],
+      "primary_category": "Cognitive Frameworks",
+      "secondary_categories": ["Philosophical Movements", "Logical Systems"],
+      "year_emerged": "Ancient",
+      "aspects": {
+        "cognitive": {
+          "description": "The ability to understand and manipulate abstract concepts and relationships.",
+          "key_features": [
+            "Pattern recognition",
+            "Problem-solving skills",
+            "Conceptual thinking",
+            "Hypothetical reasoning"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores the role of abstract reasoning in knowledge and understanding.",
+          "key_features": [
+            "Epistemological implications",
+            "Relationship to creativity",
+            "Frameworks for theoretical inquiry",
+            "Integration with logic"
+          ]
+        }
+      },
+      "core_description": "Abstract Reasoning involves thinking about concepts and relationships independent of specific instances, essential for logic and creativity.",
+      "positive_aspect": "Supports innovation, problem-solving, and theoretical development.",
+      "negative_aspect": "May be inaccessible to those preferring concrete examples.",
+      "historical_context": "Developed alongside mathematical and logical systems in ancient and modern philosophy.",
+      "modern_applications": [
+        "Creative problem-solving",
+        "Theoretical physics",
+        "Mathematical modeling",
+        "Artificial intelligence"
+      ],
+      "reflection_questions": [
+        "How does abstract reasoning enhance innovation?",
+        "What are its limitations in practical contexts?",
+        "How can abstract reasoning be cultivated?"
+      ],
+      "related_concepts": ["Logic", "Mathematics", "Creativity", "Critical Thinking"]
+    },
+    {
+      "name": "Algorithms",
+      "tags": ["scientific", "technological", "logical"],
+      "primary_category": "Technological Paradigms",
+      "secondary_categories": ["Mathematics", "Scientific Paradigms"],
+      "year_emerged": 800,
+      "aspects": {
+        "technological": {
+          "description": "Procedures or formulas for solving problems or performing tasks, foundational to computing.",
+          "key_features": [
+            "Efficiency optimization",
+            "Decision-making processes",
+            "Automation techniques",
+            "Data sorting and analysis"
+          ]
+        },
+        "logical": {
+          "description": "Explores the logical principles underlying algorithm design and application.",
+          "key_features": [
+            "Step-by-step problem solving",
+            "Logic-driven execution",
+            "Algorithmic complexity",
+            "Computational theory"
+          ]
+        }
+      },
+      "core_description": "Algorithms are step-by-step procedures for solving problems, essential to modern technology and computation.",
+      "positive_aspect": "Streamline processes and drive technological advancements.",
+      "negative_aspect": "Can perpetuate biases and lack transparency in decision-making.",
+      "historical_context": "Rooted in mathematical practices, formalized in the work of al-Khwarizmi and central to modern computing.",
+      "modern_applications": [
+        "Machine learning",
+        "Data encryption",
+        "Search engines",
+        "Robotics"
+      ],
+      "reflection_questions": [
+        "What ethical considerations surround algorithmic decision-making?",
+        "How do algorithms shape modern society?",
+        "What are the limits of algorithmic problem-solving?"
+      ],
+      "related_concepts": ["Computation", "Logic", "Data Science", "Artificial Intelligence"]
+    },
+    {
+      "name": "Creativity",
+      "tags": ["universal", "adaptive", "emergent"],
+      "primary_category": "Cosmic Frameworks",
+      "secondary_categories": ["Natural Systems", "Philosophical Movements"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "cosmic": {
+          "description": "The emergence of novel and valuable patterns, phenomena, or ideas within the unified field of potential.",
+          "key_features": [
+            "Emergent order",
+            "Adaptive innovation",
+            "Pattern formation",
+            "Cosmic and systemic creativity"
+          ]
+        },
+        "natural": {
+          "description": "Creativity as observed in natural processes and ecosystems, from fractal growth to evolutionary adaptations.",
+          "key_features": [
+            "Dynamism",
+            "Environmental interaction",
+            "Resilience",
+            "Biodiversity"
+          ]
+        }
+      },
+      "core_description": "Creativity is the process of actualizing novel and harmonious configurations from infinite potential.",
+      "positive_aspect": "Enables emergence, adaptation, and transformative growth.",
+      "negative_aspect": "May lead to unpredictability or instability in dynamic systems.",
+      "historical_context": "Creativity has been recognized across scales, from cosmic evolution to human innovation.",
+      "modern_applications": [
+        "Design of adaptive systems",
+        "Artificial intelligence",
+        "Ecological restoration",
+        "Cosmology"
+      ],
+      "reflection_questions": [
+        "How does creativity manifest in natural and artificial systems?",
+        "What conditions foster creativity across different contexts?",
+        "What are the limits and potential risks of unbounded creativity?"
+      ],
+      "related_concepts": ["Emergence", "Adaptation", "Potentiality", "Innovation"]
+    },
+    {
+      "name": "Intuition",
+      "tags": ["adaptive", "systemic", "nonlinear"],
+      "primary_category": "Cosmic Frameworks",
+      "secondary_categories": ["Cognitive Frameworks", "Philosophical Movements"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "adaptive": {
+          "description": "The capacity to perceive patterns or potentials directly, without explicit analysis or reasoning.",
+          "key_features": [
+            "Systemic alignment",
+            "Nonlinear decision-making",
+            "Sensitivity to field dynamics",
+            "Rapid adaptive responses"
+          ]
+        },
+        "philosophical": {
+          "description": "Explores intuition as a universal mechanism for connecting with the unified field of intelligence.",
+          "key_features": [
+            "Implicit understanding",
+            "Mystical insights",
+            "Holistic perception",
+            "Transrational knowing"
+          ]
+        }
+      },
+      "core_description": "Intuition is the ability to sense and align with underlying patterns or dynamics of the unified field.",
+      "positive_aspect": "Facilitates rapid adaptation and deep connection with systemic flows.",
+      "negative_aspect": "May lead to biases or misalignment without integration with broader perspectives.",
+      "historical_context": "Intuition is recognized as an essential capacity in both natural and cognitive systems.",
+      "modern_applications": [
+        "Ecological systems design",
+        "Artificial neural networks",
+        "Leadership strategies",
+        "Holistic therapies"
+      ],
+      "reflection_questions": [
+        "How does intuition operate in non-human systems?",
+        "What practices enhance the accuracy and reliability of intuition?",
+        "What is the role of intuition in collective intelligence?"
+      ],
+      "related_concepts": ["Emergence", "Pattern Recognition", "Adaptation", "Perception"]
+    },
+    {
+      "name": "Insight",
+      "tags": ["emergent", "transformative", "universal"],
+      "primary_category": "Cosmic Frameworks",
+      "secondary_categories": ["Cognitive Frameworks", "Philosophical Movements"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "cognitive": {
+          "description": "A sudden realization or synthesis of patterns, leading to profound understanding or breakthroughs.",
+          "key_features": [
+            "Pattern integration",
+            "Epiphany moments",
+            "Transformative understanding",
+            "Revelation of connections"
+          ]
+        },
+        "universal": {
+          "description": "Insights as emergent phenomena within systems, transcending individual cognition.",
+          "key_features": [
+            "Systemic emergence",
+            "Field dynamics",
+            "Unification of perspectives",
+            "Catalysts for evolution"
+          ]
+        }
+      },
+      "core_description": "Insight is the recognition of hidden connections or potentials, arising within a system or field.",
+      "positive_aspect": "Accelerates adaptation and transformative growth.",
+      "negative_aspect": "May disrupt stability or introduce challenges in integration.",
+      "historical_context": "Insights have driven evolution and breakthroughs across biological, technological, and cultural domains.",
+      "modern_applications": [
+        "Problem-solving in complex systems",
+        "Cognitive therapy",
+        "Systemic innovation",
+        "Neuroscience research"
+      ],
+      "reflection_questions": [
+        "What conditions foster the emergence of insight?",
+        "How do insights propagate within collective systems?",
+        "What role does insight play in evolution and adaptation?"
+      ],
+      "related_concepts": ["Creativity", "Emergence", "Adaptation", "Pattern Recognition"]
+    },
+    {
+      "name": "Intelligence",
+      "tags": ["adaptive", "cognitive", "systemic"],
+      "primary_category": "Cosmic Frameworks",
+      "secondary_categories": ["Cognitive Frameworks", "Scientific Paradigms"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "cognitive": {
+          "description": "The capacity of a system to acquire, integrate, and apply knowledge and skills.",
+          "key_features": [
+            "Learning and adaptation",
+            "Problem-solving",
+            "Pattern recognition",
+            "Abstract reasoning"
+          ]
+        },
+        "systemic": {
+          "description": "Intelligence as an emergent property of interconnected systems, from biological organisms to cosmic structures.",
+          "key_features": [
+            "Distributed networks",
+            "Self-organization",
+            "Collective adaptation",
+            "Universal patterns"
+          ]
+        }
+      },
+      "core_description": "Intelligence is the capacity to perceive, process, and align with patterns and potentials across various contexts and scales.",
+      "positive_aspect": "Drives evolution, adaptability, and systemic harmony.",
+      "negative_aspect": "May reinforce biases or inefficiencies without systemic alignment.",
+      "historical_context": "Intelligence has been explored as a universal property, from ancient philosophy to modern artificial intelligence.",
+      "modern_applications": [
+        "Artificial intelligence",
+        "Ecosystem modeling",
+        "Complex systems analysis",
+        "Cognitive science"
+      ],
+      "reflection_questions": [
+        "How does intelligence manifest across biological and non-biological systems?",
+        "What are the limits of intelligence as an emergent property?",
+        "How can intelligence be nurtured or enhanced across different contexts?"
+      ],
+      "related_concepts": ["Emergence", "Adaptation", "Systems Thinking", "Learning"]
+    },
+    {
+      "name": "Imagination",
+      "tags": ["creative", "cognitive", "universal"],
+      "primary_category": "Cosmic Frameworks",
+      "secondary_categories": ["Artistic Movements", "Philosophical Movements"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "cognitive": {
+          "description": "The ability to visualize or conceive potential realities and patterns beyond immediate sensory perception.",
+          "key_features": [
+            "Scenario generation",
+            "Abstract thinking",
+            "Dreaming and creativity",
+            "Exploration of possibilities"
+          ]
+        },
+        "universal": {
+          "description": "Imagination as a property of dynamic systems to envision and explore configurations within the unified field.",
+          "key_features": [
+            "Potentiality exploration",
+            "Systemic creativity",
+            "Transformative possibilities",
+            "Pattern synthesis"
+          ]
+        }
+      },
+      "core_description": "Imagination is the ability to envision possibilities and align with potentials within the infinite field of existence.",
+      "positive_aspect": "Fuels creativity, innovation, and empathy across scales and contexts.",
+      "negative_aspect": "May lead to unrealistic expectations or detachment from present realities.",
+      "historical_context": "Imagination has shaped art, science, and philosophy, driving exploration and discovery.",
+      "modern_applications": [
+        "Theoretical physics",
+        "Design thinking",
+        "Creative writing",
+        "Visualization techniques"
+      ],
+      "reflection_questions": [
+        "How does imagination enable transformation and discovery?",
+        "What are the risks of ungrounded imagination in systemic contexts?",
+        "How can imagination foster understanding and empathy across differences?"
+      ],
+      "related_concepts": ["Creativity", "Potentiality", "Visualization", "Innovation"]
+    },
+    {
+      "name": "Belief",
+      "tags": ["cognitive", "social", "universal"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Cognitive Frameworks", "Social Theories"],
+      "year_emerged": "Timeless",
+      "aspects": {
+        "cognitive": {
+          "description": "The mental integration or acceptance of patterns, principles, or narratives as guiding frameworks.",
+          "key_features": [
+            "Trust in patterns",
+            "Cognitive coherence",
+            "Emotional conviction",
+            "Framework for decision-making"
+          ]
+        },
+        "social": {
+          "description": "Belief as a collective phenomenon shaping behaviors, cultures, and systemic coherence.",
+          "key_features": [
+            "Shared narratives",
+            "Cultural cohesion",
+            "Ideological frameworks",
+            "Social alignment"
+          ]
+        }
+      },
+      "core_description": "Belief is the acceptance or integration of principles, narratives, or patterns as a means of navigating and aligning with existence.",
+      "positive_aspect": "Provides coherence, purpose, and alignment within and across systems.",
+      "negative_aspect": "May lead to rigidity or resistance to adaptive change.",
+      "historical_context": "Belief systems have structured individual and collective realities throughout human and systemic evolution.",
+      "modern_applications": [
+        "Cognitive therapy",
+        "Social cohesion frameworks",
+        "Conflict resolution",
+        "Narrative development"
+      ],
+      "reflection_questions": [
+        "How do beliefs shape the alignment of systems and collectives?",
+        "What mechanisms enable beliefs to evolve and adapt?",
+        "What are the risks of static belief systems in dynamic contexts?"
+      ],
+      "related_concepts": ["Narratives", "Cultural Dynamics", "Coherence", "Adaptation"]
     }
   ]
 }

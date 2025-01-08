@@ -46,19 +46,25 @@
     searchQuery = detail.query;
   }
 
-  // Sorting functions
-  function sortConcepts(concepts, sortMethod = currentSortMethod) {
-    switch (sortMethod) {
-      case 'alphabetical':
-        return [...concepts].sort((a, b) => a.name.localeCompare(b.name));
-      case 'chronological':
-        return [...concepts].sort((a, b) => 
-          (a.year_emerged || 9999) - (b.year_emerged || 9999)
-        );
-      default:
-        return concepts;
-    }
+  function normalizeYear(year) {
+      if (year === "Ancient") return -Infinity;
+      if (year === "Prehistoric") return -Infinity; // Handle other similar cases
+      return year || 9999; // Default for undefined years
   }
+
+  function sortConcepts(concepts, sortMethod = currentSortMethod) {
+      switch (sortMethod) {
+          case 'alphabetical':
+              return [...concepts].sort((a, b) => a.name.localeCompare(b.name));
+          case 'chronological':
+              return [...concepts].sort((a, b) => normalizeYear(a.year_emerged) - normalizeYear(b.year_emerged));
+          default:
+              return concepts;
+      }
+  }
+
+
+
 
   function filterConcepts({ tags, categories }) {
     activeFilters = { tags, categories };

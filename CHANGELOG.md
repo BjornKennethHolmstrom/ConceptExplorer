@@ -2,10 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.0] - 2025-01-08
+
+### Added
+- Interactive Games section with "Guess the Concept" game
+- About page with creator bio and related projects
+- Site-wide navigation header
+- Links to creator's other projects and initiatives
+- Concept censoring in game questions for better gameplay
+
+### Enhanced
+- Improved site navigation with consistent header
+- Better project structure with dedicated routes
+- Updated layout for better user experience
+
 ## [0.2.0] - 2025-01-05
 
 ### Added
-- Extensive concept library with over 30 political ideologies and philosophical systems
+- Extensive concept library with over 100 political ideologies and philosophical systems
 - Search functionality with autocomplete suggestions
 - Collapsible category groups for better navigation
 - Chronological and alphabetical sorting options

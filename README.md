@@ -4,21 +4,34 @@ A web application designed to explore various concepts, including political ideo
 
 ## Features
 
-- **Rich Concept Library**: Extensive collection of concepts from politics, philosophy, spirituality, and more
+- **Rich Concept Library**: 
+  - Extensive collection of concepts from politics, philosophy, spirituality, and more
+  - Detailed information about each concept's aspects and applications
+  - Historical context and modern relevance
+
 - **Multi-faceted Exploration**: 
   - Category and tag-based browsing
   - Chronological or alphabetical sorting
   - Full-text search with suggestions
   - Collapsible category groups
+
 - **Interactive Cards**: 
   - Expandable concept cards with detailed information
   - Color-coded sections for different aspects
   - Related concepts navigation
   - Historical context and modern applications
+
+- **Interactive Games**:
+  - "Guess the Concept" game for testing knowledge
+  - Intelligent concept censoring in questions
+  - Score tracking and hints system
+  - More game modes coming soon
+
 - **Responsive Design**: 
   - Optimized for both desktop and mobile
   - Efficient use of screen space
   - Smooth transitions and animations
+  - Consistent navigation header
 
 ## Technologies Used
 
@@ -61,6 +74,7 @@ A web application designed to explore various concepts, including political ideo
 ## Usage
 
 - **Browse Concepts**: Navigate through categories or use the search function
+- **Play Games**: Test your knowledge with interactive concept games
 - **Explore Details**: Click on concept cards to view comprehensive information
 - **Filter Content**: Use tags and categories to focus on specific areas
 - **Sort Options**: Choose between chronological or alphabetical ordering
@@ -75,6 +89,9 @@ src/
 │   ├── stores/        # State management
 │   └── types/         # TypeScript definitions
 ├── routes/           # SvelteKit routes
+│   ├── about/        # About page
+│   ├── games/        # Games section
+│   └── +page.svelte  # Main concept explorer
 └── app.css          # Global styles
 ```
 
@@ -92,6 +109,7 @@ Contributions are welcome! Whether it's adding new concepts, improving the UI, o
 ### Areas for Contribution
 
 - Adding new concepts
+- Creating new game modes
 - Improving concept descriptions
 - Enhancing UI/UX
 - Adding new features

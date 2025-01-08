@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="faith-for-peace-heart-with-rays.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4"
+     inkscape:cx="56.5"
+     inkscape:cy="60.75"
+     inkscape:window-width="2520"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <!-- Black circular background -->
+  <circle
+     cx="50"
+     cy="50"
+     r="48"
+     fill="black"
+     id="circle1" />
+  <!-- Light rays (behind the heart) -->
+  <path
+     d="M 50,50 14.017748,18.194097 c 1.728938,-1.862141 3.482919,-3.690891 5.386486,-5.320193 l 30.413785,36.954523 z"
+     id="path1"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 50.271643,49.791044 84.361225,16.474599 C 82.608414,14.56153 80.487041,12.885393 78.35226,11.217876 L 50.447772,49.967174 Z"
+     id="path2"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 50,50 15.487204,83.441087 c 1.89712,1.854621 3.857409,3.661866 6.104641,5.253903 L 49.641243,49.818019 Z"
+     id="path3"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M50 75            C50 75 25 55 25 40            C25 32 31 25 40 25            C45 25 48 28 50 32            C52 28 55 25 60 25            C69 25 75 32 75 40            C75 55 50 75 50 75Z"
+     fill="white"
+     id="path9" />
+  <path
+     d="m 50,50 35.555331,32.273089 c -1.456288,1.632976 -3.037115,3.104051 -4.690083,4.481344 L 49.955083,49.926714 Z"
+     id="path4"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="M 50.118203,48.58156 54.974987,2.2518855 C 52.217165,1.9474063 49.302626,1.8720714 46.419431,2.1242259 l 3.653855,46.5306201 z"
+     id="path5"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 50,50 47.817637,4.227504 c 0.301185,-2.409191 0.19168,-6.225094 0.02679,-8.514015 l -47.799514,4.241594 z"
+     id="path6"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <!-- White heart (on top of rays) -->
+  <path
+     d="m 50,50 -3.659447,47.850845 c 2.140037,0.221135 6.33898,0.211639 8.505962,-0.09326 z"
+     id="path7"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 50,50 1.9785534,45.62868 c -0.011595,2.873979 -0.029086,5.750317 0.1620717,8.543195 L 49.65165,49.994796 Z"
+     id="path8"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+</svg>
