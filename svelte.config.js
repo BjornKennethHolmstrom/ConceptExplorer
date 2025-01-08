@@ -2,6 +2,8 @@ import { mdsvex } from 'mdsvex';
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
+const dev = process.env.NODE_ENV !== 'production';
+
 const config = {
   extensions: ['.svelte', '.svx'],
 
@@ -11,10 +13,17 @@ const config = {
       strict: false // Disable strict mode
     }),
     paths: {
-      base: process.env.NODE_ENV === 'production' ? '/ConceptExplorer' : ''
+      base: dev ? '' : '/ConceptExplorer'
     },
     prerender: {
-      entries: ['*'] // Pre-render all routes
+      handleHttpError: ({ path, referrer, message }) => {
+        // Ignore specific paths if needed
+        if (path === '/ConceptExplorer/' || path === '/') return;
+        
+        // Otherwise throw the error
+        throw new Error(message);
+      },
+      entries: ['*']
     }
   },
 
@@ -27,4 +36,3 @@ const config = {
 };
 
 export default config;
-
