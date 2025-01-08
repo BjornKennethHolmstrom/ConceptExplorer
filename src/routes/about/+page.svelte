@@ -7,25 +7,25 @@
       name: "Spiralize",
       description: "A site showcasing Spiral Dynamics with an assessment quiz to help people understand their developmental stage and worldview.",
       url: "https://www.spiralize.org",
-      logo: "/project-logos/spiralize.svg" // You'll provide these images
+      logo: `${base}/project-logos/spiralize.svg` // Use template literals for dynamic base resolution
     },
     {
       name: "TiTo",
       description: "An easy to use time tracking tool for multiple projects with report generation.",
       url: "https://bjornkennethholmstrom.github.io/TiTo",
-      logo: "/project-logos/tito.svg"
+      logo: `${base}/project-logos/tito.svg`
     },
     {
       name: "Peace Project",
       description: "An ambitious initiative with the goal of ending the world's armed conflicts through systematic approaches and collaborative solutions.",
       url: "https://bjornkennethholmstrom.github.io/peace",
-      logo: "/project-logos/peace.svg"
+      logo: `${base}/project-logos/peace.svg`
     },
     {
       name: "Faith for Peace",
       description: "A platform dedicated to uniting faiths and beliefs for a peaceful world, fostering interfaith dialogue and understanding.",
       url: "https://bjornkennethholmstrom.github.io/faith-for-peace",
-      logo: "/project-logos/faith-for-peace.svg"
+      logo: `${base}/project-logos/faith-for-peace.svg`
     },
     {
       name: "Unity Beyond the Known",
