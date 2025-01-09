@@ -26,16 +26,31 @@
   function getSuggestions(query) {
     if (!query.trim()) return [];
     const searchTerms = query.toLowerCase().split(' ').filter(Boolean);
-    
-    // Get matching concepts
-    const matchingConcepts = concepts.filter(concept => {
+
+    // Get exact matches first
+    const exactMatches = concepts.filter(concept =>
+      concept.name.toLowerCase() === query.toLowerCase()
+    );
+
+    // Get partial matches for concept names
+    const partialNameMatches = concepts.filter(concept =>
+      concept.name.toLowerCase().includes(query.toLowerCase()) &&
+      !exactMatches.includes(concept)
+    );
+
+    // Get other matching concepts based on tags and categories
+    const otherMatches = concepts.filter(concept => {
       const searchableText = [
         concept.name,
         ...concept.tags,
         concept.primary_category
       ].join(' ').toLowerCase();
-      
-      return searchTerms.every(term => searchableText.includes(term));
+
+      return (
+        searchTerms.every(term => searchableText.includes(term)) &&
+        !exactMatches.includes(concept) &&
+        !partialNameMatches.includes(concept)
+      );
     });
 
     // Get matching tags
@@ -44,8 +59,19 @@
       tag.toLowerCase().includes(query.toLowerCase())
     );
 
+    // Combine results with exact matches at the top
     return [
-      ...matchingConcepts.map(c => ({
+      ...exactMatches.map(c => ({
+        type: 'concept',
+        text: c.name,
+        category: c.primary_category
+      })),
+      ...partialNameMatches.map(c => ({
+        type: 'concept',
+        text: c.name,
+        category: c.primary_category
+      })),
+      ...otherMatches.map(c => ({
         type: 'concept',
         text: c.name,
         category: c.primary_category
