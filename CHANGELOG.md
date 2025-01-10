@@ -2,10 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.3.0] - 2025-01-08
+## [0.3.0] - 2025-01-08 - 2025-01-10
 
 ### Added
-- Interactive Games section with "Guess the Concept" game
+- Interactive Games section with "Guess the Concept", "Speed Match" and "Daily Challenge" games
 - About page with creator bio and related projects
 - Site-wide navigation header
 - Links to creator's other projects and initiatives

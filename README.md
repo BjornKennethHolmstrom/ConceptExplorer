@@ -22,7 +22,7 @@ A web application designed to explore various concepts, including political ideo
   - Historical context and modern applications
 
 - **Interactive Games**:
-  - "Guess the Concept" game for testing knowledge
+  - "Guess the Concept", "Speed Match" and "Daily Challenge" games for testing knowledge
   - Intelligent concept censoring in questions
   - Score tracking and hints system
   - More game modes coming soon

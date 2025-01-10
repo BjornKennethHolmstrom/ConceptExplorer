@@ -1,6 +1,8 @@
 <script>
   import { messages } from '$lib/stores/messages.js';
   import GuessTheConceptGame from '$lib/components/GuessTheConceptGame.svelte';
+  import SpeedMatchGame from '$lib/components/SpeedMatchGame.svelte';
+  import DailyChainGame from '$lib/components/DailyChainGame.svelte';
   import { GamepadIcon, Brain, Clock, Trophy } from 'lucide-svelte';
   
   let selectedMode = 'guess'; // Default game mode
@@ -18,14 +20,14 @@
       name: 'Speed Match',
       description: 'Race against time to match related concepts.',
       icon: Clock,
-      comingSoon: true
+      comingSoon: false
     },
     {
       id: 'challenge',
       name: 'Daily Challenge',
       description: 'A new set of concept puzzles every day.',
       icon: Trophy,
-      comingSoon: true
+      comingSoon: false
     }
   ];
 </script>
@@ -75,15 +77,9 @@
       {#if selectedMode === 'guess'}
         <GuessTheConceptGame concepts={$messages.concepts ?? []} />
       {:else if selectedMode === 'speed'}
-        <div class="bg-white rounded-lg shadow-md p-8 text-center">
-          <h2 class="text-xl font-semibold text-gray-700 mb-2">Coming Soon!</h2>
-          <p class="text-gray-600">This game mode is currently in development.</p>
-        </div>
+        <SpeedMatchGame concepts={$messages.concepts ?? []} />
       {:else if selectedMode === 'challenge'}
-        <div class="bg-white rounded-lg shadow-md p-8 text-center">
-          <h2 class="text-xl font-semibold text-gray-700 mb-2">Coming Soon!</h2>
-          <p class="text-gray-600">Daily challenges will be available soon!</p>
-        </div>
+        <DailyChainGame concepts={$messages.concepts ?? []} />
       {/if}
     </div>
   </div>
