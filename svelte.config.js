@@ -19,9 +19,12 @@ const config = {
     },
     prerender: {
       handleHttpError: ({ path, referrer, message }) => {
-        // Ignore missing social preview images
-        if (path.includes('.png') || path.includes('.svg')) {
-          console.warn(`Warning: Missing asset ${path}`);
+        // Ignore missing assets during prerendering
+        if (path.includes('.png') || 
+            path.includes('.svg') || 
+            path.includes('manifest.json') || 
+            path.includes('/icons/')) {
+          console.warn(`Warning: Missing asset during prerendering: ${path}`);
           return;
         }
         throw new Error(message);
