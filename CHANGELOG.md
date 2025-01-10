@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.1] - 2025-01-11
+
+### Added
+- Feedback page
+
 ## [0.3.0] - 2025-01-08 - 2025-01-10
 
 ### Added

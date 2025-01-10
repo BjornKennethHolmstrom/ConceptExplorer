@@ -2,11 +2,12 @@
   import '../app.css';
   import { page } from '$app/stores';
   import { base } from '$app/paths';
-  import { Library, GamepadIcon, Info } from 'lucide-svelte';
+  import { Library, GamepadIcon, Info, MessageSquare } from 'lucide-svelte';
 
   const navItems = [
     { href: `${base}/`, label: 'Browse', icon: Library },
     { href: `${base}/games`, label: 'Games', icon: GamepadIcon },
+    { href: `${base}/feedback`, label: 'Feedback', icon: MessageSquare },
     { href: `${base}/about`, label: 'About', icon: Info }
   ];
 </script>
