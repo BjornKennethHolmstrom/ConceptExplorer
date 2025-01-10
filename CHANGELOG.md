@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - Site-wide navigation header
 - Links to creator's other projects and initiatives
 - Concept censoring in game questions for better gameplay
+- Icon
 
 ### Enhanced
 - Improved site navigation with consistent header
