@@ -41,6 +41,15 @@
     });
   }
 
+  function handleConceptSelect(conceptName) {
+    searchQuery = conceptName;
+    currentConceptName.set(conceptName);
+  }
+
+  function handleConceptNavigation(event) {
+    searchQuery = event.detail.conceptName;
+  }
+
   // Handle search
   function handleSearch({ detail }) {
     searchQuery = detail.query;
@@ -177,6 +186,7 @@
             value={searchQuery}
             concepts={$messages.concepts ?? []}
             on:search={handleSearch}
+            onSelect={handleConceptSelect}
             placeholder="Search concepts by name, description, tags..."
           />
           {#if showTip}
@@ -207,7 +217,10 @@
         {#if finalConcepts.length > 0}
           <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
             {#each finalConcepts as concept (concept.name)}
-              <ConceptCard {concept} />
+              <ConceptCard 
+                {concept}
+                on:navigate={handleConceptNavigation}
+              />
             {/each}
           </div>
         {:else}

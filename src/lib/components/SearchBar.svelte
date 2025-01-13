@@ -8,7 +8,8 @@
   export let placeholder = "Search concepts...";
   export let value = "";
   export let concepts = [];
-  
+  export let onSelect = () => {};
+
   let showSuggestions = false;
   let selectedIndex = -1;
   let inputElement;
@@ -104,6 +105,7 @@
       value = suggestion.text;
     }
     dispatch('search', { query: value });
+    onSelect(suggestion.text);
     showSuggestions = false;
   }
 

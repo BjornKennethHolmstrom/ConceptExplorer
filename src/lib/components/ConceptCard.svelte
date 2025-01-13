@@ -12,6 +12,9 @@
   } from 'lucide-svelte';
   import RelatedConcepts from './RelatedConcepts.svelte';
   import { currentConceptName } from '../stores/conceptStore';
+  import { createEventDispatcher } from 'svelte';
+
+  const dispatch = createEventDispatcher();
 
   export let concept = {
     name: "Unknown Concept",
@@ -177,6 +180,8 @@
           relatedConcepts={concept.related_concepts}
           onNavigate={(conceptName) => {
             currentConceptName.set(conceptName);
+            dispatch('navigate', { conceptName });
+            isExpanded = true;
           }}
         />
       </div>

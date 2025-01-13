@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.2] - 2025-01-13
+
+### Added
+- A few new concepts
+
+### Enhanced
+- Clicking a related concept now replaces the text in the search bar
+
 ## [0.3.1] - 2025-01-11
 
 ### Added
