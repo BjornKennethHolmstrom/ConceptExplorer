@@ -53,6 +53,7 @@
 [x] Emergence
 [x] Empiricism
 [x] Energy
+[x] Enlightenment Period
 [x] Entheogens
 [x] Entropy
 [x] Environmentalism
@@ -65,6 +66,7 @@
 [x] Fascism
 [x] Federalism
 [x] Feminism
+[x] Feudalism
 [x] Flow State
 [x] Futurism
 [x] Futurology
@@ -80,6 +82,7 @@
 [x] Imagination
 [x] Imperialism
 [x] Individualism
+[x] Industrialism
 [x] Information Theory
 [x] Integral Theory
 [x] Intelligence
@@ -98,6 +101,7 @@
 [x] Metamodernism
 [x] Metaphysics
 [x] Mindfulness
+[x] Modernism
 [x] Monarchism
 [x] Monism
 [x] Moral Relativism
@@ -140,6 +144,7 @@
 [x] Regenerative Design
 [x] Relativism
 [x] Relativity Theory
+[x] Renaissance
 [x] Romanticism
 [x] Quantum Theory
 [x] Sacred Geometry
