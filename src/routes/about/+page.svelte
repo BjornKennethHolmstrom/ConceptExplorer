@@ -67,13 +67,13 @@
 
         <div class="flex flex-col sm:flex-row gap-4">
           <a 
-            href="https://bjornkennethholmstrom.wordpress.com/"
+            href="https://bjornkennethholmstrom.org/"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-2 text-blue-600 hover:text-blue-700"
           >
             <BookOpen size={16} />
-            Visit his blog
+            Visit his website and blog
             <ExternalLink size={14} />
           </a>
         </div>

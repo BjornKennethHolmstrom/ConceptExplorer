@@ -1,6 +1,104 @@
 {
   "concepts": [
     {
+      "name": "Contextualism",
+      "tags": ["philosophical", "epistemological", "ethical", "methodological"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Ethical Systems", "Methodological Frameworks"],
+      "year_emerged": 1950,
+      "aspects": {
+        "philosophical": {
+          "description": "A philosophical approach asserting that knowledge, truth, and meaning are fundamentally dependent on the specific context in which they are considered.",
+          "key_features": [
+            "Truth as context-dependent",
+            "Rejection of universal absolutes",
+            "Emphasis on specific circumstances",
+            "Knowledge as framework-relative"
+          ]
+        },
+        "ethical": {
+          "description": "An ethical framework where the morality of an action is judged based on the situation rather than universal rules.",
+          "key_features": [
+            "Situational ethics",
+            "Moral reasoning based on context",
+            "Case-by-case analysis",
+            "Rejection of rigid deontology"
+          ]
+        },
+        "linguistic": {
+          "description": "The view that the meaning of language is determined by its use within a specific 'language-game' or social context.",
+          "key_features": [
+            "Meaning as use",
+            "Pragmatics",
+            "Social construction of meaning",
+            "Dependence on circumstance"
+          ]
+        }
+      },
+      "core_description": "A philosophical approach asserting that the meaning, truth, or value of statements, beliefs, or actions is dependent on their specific context or framework.",
+      "positive_aspect": "Promotes nuanced understanding, avoids rigid dogmatism, and encourages consideration of specific circumstances.",
+      "negative_aspect": "Can be criticized for leading to relativism, lacking universal principles, or making truth seem unstable.",
+      "historical_context": "While its roots are ancient (e.g., Sophists), modern contextualism emerged in 20th-century epistemology, philosophy of language (Wittgenstein), and ethical theory.",
+      "modern_applications": [
+        "Legal interpretation (case law)",
+        "Ethical decision-making (situational ethics)",
+        "Artificial intelligence (context-aware systems)",
+        "Linguistic analysis",
+        "Cultural anthropology"
+      ],
+      "reflection_questions": [
+        "How do we determine the boundaries of a 'context'?",
+        "Can we have objective truth if all knowledge is contextual?",
+        "When is it appropriate to apply a universal rule versus a context-specific one?"
+      ],
+      "related_concepts": ["Relativism", "Pragmatism", "Postmodernism", "Moral Relativism", "Epistemological Humility"]
+    },
+    {
+      "name": "Epistemological Humility",
+      "tags": ["philosophical", "epistemological", "methodological", "intellectual"],
+      "primary_category": "Philosophical Movements",
+      "secondary_categories": ["Epistemology", "Methodological Frameworks", "Scientific Methods"],
+      "year_emerged": -400,
+      "aspects": {
+        "philosophical": {
+          "description": "An intellectual stance that acknowledges the inherent limitations of human knowledge and the fallibility of one's own beliefs and reasoning.",
+          "key_features": [
+            "Recognition of knowledge limits",
+            "Awareness of cognitive biases",
+            "Skepticism toward certainty",
+            "Valuing 'I don't know'"
+          ]
+        },
+        "practical": {
+          "description": "Applying an awareness of one's limitations to daily life, dialogue, and inquiry, leading to greater openness and learning.",
+          "key_features": [
+            "Openness to new evidence",
+            "Intellectual curiosity",
+            "Collaborative inquiry",
+            "Reduced dogmatism",
+            "Active listening"
+          ]
+        }
+      },
+      "core_description": "An intellectual virtue characterized by a humble recognition of the fundamental limits of human knowledge and the fallibility of one's own beliefs.",
+      "positive_aspect": "Fosters intellectual openness, curiosity, reduces dogmatism, and enables more effective collaboration and learning.",
+      "negative_aspect": "Can be misinterpreted as a lack of conviction, or lead to intellectual passivity or indecisiveness if taken to an extreme.",
+      "historical_context": "Expressed in ancient philosophies (e.g., Socratic paradox 'I know that I know nothing'), and a core principle in the Scientific Method (falsifiability) and critical rationalism (Karl Popper).",
+      "modern_applications": [
+        "Scientific research (hypothesis testing)",
+        "Critical thinking education",
+        "Conflict resolution and mediation",
+        "Personal development",
+        "Evidence-based policy"
+      ],
+      "reflection_questions": [
+        "How can one be confident in a decision while remaining epistemologically humble?",
+        "What's the difference between epistemological humility and simple skepticism or relativism?",
+        "What daily practices can help cultivate this form of humility?"
+      ],
+      "related_concepts": ["Skepticism", "Scientific Method", "Critical Inquiry", "Contextualism", "Fallibilism", "Open-mindedness"]
+    },
+    {
       "name": "Nondualism",
       "tags": ["philosophical", "spiritual", "metaphysical"],
       "primary_category": "Philosophical Movements",
